@@ -3,15 +3,15 @@
   <channel>
     <title>RLMS codebooks as html and in google translated</title>
     <description>Another site with data analysis</description>
-    <link>http://muuankarski.github.io/csv-codebook/</link>
-    <atom:link href="http://muuankarski.github.io/csv-codebook/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://muuankarski.github.io/csv-codebook//</link>
+    <atom:link href="http://muuankarski.github.io/csv-codebook//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Individual round 22</title>
         <description></description>
         <pubDate>Thu, 20 Nov 2014 08:23:45 +0200</pubDate>
-        <link>http://muuankarski.github.io/csv-codebook/rlms/2014/11/20/rlms-individual-22.html</link>
-        <guid isPermaLink="true">http://muuankarski.github.io/csv-codebook/rlms/2014/11/20/rlms-individual-22.html</guid>
+        <link>http://muuankarski.github.io/csv-codebook//rlms/2014/11/20/rlms-individual-22.html</link>
+        <guid isPermaLink="true">http://muuankarski.github.io/csv-codebook//rlms/2014/11/20/rlms-individual-22.html</guid>
       </item>
     
       <item>
@@ -7766,8 +7766,8 @@
 &lt;/tbody&gt;&lt;/table&gt;
 </description>
         <pubDate>Thu, 20 Nov 2014 08:23:45 +0200</pubDate>
-        <link>http://muuankarski.github.io/csv-codebook/rlms/2014/11/20/rlms-household-22.html</link>
-        <guid isPermaLink="true">http://muuankarski.github.io/csv-codebook/rlms/2014/11/20/rlms-household-22.html</guid>
+        <link>http://muuankarski.github.io/csv-codebook//rlms/2014/11/20/rlms-household-22.html</link>
+        <guid isPermaLink="true">http://muuankarski.github.io/csv-codebook//rlms/2014/11/20/rlms-household-22.html</guid>
       </item>
     
   </channel>

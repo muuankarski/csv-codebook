@@ -2,8 +2,8 @@
 title: RLMS codebooks as html and in google translated
 email: markuskainu@gmail.com
 description: "Another site with data analysis"
-baseurl: ""
-url: "http://muuankarski.github.io/csv-codebook"
+baseurl: "http://muuankarski.github.io/csv-codebook/"
+url: "http://muuankarski.github.io/csv-codebook/"
 
 # Build settings
 markdown: redcarpet
