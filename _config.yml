@@ -2,7 +2,7 @@
 title: Interactive codebooks for some datasets
 email: markuskainu@gmail.com
 description: "Another site with data analysis"
-baseurl: ""
+baseurl: "http://muuankarski.github.io/csv-codebook"
 url: "http://muuankarski.github.io/csv-codebook"
 
 # Build settings
