@@ -7,6 +7,10 @@ output:
 layout: default
 ---
 
+- [Takaisin etusivulle](http://muuankarski.github.io/csv-codebook/)
+
+---
+
 Datat tulee täältä: <http://obdx.gks.ru/>
 
 Markuksen tilapäinen data-arkisto: http://koti.kapsi.fi/~muuankarski/obdx/

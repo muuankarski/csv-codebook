@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Interactive codebooks for some datasets"
 ---
 
 <div class="home">
