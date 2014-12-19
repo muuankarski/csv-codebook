@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "RLMS codebooks"
+date:   2014-12-19 09:46:20
+categories: analysis
+---
+
+```{r, echo=FALSE}
+library(knitr)
+opts_chunk$set(list(echo=FALSE,eval=TRUE,cache=FALSE,warning=FALSE,message=FALSE))
+```
+
+
+```{r, }
+library(DT)
+dat <- read.csv("/home/aurelius/data/csv-codebook/rlms/hALL_variables_translate.csv")
+datatable(dat)
+```
+
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

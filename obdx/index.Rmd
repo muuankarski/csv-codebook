@@ -1,0 +1,27 @@
+---
+title: "OBDX codebooks"
+output:
+  html_document:
+    self_contained: no
+    theme: flatly
+layout: default
+---
+
+Datat tulee täältä: <http://obdx.gks.ru/>
+
+Markuksen tilapäinen data-arkisto: http://koti.kapsi.fi/~muuankarski/obdx/
+
+
+```{r, echo=FALSE}
+library(knitr)
+opts_chunk$set(list(echo=FALSE,eval=TRUE,cache=FALSE,warning=FALSE,message=FALSE))
+```
+
+
+```{r}
+library(DT)
+dat <- read.csv("/home/aurelius/data/csv-codebook/obdx/all.csv")
+dat <- dat[-1]
+datatable(dat)
+```
+

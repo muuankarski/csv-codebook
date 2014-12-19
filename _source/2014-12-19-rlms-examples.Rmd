@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "RLMS examples in R"
+date:   2014-12-19 09:46:20
+categories: analysis
+---
+
+```{r, echo=FALSE}
+library(knitr)
+opts_chunk$set(list(echo=FALSE,eval=TRUE,cache=FALSE,warning=FALSE,message=FALSE))
+```
+
+
+```{r}
+
+plot(cars)
+
+
+```
+
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com

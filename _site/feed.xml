@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive codebooks for some datasets</title>
+    <description>Another site with data analysis</description>
+    <link>http://muuankarski.github.io/csv-codebook/</link>
+    <atom:link href="http://muuankarski.github.io/csv-codebook/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>RLMS examples in R</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/figure/source/2014-12-19-rlms-examples/unnamed-chunk-2-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-2&quot;&gt; &lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Dec 2014 11:46:20 +0200</pubDate>
+        <link>http://muuankarski.github.io/csv-codebook/analysis/2014/12/19/rlms-examples.html</link>
+        <guid isPermaLink="true">http://muuankarski.github.io/csv-codebook/analysis/2014/12/19/rlms-examples.html</guid>
+      </item>
+    
+      <item>
+        <title>OBDX examples in R</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/figure/source/2014-12-19-obdx-examples/unnamed-chunk-2-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-2&quot;&gt; &lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Dec 2014 11:46:20 +0200</pubDate>
+        <link>http://muuankarski.github.io/csv-codebook/analysis/2014/12/19/obdx-examples.html</link>
+        <guid isPermaLink="true">http://muuankarski.github.io/csv-codebook/analysis/2014/12/19/obdx-examples.html</guid>
+      </item>
+    
+  </channel>
+</rss>

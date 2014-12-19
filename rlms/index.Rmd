@@ -1,0 +1,25 @@
+---
+title: "RLMS codebooks"
+output:
+  html_document:
+    self_contained: no
+    theme: flatly
+layout: default
+---
+
+- English site: <http://www.cpc.unc.edu/projects/rlms-hse>
+- Russian site: <http://www.hse.ru/en/rlms/>
+
+```{r, echo=FALSE}
+library(knitr)
+opts_chunk$set(list(echo=FALSE,eval=TRUE,cache=FALSE,warning=FALSE,message=FALSE))
+```
+
+
+```{r}
+library(DT)
+dat <- read.csv("/home/aurelius/data/csv-codebook/rlms/hALL_variables_translate.csv")
+dat <- dat[-1:-2]
+datatable(dat)
+```
+

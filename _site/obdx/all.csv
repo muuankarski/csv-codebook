@@ -1,0 +1,1572 @@
+,year,file,var,russian,english
+1,2003,FC,PER,Период разработки,development period
+2,2003,FC,TER,Шифр территории,cipher territory
+3,2003,FC,MEST,Тип населенного пункта,Type of settlement
+4,2003,FC,BUD,Номер бюджета,number budget
+5,2003,FC,CHLICO,Число лиц в домохозяйстве,Number of persons in the household
+6,2003,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве (5 групп),Grouped according to the number of persons per household cash (5 groups)
+7,2003,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+8,2003,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+9,2003,FC,RASSQ,Расход на конечное потребление,Final consumption expenditure
+10,2003,FC,DOXODSN,Денежный доход,cash income
+11,2003,FC,RASRESS,Располагаемые ресурсы,disposable resources
+12,2003,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+13,2003,FC,POTRAS,Потребительские расходы,consumer spending
+14,2003,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+15,2003,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+16,2003,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+17,2003,FC,NEPROD,Расходы на покупку непродовольственных товаро,The cost of purchasing non-food products
+18,2003,FC,USLUG,Расходы на оплату услуг,'Fees
+19,2003,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+20,2003,FC,DRRAS,Другие расходы,other costs
+21,2003,FC,DENRAS,Денежные расходы,cash expenditures
+22,2003,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+23,2003,FC,NATDOX,Натуральный доход,natural income
+24,2003,FC,KVZV,Коэффициент взвешивания (общий),Weighting factor (total)
+25,2003,FQ,PER,Период разработки,development period
+26,2003,FQ,TER,Шифр территории,cipher territory
+27,2003,FQ,MEST,Тип населенного пункта,Type of settlement
+28,2003,FQ,BUD,Номер бюджета,number budget
+29,2003,FQ,AP1,Расходы на покупку хлебобулочных изделий и крупы,The cost of buying baked goods and cereals
+30,2003,FQ,AP2,Расходы на покупку мяса и мясопродуктов,The cost of buying meat and meat products
+31,2003,FQ,AP3,Расходы на покупку рыбы и морепродуктов,The cost of buying fish and seafood
+32,2003,FQ,AP4,"Расходы на покупку молочных изделий, сыров","Expenditures for the purchase of dairy products, cheese"
+33,2003,FQ,AP5,Расходы на покупку яиц,The cost of buying eggs
+34,2003,FQ,AP6,Расходы на покупку масла и жиров,The cost of buying oil and fats
+35,2003,FQ,AP7,Расходы на покупку фруктов,The cost of buying fruit
+36,2003,FQ,AP8,Расходы на покупку овощей,The cost of buying vegetables
+37,2003,FQ,AP9,Расходы на покупку картофеля,The cost of purchasing potatoes
+38,2003,FQ,AP10,Расходы на покупку сахара и кондитерских изделий,Expenditures for the purchase of sugar and confectionery products
+39,2003,FQ,AP11,Расходы на покупку других продуктов питания,Expenditures for the purchase of other foods
+40,2003,FQ,AP12,Расходы на покупку безалкогольных напитков,Expenditures for the purchase of soft drinks
+41,2003,FQ,AP13,Стоимость натуральных поступлений хлебобулочных изделий и крупы,The cost of natural receipts of bakery products and cereals
+42,2003,FQ,AP14,Стоимость натуральных поступлений мяса и мясопродуктов,The cost of natural receipts of meat and meat products
+43,2003,FQ,AP15,Стоимость натуральных поступлений рыбы и морепродуктов,The cost of natural receipts of fish and seafood
+44,2003,FQ,AP16,"Стоимость натуральных поступлений молочных изделий, сыров","The cost of natural receipts dairy products, cheese"
+45,2003,FQ,AP17,Стоимость натуральных поступлений яиц,The cost of natural receipts eggs
+46,2003,FQ,AP18,Стоимость натуральных поступлений масла и жиров,The cost of natural oils and fats proceeds
+47,2003,FQ,AP19,Стоимость натуральных поступлений фруктов,The cost of natural receipts fruit
+48,2003,FQ,AP20,Стоимость натуральных поступлений овощей,The cost of natural receipts vegetables
+49,2003,FQ,AP21,Стоимость натуральных поступлений картофеля,The cost of natural receipts potatoes
+50,2003,FQ,AP22,Стоимость натуральных поступлений сахара и кондитерских изделий,The cost of natural receipts sugar and confectionery products
+51,2003,FQ,AP23,Расходы на покупку табачных изделий,The cost of purchasing tobacco products
+52,2003,FQ,AP24,Расходы на покупку одежды и обуви,Expenditures for the purchase of clothing and footwear
+53,2003,FQ,AP25,"Расходы на оплату жилищных услуг, воды, электроэнергии, газа и другого топлива","Costs for housing services, water, electricity, gas and other fuels"
+54,2003,FQ,AP26,"Расходы на покупку предметов домашнего обихода, бытовой техники и на повседневный уход за домом","Expenditures for the purchase of household items, household appliances and daily care of the house"
+55,2003,FQ,AP27,Расходы на здравоохранение,Health expenditures
+56,2003,FQ,AP28,Расходы на транспорт,Freight costs
+57,2003,FQ,AP29,Расходы на связь,Communication Costs
+58,2003,FQ,AP30,Расходы на организацию отдыха и культурные мероприятия,Spending on recreation and cultural activities
+59,2003,FQ,AP31,Расходы на образование,Expenditure on education
+60,2003,FQ,AP32,Расходы на гостиничные услуги,Expenses for hotel services
+61,2003,FQ,AP33,Расходы на другие товары и услуги,Spending on other goods and services
+62,2003,FL,PER,Период разработки,development period
+63,2003,FL,TER,Шифр территории,cipher territory
+64,2003,FL,MEST,Тип населенного пункта,Type of settlement
+65,2003,FL,BUD,Номер бюджета,number budget
+66,2003,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+67,2003,FL,POL,Пол,Paul
+68,2003,FL,R3V4,Число исполнившихся лет,The number of complete years
+69,2003,FL,R1V11,Наличие работы,Having a job
+70,2003,FL,RABN,Число рабочих недель,The number of working weeks
+71,2003,FL,ISKN,Число недель отсутствия работы и поиска ее,The number of weeks of unemployment and finding it
+72,2003,FL,OTDN,Число недель отсутствия работы и отказа от ее поиска,The number of weeks of unemployment and its refusal to search
+73,2003,FL,R1V16,Статус в занятости,Status in employment
+74,2003,FL,R1V17,Категория неработавшего,Category of non-performing
+75,2003,FY,PER,Период разработки,development period
+76,2003,FY,TER,Шифр территории,cipher territory
+77,2003,FY,MEST,Тип населенного пункта,Type of settlement
+78,2003,FY,BUD,Номер бюджета,number budget
+79,2003,FY,LICO,Код члена домохозяйства (лица),Code household member (s)
+80,2003,FY,AP34,Наличие права на получение пенсии по старости и за выслугу лет,Entitlement to old-age pension and seniority
+81,2003,FY,AP35,Наличие права на получение пенсии по инвалидности,Entitlement to a disability pension
+82,2003,FY,AP36,Наличие права на получение пенсии по случаю потери кормильца,Having the right to receive a pension survivor
+83,2003,FY,AP37,Наличие права на получение социальной пенсии,Having the right to receive social pensions
+84,2003,FY,AP38,"Наличие права на получение ежемесячного пособия по уходу за ребенком до 1,5 лет",Having the right to receive a monthly allowance for child care up to 1.5 years
+85,2003,FY,AP39,Наличие права на получение ежемесячного пособия на ребенка в возрасте до 16 лет,Having the right to receive a monthly allowance for a child under the age of 16
+86,2003,FY,AP40,Наличие права на получение пособия по безработице,Entitlement to unemployment benefits
+87,2003,FY,AP41,Наличие права на получение других пособий,Eligibility for other benefits
+88,2003,FY,AP42,Наличие права на получение стипендии,Eligibility for scholarships
+89,2003,FN,PER,Период разработки,development period
+90,2003,FN,TER,Шифр территории,cipher territory
+91,2003,FN,MEST,Тип населенного пункта,Type of settlement
+92,2003,FN,BUD,Номер бюджета,number budget
+93,2003,FN,R2V1,Код главы домохозяйства,Code of head of household
+94,2003,FN,R2V7,Вид деятельности главы домохозяйства по основному месту работы,Type of activity of the household head in the main job
+95,2003,FN,R2V8,Занятие главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+96,2003,FN,R2V9,Основной источник средств к существованию главы домохозяйства,The main source of livelihood of the household head
+97,2003,FN,R2V10,Код интервала денежного дохода домохозяйства,Code interval money income households
+98,2004,FC,PER,Период разработки,development period
+99,2004,FC,TER,Шифр территории,cipher territory
+100,2004,FC,MEST,Тип населенного пункта,Type of settlement
+101,2004,FC,BUD,Номер бюджета,number budget
+102,2004,FC,CHLICO,Число лиц в домохозяйстве,Number of persons in the household
+103,2004,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве (5 групп),Grouped according to the number of persons per household cash (5 groups)
+104,2004,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+105,2004,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+106,2004,FC,RASSQ,Расход на конечное потребление,Final consumption expenditure
+107,2004,FC,DOXODSN,Денежный доход,cash income
+108,2004,FC,RASRESS,Располагаемые ресурсы,disposable resources
+109,2004,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+110,2004,FC,POTRAS,Потребительские расходы,consumer spending
+111,2004,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+112,2004,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+113,2004,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+114,2004,FC,NEPROD,Расходы на покупку непродовольственных товаро,The cost of purchasing non-food products
+115,2004,FC,USLUG,Расходы на оплату услуг,'Fees
+116,2004,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+117,2004,FC,DRRAS,Другие расходы,other costs
+118,2004,FC,DENRAS,Денежные расходы,cash expenditures
+119,2004,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+120,2004,FC,NATDOX,Натуральный доход,natural income
+121,2004,FC,KVZV,Коэффициент взвешивания (общий),Weighting factor (total)
+122,2004,FQ,PER,Период разработки,development period
+123,2004,FQ,TER,Шифр территории,cipher territory
+124,2004,FQ,MEST,Тип населенного пункта,Type of settlement
+125,2004,FQ,BUD,Номер бюджета,number budget
+126,2004,FQ,AP1,Расходы на покупку хлебобулочных изделий и крупы,The cost of buying baked goods and cereals
+127,2004,FQ,AP2,Расходы на покупку мяса и мясопродуктов,The cost of buying meat and meat products
+128,2004,FQ,AP3,Расходы на покупку рыбы и морепродуктов,The cost of buying fish and seafood
+129,2004,FQ,AP4,"Расходы на покупку молочных изделий, сыров","Expenditures for the purchase of dairy products, cheese"
+130,2004,FQ,AP5,Расходы на покупку яиц,The cost of buying eggs
+131,2004,FQ,AP6,Расходы на покупку масла и жиров,The cost of buying oil and fats
+132,2004,FQ,AP7,Расходы на покупку фруктов,The cost of buying fruit
+133,2004,FQ,AP8,Расходы на покупку овощей,The cost of buying vegetables
+134,2004,FQ,AP9,Расходы на покупку картофеля,The cost of purchasing potatoes
+135,2004,FQ,AP10,Расходы на покупку сахара и кондитерских изделий,Expenditures for the purchase of sugar and confectionery products
+136,2004,FQ,AP11,Расходы на покупку других продуктов питания,Expenditures for the purchase of other foods
+137,2004,FQ,AP12,Расходы на покупку безалкогольных напитков,Expenditures for the purchase of soft drinks
+138,2004,FQ,AP13,Стоимость натуральных поступлений хлебобулочных изделий и крупы,The cost of natural receipts of bakery products and cereals
+139,2004,FQ,AP14,Стоимость натуральных поступлений мяса и мясопродуктов,The cost of natural receipts of meat and meat products
+140,2004,FQ,AP15,Стоимость натуральных поступлений рыбы и морепродуктов,The cost of natural receipts of fish and seafood
+141,2004,FQ,AP16,"Стоимость натуральных поступлений молочных изделий, сыров","The cost of natural receipts dairy products, cheese"
+142,2004,FQ,AP17,Стоимость натуральных поступлений яиц,The cost of natural receipts eggs
+143,2004,FQ,AP18,Стоимость натуральных поступлений масла и жиров,The cost of natural oils and fats proceeds
+144,2004,FQ,AP19,Стоимость натуральных поступлений фруктов,The cost of natural receipts fruit
+145,2004,FQ,AP20,Стоимость натуральных поступлений овощей,The cost of natural receipts vegetables
+146,2004,FQ,AP21,Стоимость натуральных поступлений картофеля,The cost of natural receipts potatoes
+147,2004,FQ,AP22,Стоимость натуральных поступлений сахара и кондитерских изделий,The cost of natural receipts sugar and confectionery products
+148,2004,FQ,AP23,Расходы на покупку табачных изделий,The cost of purchasing tobacco products
+149,2004,FQ,AP24,Расходы на покупку одежды и обуви,Expenditures for the purchase of clothing and footwear
+150,2004,FQ,AP25,"Расходы на оплату жилищных услуг, воды, электроэнергии, газа и другого топлива","Costs for housing services, water, electricity, gas and other fuels"
+151,2004,FQ,AP26,"Расходы на покупку предметов домашнего обихода, бытовой техники и на повседневный уход за домом","Expenditures for the purchase of household items, household appliances and daily care of the house"
+152,2004,FQ,AP27,Расходы на здравоохранение,Health expenditures
+153,2004,FQ,AP28,Расходы на транспорт,Freight costs
+154,2004,FQ,AP29,Расходы на связь,Communication Costs
+155,2004,FQ,AP30,Расходы на организацию отдыха и культурные мероприятия,Spending on recreation and cultural activities
+156,2004,FQ,AP31,Расходы на образование,Expenditure on education
+157,2004,FQ,AP32,Расходы на гостиничные услуги,Expenses for hotel services
+158,2004,FQ,AP33,Расходы на другие товары и услуги,Spending on other goods and services
+159,2004,FL,PER,Период разработки,development period
+160,2004,FL,TER,Шифр территории,cipher territory
+161,2004,FL,MEST,Тип населенного пункта,Type of settlement
+162,2004,FL,BUD,Номер бюджета,number budget
+163,2004,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+164,2004,FL,POL,Пол,Paul
+165,2004,FL,R3V4,Число исполнившихся лет,The number of complete years
+166,2004,FL,R1V11,Наличие работы,Having a job
+167,2004,FL,RABN,Число рабочих недель,The number of working weeks
+168,2004,FL,ISKN,Число недель отсутствия работы и поиска ее,The number of weeks of unemployment and finding it
+169,2004,FL,OTDN,Число недель отсутствия работы и отказа от ее поиска,The number of weeks of unemployment and its refusal to search
+170,2004,FL,R1V16,Статус в занятости,Status in employment
+171,2004,FL,R1V17,Категория неработавшего,Category of non-performing
+172,2004,FY,PER,Период разработки,development period
+173,2004,FY,TER,Шифр территории,cipher territory
+174,2004,FY,MEST,Тип населенного пункта,Type of settlement
+175,2004,FY,BUD,Номер бюджета,number budget
+176,2004,FY,LICO,Код члена домохозяйства (лица),Code household member (s)
+177,2004,FY,AP34,Наличие права на получение пенсии по старости и за выслугу лет,Entitlement to old-age pension and seniority
+178,2004,FY,AP35,Наличие права на получение пенсии по инвалидности,Entitlement to a disability pension
+179,2004,FY,AP36,Наличие права на получение пенсии по случаю потери кормильца,Having the right to receive a pension survivor
+180,2004,FY,AP37,Наличие права на получение социальной пенсии,Having the right to receive social pensions
+181,2004,FY,AP38,"Наличие права на получение ежемесячного пособия по уходу за ребенком до 1,5 лет",Having the right to receive a monthly allowance for child care up to 1.5 years
+182,2004,FY,AP39,Наличие права на получение ежемесячного пособия на ребенка в возрасте до 16 лет,Having the right to receive a monthly allowance for a child under the age of 16
+183,2004,FY,AP40,Наличие права на получение пособия по безработице,Entitlement to unemployment benefits
+184,2004,FY,AP41,Наличие права на получение других пособий,Eligibility for other benefits
+185,2004,FY,AP42,Наличие права на получение стипендии,Eligibility for scholarships
+186,2004,FN,PER,Период разработки,development period
+187,2004,FN,TER,Шифр территории,cipher territory
+188,2004,FN,MEST,Тип населенного пункта,Type of settlement
+189,2004,FN,BUD,Номер бюджета,number budget
+190,2004,FN,R2V1,Код главы домохозяйства,Code of head of household
+191,2004,FN,R2V7,Вид деятельности главы домохозяйства по основному месту работы,Type of activity of the household head in the main job
+192,2004,FN,R2V8,Занятие главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+193,2004,FN,R2V9,Основной источник средств к существованию главы домохозяйства,The main source of livelihood of the household head
+194,2005,FC,PER,Период разработки,development period
+195,2005,FC,TER,Шифр территории,cipher territory
+196,2005,FC,MEST,Тип населенного пункта,Type of settlement
+197,2005,FC,BUD,Номер бюджета,number budget
+198,2005,FC,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+199,2005,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+200,2005,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+201,2005,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+202,2005,FC,DOXODSN,Денежный доход ,cash income
+203,2005,FC,RASRESS,Располагаемые ресурсы ,disposable resources
+204,2005,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+205,2005,FC,RASSQ,Расходы на конечное потребление ,Final consumption expenditure
+206,2005,FC,POTRAS,Потребительские расходы,consumer spending
+207,2005,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+208,2005,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+209,2005,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+210,2005,FC,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+211,2005,FC,USLUG,Расходы на оплату услуг,'Fees
+212,2005,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+213,2005,FC,DRRAS,Другие расходы,other costs
+214,2005,FC,DENRAS,Денежные расходы,cash expenditures
+215,2005,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+216,2005,FC,NATDOX,Натуральные поступления,receipts in kind
+217,2005,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+218,2005,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+219,2005,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+220,2005,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+221,2005,FC,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+222,2005,FC,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+223,2005,FC,KVZV,Коэффициент взвешивания,weighting factor
+224,2005,FQ,PER,Период разработки,development period
+225,2005,FQ,TER,Шифр территории,cipher territory
+226,2005,FQ,MEST,Тип населенного пункта,Type of settlement
+227,2005,FQ,BUD,Номер бюджета,number budget
+228,2005,FQ,AP1,Расходы на покупку хлебобулочных изделий и крупы,The cost of buying baked goods and cereals
+229,2005,FQ,AP2,Расходы на покупку мяса и мясопродуктов,The cost of buying meat and meat products
+230,2005,FQ,AP3,Расходы на покупку рыбы и морепродуктов,The cost of buying fish and seafood
+231,2005,FQ,AP4,"Расходы на покупку молочных изделий, сыров","Expenditures for the purchase of dairy products, cheese"
+232,2005,FQ,AP5,Расходы на покупку яиц,The cost of buying eggs
+233,2005,FQ,AP6,Расходы на покупку масла и жиров,The cost of buying oil and fats
+234,2005,FQ,AP7,Расходы на покупку фруктов,The cost of buying fruit
+235,2005,FQ,AP8,Расходы на покупку овощей,The cost of buying vegetables
+236,2005,FQ,AP9,Расходы на покупку картофеля,The cost of purchasing potatoes
+237,2005,FQ,AP10,Расходы на покупку сахара и кондитерских изделий,Expenditures for the purchase of sugar and confectionery products
+238,2005,FQ,AP11,Расходы на покупку других продуктов питания,Expenditures for the purchase of other foods
+239,2005,FQ,AP12,Расходы на покупку безалкогольных напитков,Expenditures for the purchase of soft drinks
+240,2005,FQ,AP13,Стоимость натуральных поступлений хлебобулочных изделий и крупы,The cost of natural receipts of bakery products and cereals
+241,2005,FQ,AP14,Стоимость натуральных поступлений мяса и мясопродуктов,The cost of natural receipts of meat and meat products
+242,2005,FQ,AP15,Стоимость натуральных поступлений рыбы и морепродуктов,The cost of natural receipts of fish and seafood
+243,2005,FQ,AP16,"Стоимость натуральных поступлений молочных изделий, сыров","The cost of natural receipts dairy products, cheese"
+244,2005,FQ,AP17,Стоимость натуральных поступлений яиц,The cost of natural receipts eggs
+245,2005,FQ,AP18,Стоимость натуральных поступлений масла и жиров,The cost of natural oils and fats proceeds
+246,2005,FQ,AP19,Стоимость натуральных поступлений фруктов,The cost of natural receipts fruit
+247,2005,FQ,AP20,Стоимость натуральных поступлений овощей,The cost of natural receipts vegetables
+248,2005,FQ,AP21,Стоимость натуральных поступлений картофеля,The cost of natural receipts potatoes
+249,2005,FQ,AP22,Стоимость натуральных поступлений сахара и кондитерских изделий,The cost of natural receipts sugar and confectionery products
+250,2005,FQ,AP23,Расходы на покупку табачных изделий,The cost of purchasing tobacco products
+251,2005,FQ,AP24,Расходы на покупку одежды и обуви,Expenditures for the purchase of clothing and footwear
+252,2005,FQ,AP25,"Расходы на оплату жилищных услуг, воды, электроэнергии, газа и другого топлива","Costs for housing services, water, electricity, gas and other fuels"
+253,2005,FQ,AP26,"Расходы на покупку предметов домашнего обихода, бытовой техники и на повседневный уход за домом","Expenditures for the purchase of household items, household appliances and daily care of the house"
+254,2005,FQ,AP27,Расходы на здравоохранение,Health expenditures
+255,2005,FQ,AP29,Расходы на транспорт,Freight costs
+256,2005,FQ,AP30,Расходы на связь,Communication Costs
+257,2005,FQ,AP31,Расходы на организацию отдыха и культурные мероприятия,Spending on recreation and cultural activities
+258,2005,FQ,AP32,Расходы на образование,Expenditure on education
+259,2005,FL,PER,Период разработки,development period
+260,2005,FL,TER,Шифр территории,cipher territory
+261,2005,FL,MEST,Тип населенного пункта,Type of settlement
+262,2005,FL,BUD,Номер бюджета,number budget
+263,2005,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+264,2005,FL,POL,Пол,Paul
+265,2005,FL,R1AV2,Число исполнившихся лет,The number of complete years
+266,2005,FL,R1AV10,Уровень образования,education Level
+267,2005,FL,R1AV11,Учеба в настоящее время,Study now
+268,2005,FL,R1BV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+269,2005,FL,RABN,Число отработанных недель,Number of working weeks
+270,2005,FL,ISKN,Число недель отсутствия работы и ее поиска,The number of weeks of unemployment and search
+271,2005,FL,OTDN,Число недель отсутствия работы и отказа от ее поиска,The number of weeks of unemployment and its refusal to search
+272,2005,FL,R1BV7,Статус в занятости по основному месту работы,Status in employment in the main job
+273,2005,FL,R1BV16,Наличие пособия по безработице,The presence of unemployment benefits
+274,2005,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца",Category characterizing the position of the last 3 months
+275,2005,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+276,2005,FL,R1GV21,Вид назначенной пенсии,View granted pension
+277,2005,FL,R1GV22,Вид второй назначенной пенсии,View second granted pension
+278,2005,FL,R1EV1,Тип посещаемого образовательного учреждения,Type of educational institution visited
+279,2005,FL,R1EV4,Форма собственности посещаемого образовательного учреждения,Ownership attend educational institutions
+280,2005,FL,R1EV5,Платное или бесплатное обучение,Paid or free training
+281,2005,FL,R1EV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+282,2005,FL,R1EV13,Форма собственности посещаемого дошкольного учреждения,Ownership attend preschool
+283,2005,FN,PER,Период разработки,development period
+284,2005,FN,TER,Шифр территории,cipher territory
+285,2005,FN,MEST,Тип населенного пункта,Type of settlement
+286,2005,FN,BUD,Номер бюджета,number budget
+287,2005,FN,R1VV11,Код главы домохозяйства,Code of head of household
+288,2005,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+289,2005,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+290,2005,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+291,2005,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+292,2005,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+293,2005,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+294,2005,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+295,2005,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+296,2006,FC,PER,Период разработки,development period
+297,2006,FC,TER,Шифр территории,cipher territory
+298,2006,FC,MEST,Тип населенного пункта,Type of settlement
+299,2006,FC,BUD,Номер бюджета,number budget
+300,2006,FC,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+301,2006,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+302,2006,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+303,2006,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+304,2006,FC,DOXODSN,Денежный доход ,cash income
+305,2006,FC,RASRESS,Располагаемые ресурсы ,disposable resources
+306,2006,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+307,2006,FC,RASSQ,Расходы на конечное потребление ,Final consumption expenditure
+308,2006,FC,POTRAS,Потребительские расходы,consumer spending
+309,2006,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+310,2006,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+311,2006,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+312,2006,FC,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+313,2006,FC,USLUG,Расходы на оплату услуг,'Fees
+314,2006,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+315,2006,FC,DRRAS,Другие расходы,other costs
+316,2006,FC,DENRAS,Денежные расходы,cash expenditures
+317,2006,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+318,2006,FC,NATDOX,Натуральные поступления,receipts in kind
+319,2006,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+320,2006,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+321,2006,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+322,2006,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+323,2006,FC,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+324,2006,FC,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+325,2006,FC,KVZV,Коэффициент взвешивания,weighting factor
+326,2006,FQ,PER,Период разработки,development period
+327,2006,FQ,TER,Шифр территории,cipher territory
+328,2006,FQ,MEST,Тип населенного пункта,Type of settlement
+329,2006,FQ,BUD,Номер бюджета,number budget
+330,2006,FQ,AP1,Расходы на покупку хлебобулочных изделий и крупы,The cost of buying baked goods and cereals
+331,2006,FQ,AP2,Расходы на покупку мяса и мясопродуктов,The cost of buying meat and meat products
+332,2006,FQ,AP3,Расходы на покупку рыбы и морепродуктов,The cost of buying fish and seafood
+333,2006,FQ,AP4,"Расходы на покупку молочных изделий, сыров","Expenditures for the purchase of dairy products, cheese"
+334,2006,FQ,AP5,Расходы на покупку яиц,The cost of buying eggs
+335,2006,FQ,AP6,Расходы на покупку масла и жиров,The cost of buying oil and fats
+336,2006,FQ,AP7,Расходы на покупку фруктов,The cost of buying fruit
+337,2006,FQ,AP8,Расходы на покупку овощей,The cost of buying vegetables
+338,2006,FQ,AP9,Расходы на покупку картофеля,The cost of purchasing potatoes
+339,2006,FQ,AP10,Расходы на покупку сахара и кондитерских изделий,Expenditures for the purchase of sugar and confectionery products
+340,2006,FQ,AP11,Расходы на покупку других продуктов питания,Expenditures for the purchase of other foods
+341,2006,FQ,AP12,Расходы на покупку безалкогольных напитков,Expenditures for the purchase of soft drinks
+342,2006,FQ,AP13,Стоимость натуральных поступлений хлебобулочных изделий и крупы,The cost of natural receipts of bakery products and cereals
+343,2006,FQ,AP14,Стоимость натуральных поступлений мяса и мясопродуктов,The cost of natural receipts of meat and meat products
+344,2006,FQ,AP15,Стоимость натуральных поступлений рыбы и морепродуктов,The cost of natural receipts of fish and seafood
+345,2006,FQ,AP16,"Стоимость натуральных поступлений молочных изделий, сыров","The cost of natural receipts dairy products, cheese"
+346,2006,FQ,AP17,Стоимость натуральных поступлений яиц,The cost of natural receipts eggs
+347,2006,FQ,AP18,Стоимость натуральных поступлений масла и жиров,The cost of natural oils and fats proceeds
+348,2006,FQ,AP19,Стоимость натуральных поступлений фруктов,The cost of natural receipts fruit
+349,2006,FQ,AP20,Стоимость натуральных поступлений овощей,The cost of natural receipts vegetables
+350,2006,FQ,AP21,Стоимость натуральных поступлений картофеля,The cost of natural receipts potatoes
+351,2006,FQ,AP22,Стоимость натуральных поступлений сахара и кондитерских изделий,The cost of natural receipts sugar and confectionery products
+352,2006,FQ,AP23,Расходы на покупку табачных изделий,The cost of purchasing tobacco products
+353,2006,FQ,AP24,Расходы на покупку одежды и обуви,Expenditures for the purchase of clothing and footwear
+354,2006,FQ,AP25,"Расходы на оплату жилищных услуг, воды, электроэнергии, газа и другого топлива","Costs for housing services, water, electricity, gas and other fuels"
+355,2006,FQ,AP26,"Расходы на покупку предметов домашнего обихода, бытовой техники и на повседневный уход за домом","Expenditures for the purchase of household items, household appliances and daily care of the house"
+356,2006,FQ,AP27,Расходы на здравоохранение,Health expenditures
+357,2006,FQ,AP29,Расходы на транспорт,Freight costs
+358,2006,FQ,AP30,Расходы на связь,Communication Costs
+359,2006,FQ,AP31,Расходы на организацию отдыха и культурные мероприятия,Spending on recreation and cultural activities
+360,2006,FQ,AP32,Расходы на образование,Expenditure on education
+361,2006,FL,PER,Период разработки,development period
+362,2006,FL,TER,Шифр территории,cipher territory
+363,2006,FL,MEST,Тип населенного пункта,Type of settlement
+364,2006,FL,BUD,Номер бюджета,number budget
+365,2006,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+366,2006,FL,POL,Пол,Paul
+367,2006,FL,R1AV2,Число исполнившихся лет,The number of complete years
+368,2006,FL,R1AV10,Уровень образования,education Level
+369,2006,FL,R1AV11,Учеба в настоящее время,Study now
+370,2006,FL,R1BV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+371,2006,FL,RABN,Число отработанных недель,Number of working weeks
+372,2006,FL,ISKN,Число недель отсутствия работы и ее поиска,The number of weeks of unemployment and search
+373,2006,FL,OTDN,Число недель отсутствия работы и отказа от ее поиска,The number of weeks of unemployment and its refusal to search
+374,2006,FL,R1BV7,Статус в занятости по основному месту работы,Status in employment in the main job
+375,2006,FL,R1BV16,Наличие пособия по безработице,The presence of unemployment benefits
+376,2006,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца",Category characterizing the position of the last 3 months
+377,2006,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+378,2006,FL,R1GV21,Вид назначенной пенсии,View granted pension
+379,2006,FL,R1GV22,Вид второй назначенной пенсии,View second granted pension
+380,2006,FL,R1EV1,Тип посещаемого образовательного учреждения,Type of educational institution visited
+381,2006,FL,R1EV4,Форма собственности посещаемого образовательного учреждения,Ownership attend educational institutions
+382,2006,FL,R1EV5,Платное или бесплатное обучение,Paid or free training
+383,2006,FL,R1EV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+384,2006,FL,R1EV13,Форма собственности посещаемого дошкольного учреждения,Ownership attend preschool
+385,2006,FN,PER,Период разработки,development period
+386,2006,FN,TER,Шифр территории,cipher territory
+387,2006,FN,MEST,Тип населенного пункта,Type of settlement
+388,2006,FN,BUD,Номер бюджета,number budget
+389,2006,FN,R1VV11,Код главы домохозяйства,Code of head of household
+390,2006,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+391,2006,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+392,2006,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+393,2006,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+394,2006,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+395,2006,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+396,2006,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+397,2006,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+398,2008,FC,PER,Период разработки,development period
+399,2008,FC,TER,Шифр территории,cipher territory
+400,2008,FC,MEST,Тип населенного пункта,Type of settlement
+401,2008,FC,BUD,Номер бюджета,number budget
+402,2008,FC,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+403,2008,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+404,2008,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+405,2008,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+406,2008,FC,DOXODSN,Денежный доход ,cash income
+407,2008,FC,RASRESS,Располагаемые ресурсы ,disposable resources
+408,2008,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+409,2008,FC,RASSQ,Расходы на конечное потребление ,Final consumption expenditure
+410,2008,FC,POTRAS,Потребительские расходы,consumer spending
+411,2008,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+412,2008,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+413,2008,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+414,2008,FC,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+415,2008,FC,USLUG,Расходы на оплату услуг,'Fees
+416,2008,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+417,2008,FC,DRRAS,Другие расходы,other costs
+418,2008,FC,DENRAS,Денежные расходы,cash expenditures
+419,2008,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+420,2008,FC,NATDOX,Натуральные поступления,receipts in kind
+421,2008,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+422,2008,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+423,2008,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+424,2008,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+425,2008,FC,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+426,2008,FC,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+427,2008,FC,KVZV,Коэффициент взвешивания,weighting factor
+428,2008,FQ,PER,Период разработки,development period
+429,2008,FQ,TER,Шифр территории,cipher territory
+430,2008,FQ,MEST,Тип населенного пункта,Type of settlement
+431,2008,FQ,BUD,Номер бюджета,number budget
+432,2008,FQ,AP1,Расходы на покупку хлебобулочных изделий и крупы,The cost of buying baked goods and cereals
+433,2008,FQ,AP2,Расходы на покупку мяса и мясопродуктов,The cost of buying meat and meat products
+434,2008,FQ,AP3,Расходы на покупку рыбы и морепродуктов,The cost of buying fish and seafood
+435,2008,FQ,AP4,"Расходы на покупку молочных изделий, сыров","Expenditures for the purchase of dairy products, cheese"
+436,2008,FQ,AP5,Расходы на покупку яиц,The cost of buying eggs
+437,2008,FQ,AP6,Расходы на покупку масла и жиров,The cost of buying oil and fats
+438,2008,FQ,AP7,Расходы на покупку фруктов,The cost of buying fruit
+439,2008,FQ,AP8,Расходы на покупку овощей,The cost of buying vegetables
+440,2008,FQ,AP9,Расходы на покупку картофеля,The cost of purchasing potatoes
+441,2008,FQ,AP10,Расходы на покупку сахара и кондитерских изделий,Expenditures for the purchase of sugar and confectionery products
+442,2008,FQ,AP11,Расходы на покупку других продуктов питания,Expenditures for the purchase of other foods
+443,2008,FQ,AP12,Расходы на покупку безалкогольных напитков,Expenditures for the purchase of soft drinks
+444,2008,FQ,AP13,Стоимость натуральных поступлений хлебобулочных изделий и крупы,The cost of natural receipts of bakery products and cereals
+445,2008,FQ,AP14,Стоимость натуральных поступлений мяса и мясопродуктов,The cost of natural receipts of meat and meat products
+446,2008,FQ,AP15,Стоимость натуральных поступлений рыбы и морепродуктов,The cost of natural receipts of fish and seafood
+447,2008,FQ,AP16,"Стоимость натуральных поступлений молочных изделий, сыров","The cost of natural receipts dairy products, cheese"
+448,2008,FQ,AP17,Стоимость натуральных поступлений яиц,The cost of natural receipts eggs
+449,2008,FQ,AP18,Стоимость натуральных поступлений масла и жиров,The cost of natural oils and fats proceeds
+450,2008,FQ,AP19,Стоимость натуральных поступлений фруктов,The cost of natural receipts fruit
+451,2008,FQ,AP20,Стоимость натуральных поступлений овощей,The cost of natural receipts vegetables
+452,2008,FQ,AP21,Стоимость натуральных поступлений картофеля,The cost of natural receipts potatoes
+453,2008,FQ,AP22,Стоимость натуральных поступлений сахара и кондитерских изделий,The cost of natural receipts sugar and confectionery products
+454,2008,FQ,AP23,Расходы на покупку табачных изделий,The cost of purchasing tobacco products
+455,2008,FQ,AP24,Расходы на покупку одежды и обуви,Expenditures for the purchase of clothing and footwear
+456,2008,FQ,AP25,"Расходы на оплату жилищных услуг, воды, электроэнергии, газа и другого топлива","Costs for housing services, water, electricity, gas and other fuels"
+457,2008,FQ,AP26,"Расходы на покупку предметов домашнего обихода, бытовой техники и на повседневный уход за домом","Expenditures for the purchase of household items, household appliances and daily care of the house"
+458,2008,FQ,AP27,Расходы на здравоохранение,Health expenditures
+459,2008,FQ,AP29,Расходы на транспорт,Freight costs
+460,2008,FQ,AP30,Расходы на связь,Communication Costs
+461,2008,FQ,AP31,Расходы на организацию отдыха и культурные мероприятия,Spending on recreation and cultural activities
+462,2008,FQ,AP32,Расходы на образование,Expenditure on education
+463,2008,FL,PER,Период разработки,development period
+464,2008,FL,TER,Шифр территории,cipher territory
+465,2008,FL,MEST,Тип населенного пункта,Type of settlement
+466,2008,FL,BUD,Номер бюджета,number budget
+467,2008,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+468,2008,FL,POL,Пол,Paul
+469,2008,FL,R1AV2,Число исполнившихся лет,The number of complete years
+470,2008,FL,R1AV10,Уровень образования,education Level
+471,2008,FL,R1AV11,Учеба в настоящее время,Study now
+472,2008,FL,R1BV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+473,2008,FL,RABN,Число отработанных недель,Number of working weeks
+474,2008,FL,ISKN,Число недель отсутствия работы и ее поиска,The number of weeks of unemployment and search
+475,2008,FL,OTDN,Число недель отсутствия работы и отказа от ее поиска,The number of weeks of unemployment and its refusal to search
+476,2008,FL,R1BV7,Статус в занятости по основному месту работы,Status in employment in the main job
+477,2008,FL,R1BV16,Наличие пособия по безработице,The presence of unemployment benefits
+478,2008,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца",Category characterizing the position of the last 3 months
+479,2008,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+480,2008,FL,R1GV21,Вид назначенной пенсии,View granted pension
+481,2008,FL,R1GV22,Вид второй назначенной пенсии,View second granted pension
+482,2008,FL,R1EV1,Тип посещаемого образовательного учреждения,Type of educational institution visited
+483,2008,FL,R1EV4,Форма собственности посещаемого образовательного учреждения,Ownership attend educational institutions
+484,2008,FL,R1EV5,Платное или бесплатное обучение,Paid or free training
+485,2008,FL,R1EV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+486,2008,FL,R1EV13,Форма собственности посещаемого дошкольного учреждения,Ownership attend preschool
+487,2008,FN,PER,Период разработки,development period
+488,2008,FN,TER,Шифр территории,cipher territory
+489,2008,FN,MEST,Тип населенного пункта,Type of settlement
+490,2008,FN,BUD,Номер бюджета,number budget
+491,2008,FN,R1VV11,Код главы домохозяйства,Code of head of household
+492,2008,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+493,2008,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+494,2008,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+495,2008,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+496,2008,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+497,2008,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+498,2008,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+499,2008,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+500,2008,FN,PER,Период разработки,development period
+501,2008,FN,TER,Шифр территории,cipher territory
+502,2008,FN,MEST,Тип населенного пункта,Type of settlement
+503,2008,FN,BUD,Номер бюджета,number budget
+504,2008,FN,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+505,2008,FN,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+506,2008,FN,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+507,2008,FN,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+508,2008,FN,DOXODSN,Денежный доход ,cash income
+509,2008,FN,RASRESS,Располагаемые ресурсы ,disposable resources
+510,2008,FN,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+511,2008,FN,RASSQ,Расходы на конечное потребление ,Final consumption expenditure
+512,2008,FN,POTRAS,Потребительские расходы,consumer spending
+513,2008,FN,PROD,Расходы на покупку продуктов питания,Expenditure on food
+514,2008,FN,PITRES,Расходы на питание вне дома,Spending on food away from home
+515,2008,FN,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+516,2008,FN,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+517,2008,FN,USLUG,Расходы на оплату услуг,'Fees
+518,2008,FN,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+519,2008,FN,DRRAS,Другие расходы,other costs
+520,2008,FN,DENRAS,Денежные расходы,cash expenditures
+521,2008,FN,FAKT,Прирост финансовых активов,Increase in financial assets
+522,2008,FN,NATDOX,Натуральные поступления,receipts in kind
+523,2008,FN,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+524,2008,FN,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+525,2008,FN,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+526,2008,FN,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+527,2008,FN,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+528,2008,FN,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+529,2008,FN,KVZV,Коэффициент взвешивания,weighting factor
+530,2008,FQ,PER,Период разработки,development period
+531,2008,FQ,TER,Шифр территории,cipher territory
+532,2008,FQ,MEST,Тип населенного пункта,Type of settlement
+533,2008,FQ,BUD,Номер бюджета,number budget
+534,2008,FQ,AP1,Расходы на покупку хлебобулочных изделий и крупы,The cost of buying baked goods and cereals
+535,2008,FQ,AP2,Расходы на покупку мяса и мясопродуктов,The cost of buying meat and meat products
+536,2008,FQ,AP3,Расходы на покупку рыбы и морепродуктов,The cost of buying fish and seafood
+537,2008,FQ,AP4,"Расходы на покупку молочных изделий, сыров","Expenditures for the purchase of dairy products, cheese"
+538,2008,FQ,AP5,Расходы на покупку яиц,The cost of buying eggs
+539,2008,FQ,AP6,Расходы на покупку масла и жиров,The cost of buying oil and fats
+540,2008,FQ,AP7,Расходы на покупку фруктов,The cost of buying fruit
+541,2008,FQ,AP8,Расходы на покупку овощей,The cost of buying vegetables
+542,2008,FQ,AP9,Расходы на покупку картофеля,The cost of purchasing potatoes
+543,2008,FQ,AP10,Расходы на покупку сахара и кондитерских изделий,Expenditures for the purchase of sugar and confectionery products
+544,2008,FQ,AP11,Расходы на покупку других продуктов питания,Expenditures for the purchase of other foods
+545,2008,FQ,AP12,Расходы на покупку безалкогольных напитков,Expenditures for the purchase of soft drinks
+546,2008,FQ,AP13,Стоимость натуральных поступлений хлебобулочных изделий и крупы,The cost of natural receipts of bakery products and cereals
+547,2008,FQ,AP14,Стоимость натуральных поступлений мяса и мясопродуктов,The cost of natural receipts of meat and meat products
+548,2008,FQ,AP15,Стоимость натуральных поступлений рыбы и морепродуктов,The cost of natural receipts of fish and seafood
+549,2008,FQ,AP16,"Стоимость натуральных поступлений молочных изделий, сыров","The cost of natural receipts dairy products, cheese"
+550,2008,FQ,AP17,Стоимость натуральных поступлений яиц,The cost of natural receipts eggs
+551,2008,FQ,AP18,Стоимость натуральных поступлений масла и жиров,The cost of natural oils and fats proceeds
+552,2008,FQ,AP19,Стоимость натуральных поступлений фруктов,The cost of natural receipts fruit
+553,2008,FQ,AP20,Стоимость натуральных поступлений овощей,The cost of natural receipts vegetables
+554,2008,FQ,AP21,Стоимость натуральных поступлений картофеля,The cost of natural receipts potatoes
+555,2008,FQ,AP22,Стоимость натуральных поступлений сахара и кондитерских изделий,The cost of natural receipts sugar and confectionery products
+556,2008,FQ,AP23,Расходы на покупку табачных изделий,The cost of purchasing tobacco products
+557,2008,FQ,AP24,Расходы на покупку одежды и обуви,Expenditures for the purchase of clothing and footwear
+558,2008,FQ,AP25,"Расходы на оплату жилищных услуг, воды, электроэнергии, газа и другого топлива","Costs for housing services, water, electricity, gas and other fuels"
+559,2008,FQ,AP26,"Расходы на покупку предметов домашнего обихода, бытовой техники и на повседневный уход за домом","Expenditures for the purchase of household items, household appliances and daily care of the house"
+560,2008,FQ,AP27,Расходы на здравоохранение,Health expenditures
+561,2008,FQ,AP29,Расходы на транспорт,Freight costs
+562,2008,FQ,AP30,Расходы на связь,Communication Costs
+563,2008,FQ,AP31,Расходы на организацию отдыха и культурные мероприятия,Spending on recreation and cultural activities
+564,2008,FQ,AP32,Расходы на образование,Expenditure on education
+565,2008,FL,PER,Период разработки,development period
+566,2008,FL,TER,Шифр территории,cipher territory
+567,2008,FL,MEST,Тип населенного пункта,Type of settlement
+568,2008,FL,BUD,Номер бюджета,number budget
+569,2008,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+570,2008,FL,POL,Пол,Paul
+571,2008,FL,R1AV2,Число исполнившихся лет,The number of complete years
+572,2008,FL,R1AV10,Уровень образования,education Level
+573,2008,FL,R1AV11,Учеба в настоящее время,Study now
+574,2008,FL,R1BV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+575,2008,FL,RABN,Число отработанных недель,Number of working weeks
+576,2008,FL,ISKN,Число недель отсутствия работы и ее поиска,The number of weeks of unemployment and search
+577,2008,FL,OTDN,Число недель отсутствия работы и отказа от ее поиска,The number of weeks of unemployment and its refusal to search
+578,2008,FL,R1BV7,Статус в занятости по основному месту работы,Status in employment in the main job
+579,2008,FL,R1BV16,Наличие пособия по безработице,The presence of unemployment benefits
+580,2008,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца",Category characterizing the position of the last 3 months
+581,2008,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+582,2008,FL,R1GV21,Вид назначенной пенсии,View granted pension
+583,2008,FL,R1GV22,Вид второй назначенной пенсии,View second granted pension
+584,2008,FL,R1EV1,Тип посещаемого образовательного учреждения,Type of educational institution visited
+585,2008,FL,R1EV4,Форма собственности посещаемого образовательного учреждения,Ownership attend educational institutions
+586,2008,FL,R1EV5,Платное или бесплатное обучение,Paid or free training
+587,2008,FL,R1EV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+588,2008,FL,R1EV13,Форма собственности посещаемого дошкольного учреждения,Ownership attend preschool
+589,2008,FN,PER,Период разработки,development period
+590,2008,FN,TER,Шифр территории,cipher territory
+591,2008,FN,MEST,Тип населенного пункта,Type of settlement
+592,2008,FN,BUD,Номер бюджета,number budget
+593,2008,FN,R1VV11,Код главы домохозяйства,Code of head of household
+594,2008,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+595,2008,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+596,2008,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+597,2008,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+598,2008,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+599,2008,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+600,2008,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+601,2008,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+602,2009,FC,PER,Период разработки,development period
+603,2009,FC,TER,Шифр территории,cipher territory
+604,2009,FC,MEST,Тип населенного пункта,Type of settlement
+605,2009,FC,BUD,Номер бюджета,number budget
+606,2009,FC,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+607,2009,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+608,2009,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+609,2009,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+610,2009,FC,DOXODSN,Денежный доход ,cash income
+611,2009,FC,RASRESS,Располагаемые ресурсы ,disposable resources
+612,2009,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+613,2009,FC,RASSQ,Расходы на конечное потребление ,Final consumption expenditure
+614,2009,FC,POTRAS,Потребительские расходы,consumer spending
+615,2009,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+616,2009,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+617,2009,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+618,2009,FC,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+619,2009,FC,USLUG,Расходы на оплату услуг,'Fees
+620,2009,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+621,2009,FC,DRRAS,Другие расходы,other costs
+622,2009,FC,DENRAS,Денежные расходы,cash expenditures
+623,2009,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+624,2009,FC,NATDOX,Натуральные поступления,receipts in kind
+625,2009,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+626,2009,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+627,2009,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+628,2009,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+629,2009,FC,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+630,2009,FC,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+631,2009,FC,KVZV,Коэффициент взвешивания,weighting factor
+632,2009,FQ,PER,Период разработки,development period
+633,2009,FQ,TER,Шифр территории,cipher territory
+634,2009,FQ,MEST,Тип населенного пункта,Type of settlement
+635,2009,FQ,BUD,Номер бюджета,number budget
+636,2009,FQ,AP1,Расходы на покупку хлебобулочных изделий и крупы,The cost of buying baked goods and cereals
+637,2009,FQ,AP2,Расходы на покупку мяса и мясопродуктов,The cost of buying meat and meat products
+638,2009,FQ,AP3,Расходы на покупку рыбы и морепродуктов,The cost of buying fish and seafood
+639,2009,FQ,AP4,"Расходы на покупку молочных изделий, сыров","Expenditures for the purchase of dairy products, cheese"
+640,2009,FQ,AP5,Расходы на покупку яиц,The cost of buying eggs
+641,2009,FQ,AP6,Расходы на покупку масла и жиров,The cost of buying oil and fats
+642,2009,FQ,AP7,Расходы на покупку фруктов,The cost of buying fruit
+643,2009,FQ,AP8,Расходы на покупку овощей,The cost of buying vegetables
+644,2009,FQ,AP9,Расходы на покупку картофеля,The cost of purchasing potatoes
+645,2009,FQ,AP10,Расходы на покупку сахара и кондитерских изделий,Expenditures for the purchase of sugar and confectionery products
+646,2009,FQ,AP11,Расходы на покупку других продуктов питания,Expenditures for the purchase of other foods
+647,2009,FQ,AP12,Расходы на покупку безалкогольных напитков,Expenditures for the purchase of soft drinks
+648,2009,FQ,AP13,Стоимость натуральных поступлений хлебобулочных изделий и крупы,The cost of natural receipts of bakery products and cereals
+649,2009,FQ,AP14,Стоимость натуральных поступлений мяса и мясопродуктов,The cost of natural receipts of meat and meat products
+650,2009,FQ,AP15,Стоимость натуральных поступлений рыбы и морепродуктов,The cost of natural receipts of fish and seafood
+651,2009,FQ,AP16,"Стоимость натуральных поступлений молочных изделий, сыров","The cost of natural receipts dairy products, cheese"
+652,2009,FQ,AP17,Стоимость натуральных поступлений яиц,The cost of natural receipts eggs
+653,2009,FQ,AP18,Стоимость натуральных поступлений масла и жиров,The cost of natural oils and fats proceeds
+654,2009,FQ,AP19,Стоимость натуральных поступлений фруктов,The cost of natural receipts fruit
+655,2009,FQ,AP20,Стоимость натуральных поступлений овощей,The cost of natural receipts vegetables
+656,2009,FQ,AP21,Стоимость натуральных поступлений картофеля,The cost of natural receipts potatoes
+657,2009,FQ,AP22,Стоимость натуральных поступлений сахара и кондитерских изделий,The cost of natural receipts sugar and confectionery products
+658,2009,FQ,AP23,Расходы на покупку табачных изделий,The cost of purchasing tobacco products
+659,2009,FQ,AP24,Расходы на покупку одежды и обуви,Expenditures for the purchase of clothing and footwear
+660,2009,FQ,AP25,"Расходы на оплату жилищных услуг, воды, электроэнергии, газа и другого топлива","Costs for housing services, water, electricity, gas and other fuels"
+661,2009,FQ,AP26,"Расходы на покупку предметов домашнего обихода, бытовой техники и на повседневный уход за домом","Expenditures for the purchase of household items, household appliances and daily care of the house"
+662,2009,FQ,AP27,Расходы на здравоохранение,Health expenditures
+663,2009,FQ,AP29,Расходы на транспорт,Freight costs
+664,2009,FQ,AP30,Расходы на связь,Communication Costs
+665,2009,FQ,AP31,Расходы на организацию отдыха и культурные мероприятия,Spending on recreation and cultural activities
+666,2009,FQ,AP32,Расходы на образование,Expenditure on education
+667,2009,FL,PER,Период разработки,development period
+668,2009,FL,TER,Шифр территории,cipher territory
+669,2009,FL,MEST,Тип населенного пункта,Type of settlement
+670,2009,FL,BUD,Номер бюджета,number budget
+671,2009,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+672,2009,FL,POL,Пол,Paul
+673,2009,FL,R1AV2,Число исполнившихся лет,The number of complete years
+674,2009,FL,R1AV10,Уровень образования,education Level
+675,2009,FL,R1AV11,Учеба в настоящее время,Study now
+676,2009,FL,R1BV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+677,2009,FL,RABN,Число отработанных недель,Number of working weeks
+678,2009,FL,ISKN,Число недель отсутствия работы и ее поиска,The number of weeks of unemployment and search
+679,2009,FL,OTDN,Число недель отсутствия работы и отказа от ее поиска,The number of weeks of unemployment and its refusal to search
+680,2009,FL,R1BV7,Статус в занятости по основному месту работы,Status in employment in the main job
+681,2009,FL,R1BV16,Наличие пособия по безработице,The presence of unemployment benefits
+682,2009,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца",Category characterizing the position of the last 3 months
+683,2009,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+684,2009,FL,R1GV21,Вид назначенной пенсии,View granted pension
+685,2009,FL,R1GV22,Вид второй назначенной пенсии,View second granted pension
+686,2009,FL,R1EV1,Тип посещаемого образовательного учреждения,Type of educational institution visited
+687,2009,FL,R1EV4,Форма собственности посещаемого образовательного учреждения,Ownership attend educational institutions
+688,2009,FL,R1EV5,Платное или бесплатное обучение,Paid or free training
+689,2009,FL,R1EV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+690,2009,FL,R1EV13,Форма собственности посещаемого дошкольного учреждения,Ownership attend preschool
+691,2009,FN,PER,Период разработки,development period
+692,2009,FN,TER,Шифр территории,cipher territory
+693,2009,FN,MEST,Тип населенного пункта,Type of settlement
+694,2009,FN,BUD,Номер бюджета,number budget
+695,2009,FN,R1VV11,Код главы домохозяйства,Code of head of household
+696,2009,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+697,2009,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+698,2009,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+699,2009,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+700,2009,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+701,2009,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+702,2009,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+703,2009,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+704,2010,FC,PER,Период разработки,development period
+705,2010,FC,TER,Шифр территории,cipher territory
+706,2010,FC,MEST,Тип населенного пункта,Type of settlement
+707,2010,FC,BUD,Номер бюджета,number budget
+708,2010,FC,CHLICO,Число лиц в домохозяйстве,Number of persons in the household
+709,2010,FC,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+710,2010,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+711,2010,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+712,2010,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+713,2010,FC,CLDP,Число человеко-дней питания,The number of man-days supply
+714,2010,FC,DOXODSN,Денежный доход ,cash income
+715,2010,FC,DOXODN,Среднедушевой денежный доход,Per capita income
+716,2010,FC,RASRESS,Располагаемые ресурсы ,disposable resources
+717,2010,FC,RASRES,Среднедушевые располагаемые ресурсы,Per capita disposable resources
+718,2010,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+719,2010,FC,RASSQ,Расход на конечное потребление ,Final consumption expenditure
+720,2010,FC,RASQ,Среднедушевой расход на конечное потребление,Per capita expenditures on final consumption
+721,2010,FC,POTRAS,Потребительские расходы,consumer spending
+722,2010,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+723,2010,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+724,2010,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+725,2010,FC,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+726,2010,FC,USLUG,Расходы на оплату услуг,'Fees
+727,2010,FC,PROMPOT,Расходы на промежуточное потребление и валовое накопление,Expenditure on intermediate consumption and gross capital formation
+728,2010,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+729,2010,FC,DRRAS,Другие расходы,other costs
+730,2010,FC,DENRAS,Денежные расходы,cash expenditures
+731,2010,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+732,2010,FC,NATDOX,Натуральные поступления,receipts in kind
+733,2010,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+734,2010,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+735,2010,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+736,2010,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+737,2010,FC,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+738,2010,FC,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+739,2010,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+740,2010,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+741,2010,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+742,2010,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+743,2010,FC,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+744,2010,FC,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+745,2010,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+746,2010,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+747,2010,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+748,2010,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+749,2010,FC,R1GV135,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: социальное пособие малоимущим","Types of benefits, subsidies or compensation, relying household members: social benefits to the poor"
+750,2010,FC,R1GV136,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: другие пособия или субсидии отдельным категориям граждан","Types of benefits, subsidies or compensation, relying household members: other benefits or subsidies to certain categories of citizens"
+751,2010,FC,R1GV131,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие по уходу за ребенком до 1,5 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for child care up to 1.5 years"
+752,2010,FC,R1GV132,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: ежемесячное пособие на ребенка до 16 лет","Types of benefits, subsidies or compensation, relying household members: a monthly allowance for a child under the age of 16"
+753,2010,FC,R1GV133,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: бесплатное пользование молочной кухней","Types of benefits, subsidies or compensation, relying household members: free use of dairy kitchen"
+754,2010,FC,R1GV134,"Виды пособий, субсидий или компенсаций, полагающихся членам домохозяйства: жилищные субсидии","Types of benefits, subsidies or compensation, relying household members: housing subsidies"
+755,2010,FC,KVZV,Коэффициент взвешивания,weighting factor
+756,2010,FL,PER,Период разработки,development period
+757,2010,FL,TER,Шифр территории,cipher territory
+758,2010,FL,MEST,Тип населенного пункта,Type of settlement
+759,2010,FL,BUD,Номер бюджета,number budget
+760,2010,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+761,2010,FL,POL,Пол,Paul
+762,2010,FL,R1АV2,Число исполнившихся лет,The number of complete years
+763,2010,FL,R1АV3,"Отношение к члену д/х, записанному первым","Towards members of d / s, write the first"
+764,2010,FL,R1АV4,Индивидуальный код матери (отца),Individual code of the mother (father)
+765,2010,FL,R1АV5,Число дней отсутствия за последние 3 месяца,The number of days of absence for the last 3 months
+766,2010,FL,R1АV6,Причина  отсутствия за последние 3 месяца,The reason for the absence of the last 3 months
+767,2010,FL,R1АV7,Семейное положение,marital status
+768,2010,FL,R1АV10,Уровень образования,education Level
+769,2010,FL,R1ВV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+770,2010,FL,R1ВV2,Причина отсутствия на работе,The reason for absence from work
+771,2010,FL,R1BV3,Причина отсутствия работы,The reason for lack of work
+772,2010,FL,RABN,Число отработанных недель,Number of working weeks
+773,2010,FL,ISKN,Число недель не работал и искал работу,The number of weeks worked and was looking for work
+774,2010,FL,OTDN,Число недель не работал и не искал работу,The number of weeks worked and not looking for work
+775,2010,FL,R1ВV7,Статус по основному месту работы,Status on the main job
+776,2010,FL,R1BV8,Наличие дополнительного доходного занятия,An additional gainful employment
+777,2010,FL,R1BV9,Статус по дополнительному месту работы,Status under the additional workplace
+778,2010,FL,R1BV10,Число недель занятости на дополнительной работе за последние 3 месяца,The number of weeks of employment for the extra work over the last 3 months
+779,2010,FL,R1BV111,"Признак нахождения основной работы там, где проживает данное лицо","Symptom main finding work there, where the person"
+780,2010,FL,R1BV112,Признак нахождения основной работы в другом регионе,Sign of finding employment in another region
+781,2010,FL,R1BV12,Код региона нахождения основной работы ,Region code finding basic work
+782,2010,FL,R1BV15,Наличие регистрации в Службе занятости как безработный ,Availability of registration with the Employment Service as unemployed
+783,2010,FL,R1BV16,Наличие пособия по  безработице,The presence of unemployment benefits
+784,2010,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца  ",Category characterizing the position of the last 3 months
+785,2010,FL,R1BV18,Наличие свидетельства пенсионного страхования ,Evidence of pension insurance
+786,2010,FL,R1BV19,Наличие информации о перечисленных суммах в Пенсионный фонд ,Availability of information on the amounts listed in the Pension Fund
+787,2010,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+788,2010,FL,R1GV21,1-ый вид пенсии,The first type of pension
+789,2010,FL,R1GV22,2-ой вид  пенсии,The second type of pension
+790,2010,FL,R1GV3,Наличие дополнительного пенсионного обеспечения,The presence of supplementary pension
+791,2010,FL,R1GV41,Источник дополнительного пенсионного обеспечения от администрации,Source supplementary pension from the administration
+792,2010,FL,R1GV42,Источник дополнительного пенсионного обеспечения от негосударственных пенсионных фондов,Source supplementary pension from the private pension funds
+793,2010,FL,R1GV5,"Сумма пенсии, выплаченная за последние 3 месяца  (с учетом дополнительного пенсионного обеспечения)",The amount of pensions paid in the last 3 months (subject to supplementary pension)
+794,2010,FL,R1GV61,1-ый код льготной категории на право  получения государственной социальной поддержки,First code to discounts on the right to receive state social support
+795,2010,FL,R1GV62,2-ой код льготной категории на право  получения государственной социальной поддержки,Second code to discounts on the right to receive state social support
+796,2010,FL,R1GV63,Не относится ни к одной из категории в.6,Does not apply to any of the categories B.6
+797,2010,FL,R1GV7,Факт пользования льготами в течение последних трех месяцев,The fact of using privileges during the last three months
+798,2010,FL,R1GV81,Пользовались бесплатным лекарственным обеспечением,Enjoy free drug supply
+799,2010,FL,R1GV82,Получали бесплатное санаторно-курортное лечение,Receive free spa treatment
+800,2010,FL,R1GV83,Пользовались бесплатным или льготным проездом на междугородном транспорте к месту лечения и обратно,Enjoy free or discounted travel on intercity transport to the place of treatment
+801,2010,FL,R1GV84,Пользовались бесплатным проездом пригородным железнодорожным транспортом,Enjoy free travel commuter rail
+802,2010,FL,R1GV91,1-ый код льготной категории ,First code privileged category
+803,2010,FL,R1GV92,2-ый код льготной категории ,2-th code privileged category
+804,2010,FL,R1GV93,3-ый код льготной категории ,3 rd code privileged category
+805,2010,FL,R1GV94,Не относится ни к одной из категории в.9,Does not apply to any of the categories B.9
+806,2010,FL,R1GV10,"Получение ежемесячных денежных выплат, установленных с января 2005 года","Preparation of monthly payments, established in January 2005"
+807,2010,FL,R1GV11,"Сумма полученных ежемесячных денежных выплат, установленных с января 2005 года",Amount received monthly payments established in January 2005
+808,2010,FL,,Виды социальной поддержки,Types of social support
+809,2010,FL,R1GV121,по оплате жилья,for housing
+810,2010,FL,R1GV122,по оплате коммунальных услуг,on public utilities
+811,2010,FL,R1GV123,по оплате за пользование телефоном или его установку,to pay for the use of the phone or its installation
+812,2010,FL,R1GV124,по оплате расходов на покупку топлива и его доставку,to pay the expenses for the purchase of fuel and its delivery
+813,2010,FL,R1GV125,по оплате проезда в городском транспорте,to pay for travel on public transport
+814,2010,FL,R1GV126,по оплате проезда в пригородном транспорте,on payment of travel in suburban transport
+815,2010,FL,R1GV127,по оплате проезда в междугородном транспорте,to pay for travel in long-distance transport
+816,2010,FL,R1GV128,по оплате лекарств,to pay for drugs
+817,2010,FL,R1GV129,по оплате за протезирование,to pay for prosthetics
+818,2010,FL,R1GV1210,по оплате путевок для санаторно-курортного лечения,payment vouchers for spa treatment
+819,2010,FL,R1DV1,Приобретались ли в течение последних трех месяцев лекарства или медикаменты,Whether purchased within the last three months of medication or drugs
+820,2010,FL,R1DV2,За чей счет приобретались лекарства или медикаменты,At whose expense to purchase drugs or medications
+821,2010,FL,R1DV3,Ваши расходы на приобретение лекарств или медикаментов в среднем за месяц,Your costs for the purchase of drugs or medicines on average per month
+822,2010,FL,R1DV4,Примерная экономия в среднем за один месяц от приобретения бесплатных лекарств или приобретенных по льготной цене,Approximate savings of an average of one month from the acquisition of free medicines or purchased at a reduced price
+823,2010,FL,R1DV51,Обращения в медицинское учреждение по причине: заболевание,Treatment in a medical institution for a reason: disease
+824,2010,FL,R1DV52,"Обращения в медицинское учреждение по причине: реабилитация перенесенного заболевания, последствия травм, ранений","Treatment in a medical institution for a reason: the rehabilitation of this illness, the effects of trauma, injury"
+825,2010,FL,R1DV53,Обращения в медицинское учреждение по причине: получение рецепта,Treatment in a medical institution for a reason: to obtain a prescription
+826,2010,FL,R1DV54,"Обращения в медицинское учреждение по причине: получение медицинских справок, выписок и т.п.","Treatment in a medical institution for a reason: to obtain medical certificates, statements, etc."
+827,2010,FL,R1DV55,Обращения в медицинское учреждение по причине: педиатрическое наблюдение за детьми раннего возраста,Treatment in a medical facility due to: pediatric observation of young children
+828,2010,FL,R1DV56,Обращения в медицинское учреждение по причине: профилактический осмотр,Treatment in a medical institution for a reason: routine inspection
+829,2010,FL,R1DV57,Обращения в медицинское учреждение по причине: другое,Treatment in a medical institution for a reason: Other
+830,2010,FL,R1DV58,Обращения в медицинское учреждение по причине: не было необходимости,Treatment in a medical institution for a reason: it was not necessary
+831,2010,FL,R1DV6,Факт обращения за медицинской помощью,The fact that access to medical care
+832,2010,FL,R1DV71,Обращение за амбулаторно-поликлинической или диспансерной помощью,Applying for outpatient dispensary or via
+833,2010,FL,R1DV72,Обращение за стоматологической помощью,Applying for dental care
+834,2010,FL,R1DV73,Обращение за скорой помощью,Applying for ambulance
+835,2010,FL,R1DV74,Обращение за стационарной помощью,Applying for hospital care
+836,2010,FL,R1DV8,Наличие оплаты (официальной или неофициальной) медицинской помощи или других медицинских услуг,"Availability Payment (formal or informal) care, or other health care provider"
+837,2010,FL,R1DV91,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прием и консультации у врачей общего профиля",The amount spent on health care or payment for health care services: for the reception and consultations with general practitioners
+838,2010,FL,R1DV92,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прием и консультации у врачей специалистов",The amount spent on health care or payment for health care services: for receiving and advice from medical specialists
+839,2010,FL,R1DV93,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за хирургические операции",The amount spent on health care or payment for health care services: for surgery
+840,2010,FL,R1DV94,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за пребывание в родильном доме, родовспоможение","The amount spent on health care or payment for health care services: for staying in the nursing home, assisted delivery"
+841,2010,FL,R1DV95,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за медицинские процедуры (инъекции, капельницы и т.п.), уход за больными","The amount spent on health care or payment for health care services: for medical procedures (injections, IVs, etc.), nursing"
+842,2010,FL,R1DV96,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лабораторные анализы и медицинское исследование (УЗИ, рентген, анализы и т.п.)","The amount spent on health care or payment for health care services: for laboratory tests and medical research (ultrasound, x-rays, tests, etc.)"
+843,2010,FL,R1DV97,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за массаж, мануальную терапию, лечебную гимнастику и т.п.","The amount spent on health care or payment for health care services: for massage, manual therapy, physiotherapy, etc."
+844,2010,FL,R1DV98,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лекарства и медицинские материалы при госпитализации",The amount spent on health care or payment for health care: for medicines and medical supplies at admission
+845,2010,FL,R1DV99,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прочие медицинские услуги(выдача мед-ских справок, перевоз к месту лечения и т.п.)","The amount spent on health care or payment for health care services: for other medical services (issuing medical certificates-ing, transportation to the place of treatment, etc.)"
+846,2010,FL,R1DV910,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лечение зубов",The amount spent on health care or payment for health care services: for dental treatment
+847,2010,FL,R1DV911,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за зубное протезирование",The amount spent on health care or payment for health care services: for dentures
+848,2010,FL,R1DV912,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за профилактические осмотры и консультации специалистов(ортодонтов, парадонтологов и т.п.)","The amount spent on health care or payment for health care services: for preventive examinations and consultations with specialists (orthodontists, paradontologa etc.)"
+849,2010,FL,R1DV913,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за стоматологические хирургические операции",The amount spent on health care or payment for health care services: for dental surgery
+850,2010,FL,R1DV914,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за вывоз и оказание скорой помощи",The amount spent on health care or payment for health care services: for export and render first aid
+851,2010,FL,R1DV915,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за направление на госпитализацию",The amount spent on health care or payment for health care services: in the direction of hospitalization
+852,2010,FL,R1DV916,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лекарства и медикаменты",The amount spent on health care or payment for health care services: for drugs
+853,2010,FL,R1DV917,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за перевозку к месту лечения и обратно",The amount spent on health care or payment for health care services: for transportation to the place of treatment
+854,2010,FL,R1DV10,Причина необращения за медицинской помощью,The reason for not seeking medical care
+855,2010,FL,R1DV111,Год последнего посещения терапевтов,Year last visit therapists
+856,2010,FL,R1DV112,Год последнего посещения врачей-специалистов,Year last visit medical specialists
+857,2010,FL,R1DV113,Год последнего посещения врачей-стоматологов,Year last visit dentists
+858,2010,FL,R1ЕV1,Место учебы,place of study
+859,2010,FL,R1ЕV2,Расположение места учебы,Location of placement
+860,2010,FL,R1ЕV3,Код региона места учебы,The region code of placement
+861,2010,FL,R1ЕV4,Форма собственности учебного заведения,Ownership of the institution
+862,2010,FL,R1ЕV5,Платное или бесплатное обучение,Paid or free training
+863,2010,FL,R1ЕV61,Плата за учебу: сам или Ваше домохозяйство,Tuition fee: self or your household
+864,2010,FL,R1ЕV62,"Плата за учебу: предприятие, организация по месту работы",Tuition fee: enterprise organization in the workplace
+865,2010,FL,R1ЕV63,"Плата за учебу: спонсоры, родственники","Tuition fee: sponsors, relatives"
+866,2010,FL,R1ЕV7,Сколько Ваше домохозяйство заплатило за учебу,How much your household paid for the study
+867,2010,FL,R1ЕV81,"Покупка учебников, обучающих программ, канцелярских товаров и т.п.","Purchase of textbooks, training programs, office supplies, etc."
+868,2010,FL,R1ЕV82,Плата за группу продленного дня,The fee for day care
+869,2010,FL,R1ЕV83,"Покупка школьной формы, форменной или рабочей одежды","Buying school uniforms, uniforms or work clothes"
+870,2010,FL,R1ЕV84,"Оплата за пересдачу зачетов, экзаменов и т.п..","Fee to re-tests, exams etc .."
+871,2010,FL,R1ЕV85,Плата за покупку материалов или оборудования для учебного заведения,Payment for the purchase of materials or equipment for educational institutions
+872,2010,FL,R1ЕV86,Транспортные расходы,transportation costs
+873,2010,FL,R1ЕV87,Питание (организованное),Power (organized)
+874,2010,FL,R1ЕV88,"Плата за уборку, ремонт и охрану учебного заведения","Fee for cleaning, repair and protection of the institution"
+875,2010,FL,R1ЕV89,"Оплата общежития, наем жилья","Payment hostels, tenancy"
+876,2010,FL,R1ЕV810,"Спонсорские взносы, подарки преподавателям и т.п.","Sponsorship contributions, gifts for teachers, etc."
+877,2010,FL,R1ЕV9,Посещение дополнительных занятий,Visiting extra classes
+878,2010,FL,R1ЕV10,Оплата этих занятий  домохозяйством,Payment for these classes household
+879,2010,FL,R1ЕV111,"Расходы, связанные с дополнительным обучением: оплата занятий по договору с образовательным учреждением",Costs associated with the additional training: payment of employment on contract with an educational institution
+880,2010,FL,R1ЕV112,"Расходы, связанные с дополнительным обучением: оплата занятий по договору с частным лицом",Costs associated with the additional training: lessons payment under a contract with a private person
+881,2010,FL,R1ЕV113,"Расходы, связанные с дополнительным обучением: покупка учебников, методических материалов","Costs associated with the additional training: purchase of textbooks, teaching materials"
+882,2010,FL,R1ЕV114,"Расходы, связанные с дополнительным обучением: покупка материалов или оборудования для занятий",Costs associated with the additional training: the purchase of materials or equipment for training
+883,2010,FL,R1ЕV115,"Расходы, связанные с дополнительным обучением: покупка предметов, одежды и обуви для занятий спортом",Costs associated with the additional training: purchase items of clothing and footwear for sports
+884,2010,FL,R1ЕV116,"Расходы, связанные с дополнительным обучением: спонсорские взносы, подарки преподавателям","Costs associated with the additional training: sponsorship contributions, gifts for teachers"
+885,2010,FL,R1ЕV117,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: плата за подготовительные курсы и занятия",Costs associated with the preparation of learning in an educational institution: fees for training courses and classes
+886,2010,FL,R1ЕV118,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: оплата репетиторов",Costs associated with the preparation of learning in an educational institution: payment tutors
+887,2010,FL,R1ЕV119,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: покупка учебников, методических материалов","Costs associated with the preparation for training in educational institution: the purchase of textbooks, teaching materials"
+888,2010,FL,R1ЕV1110,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: вступительные (спонсорские) взносы, затраты на оформление, подарки преподавателям","Costs associated with the preparation for training in educational institution: the entrance (sponsored) contributions, the cost of design, gifts for teachers"
+889,2010,FL,R1ЕV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+890,2010,FL,R1ЕV13,Статус  посещаемого дошкольного учреждения,Status attend preschool
+891,2010,FL,R1ЕV14,Платное или бесплатное посещение дошкольного учреждения,Paid or free access to preschool
+892,2010,FL,R1ЕV151,Оплата посещения  дошкольного учреждения: домохозяйством,Payment visiting preschool: household
+893,2010,FL,R1ЕV152,"Оплата посещения  дошкольного учреждения: предприятием, организацией по месту работы",Payment visiting preschool: enterprise organization in the workplace
+894,2010,FL,R1ЕV153,"Оплата посещения  дошкольного учреждения: спонсорами, родственниками- не членами д/х","Payment visiting preschool: sponsors, rodstvennikami- not members of the H / H"
+895,2010,FL,R1ЕV16,"Сумма, заплаченная домохозяйством за посещение ребенком дошкольного учреждения",The amount paid by the household for visiting preschool child
+896,2010,FL,R1ЕV171,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: покупка обучающих программ, плата за материалы или оборудование занятий","Other costs associated with the presence of a child in preschool: the purchase of training programs, payment for materials or equipment classes"
+897,2010,FL,R1ЕV172,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: питание (организованное)",Other costs associated with the presence of a child in preschool: food (organized)
+898,2010,FL,R1ЕV173,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: плата за уборку, ремонт и охрану дошкольного заведения","Other costs associated with the presence of a child in preschool: cleaning fee, repair and protection of pre-school establishments"
+899,2010,FL,R1ЕV174,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: спонсорские взносы, подарки воспитателям и т.п.","Other costs associated with the presence of a child in preschool: sponsorship contributions, gifts to teachers, etc."
+900,2010,FL,R1ЕV18,"Кто присматривает за ребенком, не посещающим дошкольное учреждение",Who looks after the child does not attend preschool
+901,2010,FL,R1ЕV191,Плата за присмотр за ребенком: домохозяйством,Payment for child care: the household
+902,2010,FL,R1ЕV192,"Плата за присмотр за ребенком: спонсорами, родственниками - не членами д/х","Payment for child care: sponsors, relatives - not members of H / H"
+903,2010,FL,R1ЕV20,Сколько платит Ваша семья за присмотр ребенка,How much to pay for your family child care
+904,2010,FL,R1ЕV21,Посещение ребенком дополнительных занятий,Seen child extra classes
+905,2010,FL,R1ЕV22,Оплачивались ли дополнительные занятия из средств домохозяйства,Paid for any additional classes from the household
+906,2010,FL,R1ЕV231,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: оплата занятий по организованной коллективной форме или по индивидуальной программе",Costs associated with the presence of a child in preschool additional: payment of employment on an organized form of collective or individual program
+907,2010,FL,R1ЕV232,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: покупка учебников, методических материалов, книг, канцтоваров, игр и игрушек","Costs associated with the presence of a child in preschool additional: buy textbooks, teaching materials, books, stationery, toys and games"
+908,2010,FL,R1ЕV233,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: покупка материалов или оборудования для занятий",Costs associated with the presence of a child in preschool additional: purchase of materials or equipment for training
+909,2010,FL,R1ЕV234,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: спонсорские взносы, подарки воспитателям и т.п.","Costs associated with the presence of a child in preschool additional: sponsorship contributions, gifts to teachers, etc."
+910,2010,FL,R1ЕV24,Необходимость индивидуальной медицинской или психолого-педагогической поддержке,The need for individual medical or psychological-pedagogical support
+911,2010,FL,R1ЕV251,Посещение специального (коррекционного) учреждения на постоянной основе,A visit to a special (correctional) institutions on a regular basis
+912,2010,FL,R1ЕV252,Посещение врачей и специалистов-педагогов,Visiting physicians and specialists and educators
+913,2010,FL,R1ЕV26,Сколько платит Ваша семья за индивидуальную медицинскую или психолого-педагогическую поддержку,How much to pay your family for an individual medical or psychological-pedagogical support
+914,2010,FN,PER,Период разработки,development period
+915,2010,FN,TER,Шифр территории,cipher territory
+916,2010,FN,MEST,Тип населенного пункта,Type of settlement
+917,2010,FN,BUD,Номер бюджета,number budget
+918,2010,FN,R1VV11,Код главы домохозяйства,Code of head of household
+919,2010,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+920,2010,FN,R1VV21,График работы главы домохозяйства,Schedule of household head
+921,2010,FN,R1VV22,График работы супруга(и)  главы домохозяйства,Schedule of spouse (s) of the household head
+922,2010,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+923,2010,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+924,2010,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+925,2010,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+926,2010,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+927,2010,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+928,2010,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+929,2010,FN,R2V2,Примерный денежный доход домохозяйства (код интервала),The approximate cash income households (code interval)
+930,2010,FN,R2V31,Выплаты по страхованию жизни,Payment of life insurance
+931,2010,FN,R2V32,"Выплаты по другим видам страхования (здоровье, имущество, жилье)","Payments for other types of insurance (health, property, housing)"
+932,2010,FN,R2V33,"Помощь или подарки от детей, родственникам и других лиц","Help or gifts from children, relatives and other persons"
+933,2010,FN,R2V34,Получение наследства,inheritance
+934,2010,FN,R2V35,Получение выигрышей от участия в лотереях и играх,Gains from participation in lotteries and games
+935,2010,FN,R2V36,Помощь в связи с особыми обстоятельствами и др. поступления,Assistance in connection with the special circumstances and others. Income
+936,2010,FN,R2V41,Суммы полученных денег: от выплат по страхованию жизни,The sum of money received from payments for life insurance
+937,2010,FN,R2V42,"Суммы полученных денег: от выплат по другим видам страхования (здоровье, имущество, жилье)","The sum of money received from payments for other types of insurance (health, property, housing)"
+938,2010,FN,R2V43,"Суммы полученных денег: от помощи или подарки от детей, родственникам и других лиц","Amounts received money from aid or gifts from children, relatives and other persons"
+939,2010,FN,R2V44,Суммы полученных денег: от полученного наследства,The sum of money received from the resulting inheritance
+940,2010,FN,R2V45,Суммы полученных денег: от полученных выигрышей от участия в лотереях и играх,The sum of money received from gains from participation in lotteries and games
+941,2010,FN,R2V46,Суммы полученных денег: от помощи в связи с особыми обстоятельствами и др. поступления,"The sum of money received from assistance due to special circumstances, and others. Income"
+942,2010,FN,R2V51,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: зерно,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: grain"
+943,2010,FN,R2V52,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: продовольственные товары,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: food products"
+944,2010,FN,R2V53,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: непродовольственные товары,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: non-food products"
+945,2010,FN,R2V54,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: бесплатное питание,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: a free meal"
+946,2010,FN,R2V55,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата  транспортных расходов,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of transportation costs"
+947,2010,FN,R2V56,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата жилья и коммунальных услуг,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of housing and communal services"
+948,2010,FN,R2V57,"Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата ремонта, стр-ва и приобретения жилья","Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of repair, pp Islands and home"
+949,2010,FN,R2V58,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата медицинского обслуживания и отдыха,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of health care and recreation"
+950,2010,FN,R2V59,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата содержания детей в детучреждениях,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of children in detuchrezhdeniyah"
+951,2010,FN,R2V510,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата обучения,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: tuition"
+952,2010,FN,R2V61,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: зерно,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: grain"
+953,2010,FN,R2V62,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: продовольственные товары,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: food products"
+954,2010,FN,R2V63,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: непродовольственные товары,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: non-food products"
+955,2010,FN,R2V64,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: бесплатное питание,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: a free meal"
+956,2010,FN,R2V65,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата  транспортных расходов,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of transportation costs"
+957,2010,FN,R2V66,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата жилья и коммунальных услуг,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of housing and communal services"
+958,2010,FN,R2V67,"Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата ремонта, стр-ва и приобретения жилья","Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of repair, pp Islands and home"
+959,2010,FN,R2V68,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата медицинского обслуживания и отдыха,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of health care and recreation"
+960,2010,FN,R2V69,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата содержания детей в детучреждениях,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of children in detuchrezhdeniyah"
+961,2010,FN,R2V610,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата обучения,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: tuition"
+962,2010,FN,R2V7,Расходование сбережений или взятых в долг денег,Expenditure savings or borrowed money
+963,2010,FN,R2V81,Снятие денег с банковского счета,Withdrawing money from your bank account
+964,2010,FN,R2V82,Расходование денежного сбережения или остатка дохода предыдущего периода,Debit balance of savings or income of the previous period
+965,2010,FN,R2V83,Продажа ценных бумаг,Sales of securities
+966,2010,FN,R2V84,Продажа имущества или вещей,Sale of property or things
+967,2010,FN,R2V85,Выручка от продажи имущества или вещей,Proceeds from the sale of property or things
+968,2010,FN,R2V86,Продажа недвижимости,property For Sale
+969,2010,FN,R2V87,"Взяли ссуду, кредит","Have taken a loan, credit"
+970,2010,FN,R2V88,"Получение денег, взятых в долг",Getting the money borrowed
+971,2010,FN,R2V89,Взяли деньги в долг,Took the money in the debt
+972,2010,FN,R2V810,Другое,other
+973,2010,FN,R2V9,Общая сумма дополнительных денежных средств,The total amount of additional funds
+974,2010,FN,R2V10,"Сумма израсходованная на покупку валюты, пополнение банковского счета, дача в долг","The sum spent for the purchase of foreign currency, the completion of the bank account, giving a loan"
+975,2010,FN,R2V11,Остатки денежных средств за текущий период,Cash balances for the current period
+976,2010,FH,PER,Период разработки,development period
+977,2010,FH,TER,Шифр территории,cipher territory
+978,2010,FH,MEST,Тип населенного пункта,Type of settlement
+979,2010,FH,BUD,Номер бюджета,number budget
+980,2010,FH,R3GV1,Форма собственности основного жилья,Ownership of the main housing
+981,2010,FH,R3GV2,Доля средств домохозяйства в оплате жилья,The share of households in housing costs
+982,2010,FH,R3GV31,"Государства, муниципалитета","State, municipality"
+983,2010,FH,R3GV32,Предприятия по месту работы,Companies in the workplace
+984,2010,FH,R3GV33,Другого домохозяйства,other households
+985,2010,FH,R3GV34,Благотворительной или иной организация,Charity or other organization
+986,2010,FH,R3GV4,Наличие оплаты основного жилья за последние 3 месяца,Availability Payment of housing over the past 3 months
+987,2010,FH,R3GV5,Причина неоплаты жилья,The reason for non-payment of housing
+988,2010,FH,R3GV6,Плата за аренду жилье у частных лиц,Fee for rent housing from private individuals
+989,2010,FH,R3GV91,Другого жилья помимо основного,Another addition to the main housing
+990,2010,FH,R3GV92,Индивидуального дома или части дома,Individual house or the house
+991,2010,FH,R3GV93,Дачи или дома для сезонного проживания,Cottages or houses for seasonal residence
+992,2010,FH,R3GV94,Гаража стационарного,garage stationary
+993,2010,FH,R3GV95,Другого строения,other buildings
+994,2010,FH,R3GV15,Наличие  строительства или ремонта недвижимости,The presence of the construction or repair of real estate
+995,2010,FH,R3GV16,"Тип постройки, где проводились основные работы","Type of construction, where major works were carried out"
+996,2010,FH,R3GV17,Вид проводимых работ,Type of work done
+997,2010,FH,R3GV18,Исполнитель основных работ,Artist major works
+998,2011,FC,PER,Период разработки,development period
+999,2011,FC,TER,Шифр территории,cipher territory
+1000,2011,FC,MEST,Тип населенного пункта,Type of settlement
+1001,2011,FC,BUD,Номер бюджета,number budget
+1002,2011,FC,CHLICO,Число лиц в домохозяйстве,Number of persons in the household
+1003,2011,FC,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+1004,2011,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+1005,2011,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+1006,2011,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+1007,2011,FC,CLDP,Число человеко-дней питания,The number of man-days supply
+1008,2011,FC,DOXODSN,Денежный доход ,cash income
+1009,2011,FC,DOXODN,Среднедушевой денежный доход,Per capita income
+1010,2011,FC,RASRESS,Располагаемые ресурсы ,disposable resources
+1011,2011,FC,RASRES,Среднедушевые располагаемые ресурсы,Per capita disposable resources
+1012,2011,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+1013,2011,FC,RASSQ,Расход на конечное потребление ,Final consumption expenditure
+1014,2011,FC,RASQ,Среднедушевой расход на конечное потребление,Per capita expenditures on final consumption
+1015,2011,FC,POTRAS,Потребительские расходы,consumer spending
+1016,2011,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+1017,2011,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+1018,2011,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+1019,2011,FC,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+1020,2011,FC,USLUG,Расходы на оплату услуг,'Fees
+1021,2011,FC,PROMPOT,Расходы на промежуточное потребление и валовое накопление,Expenditure on intermediate consumption and gross capital formation
+1022,2011,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+1023,2011,FC,DRRAS,Другие расходы,other costs
+1024,2011,FC,DENRAS,Денежные расходы,cash expenditures
+1025,2011,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+1026,2011,FC,NATDOX,Натуральные поступления,receipts in kind
+1027,2011,FC,R1GV91,"Субсидии на оплату жилья и коммунальных услуг, получаемые перечислением на банковские счета",Subsidies for housing and communal services received by transfer to bank accounts
+1028,2011,FC,R1GV92,"Субсидии на оплату жилья и коммунальных услуг, включенные в счета на оплату",Subsidies for housing and utilities included in the invoice
+1029,2011,FC,R1GV93,Иные денежные компенсации на оплату жилья и коммунальных услуг,Other monetary compensation for housing and communal services
+1030,2011,FC,R1GV94,Льготы (скидки) при оплате счетов за электричество,Benefits (discounts) for electricity bills
+1031,2011,FC,R1GV95,Льготы (скидки) при оплате счетов за услуги телефонной сети,Benefits (discounts) when paying bills for telephone services
+1032,2011,FC,R1GV96,Льготы (скидки) на покупку топлива,Benefits (discounts) for the purchase of fuel
+1033,2011,FC,R1GV97,Льготы по оплате за вывоз мусора и обеззараживание твердых бытовых отходов,Benefits to pay for garbage removal and disinfection of municipal solid waste
+1034,2011,FC,R1GV98,Единовременная помощь на ремонт жилья и др.,One-time assistance for housing repairs and other.
+1035,2011,FC,R1GV99,Ничего из перечисленного,None of the above
+1036,2011,FC,R1GV10,Обращение кого-либо из членов домохозяйства в органы социальной  защиты с заявлением об оказании материальной помощи в связи с недостаточностью дохода,Handling any of the household members in the social security authorities with a statement on the provision of financial assistance due to insufficient income
+1037,2011,FC,R1GV111,Получение домохозяйством социального пособия малоимущим (семьям или одиноко проживающим гражданам) в течение последних трех месяцев,Getting the household Social Security Income (families or living alone citizens) within the last three months
+1038,2011,FC,R1GV112,Получение домохозяйством помощи по чрезвычайным обстоятельствам в течение последних трех месяцев,Getting household assistance Emergency in the last three months
+1039,2011,FC,R1GV113,Отсутствие у домохозяйства перечисленных видов материальной помощи от органов социальной защиты в течение последних трех месяцев,Lack of households enumerated types of material assistance from the social security authorities during the last three months
+1040,2011,FC,R1GV121,Единовременная денежная выплата за счет средств материнского капитала,Lump-sum payments at the expense of the parent capital
+1041,2011,FC,R1GV122,Ежемесячное пособие на ребенка,Monthly child allowance
+1042,2011,FC,R1GV123,"Ежемесячное пособие на ребенка военнослужащего, проходящего военную службу по призыву","Monthly child soldier, military service"
+1043,2011,FC,R1GV124,"Пособия и выплаты на содержание детей, оставшихся без одного или двоих родителей (за исключением пенсий по случаю потери кормильца)",Benefits and payments for the maintenance of children without one or two parents (excluding pensions survivor)
+1044,2011,FC,R1GV125,Ежемесячной компенсации платы за посещение детских дошкольных учреждений или других учреждений основного и дополнительного образования,Monthly compensation fee for attending kindergartens or other institutions of primary and secondary education
+1045,2011,FC,R1GV126,Бесплатный отпуск  молочного питания,Free vacation milk supply
+1046,2011,FC,R1GV127,Бесплатное питание в образовательном учреждении,Free meals in an educational institution
+1047,2011,FC,R1GV128,"Другие пособия или субсидии отдельным категориям семей (многодетные, неполные семьи и др.)","Other benefits or subsidies to certain categories of families (large, single-parent families, etc.)."
+1048,2011,FC,R1GV129,Ничего из перечисленного,None of the above
+1049,2011,FC,KVZV,Коэффициент взвешивания,weighting factor
+1050,2011,FL,PER,Период разработки,development period
+1051,2011,FL,TER,Шифр территории,cipher territory
+1052,2011,FL,MEST,Тип населенного пункта,Type of settlement
+1053,2011,FL,BUD,Номер бюджета,number budget
+1054,2011,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+1055,2011,FL,POL,Пол,Paul
+1056,2011,FL,R1АV2,Число исполнившихся лет,The number of complete years
+1057,2011,FL,R1АV3,"Отношение к члену д/х, записанному первым","Towards members of d / s, write the first"
+1058,2011,FL,R1АV4,Индивидуальный код матери (отца),Individual code of the mother (father)
+1059,2011,FL,R1АV5,Число дней отсутствия за последние 3 месяца,The number of days of absence for the last 3 months
+1060,2011,FL,R1АV6,Причина  отсутствия за последние 3 месяца,The reason for the absence of the last 3 months
+1061,2011,FL,R1АV7,Семейное положение,marital status
+1062,2011,FL,R1АV10,Уровень образования,education Level
+1063,2011,FL,R1ВV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+1064,2011,FL,R1ВV2,Причина отсутствия на работе,The reason for absence from work
+1065,2011,FL,R1BV3,Причина отсутствия работы,The reason for lack of work
+1066,2011,FL,RABN,Число отработанных недель,Number of working weeks
+1067,2011,FL,ISKN,Число недель не работал и искал работу,The number of weeks worked and was looking for work
+1068,2011,FL,OTDN,Число недель не работал и не искал работу,The number of weeks worked and not looking for work
+1069,2011,FL,R1ВV7,Статус по основному месту работы,Status on the main job
+1070,2011,FL,R1BV8,Наличие дополнительного доходного занятия,An additional gainful employment
+1071,2011,FL,R1BV9,Статус по дополнительному месту работы,Status under the additional workplace
+1072,2011,FL,R1BV10,Число недель занятости на дополнительной работе за последние 3 месяца,The number of weeks of employment for the extra work over the last 3 months
+1073,2011,FL,R1BV111,"Признак нахождения основной работы там, где проживает данное лицо","Symptom main finding work there, where the person"
+1074,2011,FL,R1BV112,Признак нахождения основной работы в другом регионе,Sign of finding employment in another region
+1075,2011,FL,R1BV12,Код региона нахождения основной работы ,Region code finding basic work
+1076,2011,FL,R1BV15,Наличие регистрации в Службе занятости как безработный ,Availability of registration with the Employment Service as unemployed
+1077,2011,FL,R1BV16,Наличие пособия по  безработице,The presence of unemployment benefits
+1078,2011,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца  ",Category characterizing the position of the last 3 months
+1079,2011,FL,R1BV18,Наличие свидетельства пенсионного страхования ,Evidence of pension insurance
+1080,2011,FL,R1BV19,Наличие информации о перечисленных суммах в Пенсионный фонд ,Availability of information on the amounts listed in the Pension Fund
+1081,2011,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+1082,2011,FL,R1GV21,1-ый вид пенсии,The first type of pension
+1083,2011,FL,R1GV22,2-ой вид  пенсии,The second type of pension
+1084,2011,FL,R1GV3,"Сумма пенсии, выплаченная за последние 3 месяца",The amount of pensions paid in the last 3 months
+1085,2011,FL,R1GV41,1-ый код льготной категории на право  получения государственной социальной поддержки,First code to discounts on the right to receive state social support
+1086,2011,FL,R1GV42,2-ой код льготной категории на право  получения государственной социальной поддержки,Second code to discounts on the right to receive state social support
+1087,2011,FL,R1GV43,Не относится ни к одной из льготных категорий  на право  получения государственной социальной поддержки,Does not apply to any of the privileged categories of eligibility for state social support
+1088,2011,FL,R1GV5,Факт пользования льготами в течение последних трех месяцев,The fact of using privileges during the last three months
+1089,2011,FL,R1GV61,Пользовались бесплатным лекарственным обеспечением,Enjoy free drug supply
+1090,2011,FL,R1GV62,Получали бесплатное санаторно-курортное лечение,Receive free spa treatment
+1091,2011,FL,R1GV63,Пользовались бесплатным или льготным проездом на междугородном транспорте к месту лечения и обратно,Enjoy free or discounted travel on intercity transport to the place of treatment
+1092,2011,FL,R1GV64,Пользовались бесплатным проездом пригородным железнодорожным транспортом,Enjoy free travel commuter rail
+1093,2011,FL,R1GV71,1-ый код льготной категории,First code privileged category
+1094,2011,FL,R1GV72,2-ой код льготной категории,2nd code privileged category
+1095,2011,FL,R1GV73,3-ий код льготной категории ,Third code privileged category
+1096,2011,FL,R1GV74,Не относится ни к одной из категории в.9,Does not apply to any of the categories B.9
+1097,2011,FL,R1GV81,Социальная поддержка за последние три месяца по оплате проезда в городском транспорте,Social support in the last three months to pay for travel in public transport
+1098,2011,FL,R1GV82,Социальная поддержка за последние три месяца по оплате проезда в пригородном транспорте,Social support in the last three months to pay for travel in suburban transport
+1099,2011,FL,R1GV83,Социальная поддержка за последние три месяца по оплате проезда в междугородном транспорте,Social support in the last three months to pay for travel in long-distance transport
+1100,2011,FL,R1GV84,Социальная поддержка за последние три месяца по оплате лекарств,Social support in the last three months on payment of medicines
+1101,2011,FL,R1GV85,Социальная поддержка за последние три месяца по оплате за протезирование,Social support in the last three months to pay for prosthetics
+1102,2011,FL,R1GV86,Социальная поддержка за последние три месяца по оплате путевок для санаторно-курортного лечения,Social support in the last three months of payment vouchers for spa treatment
+1103,2011,FL,R1GV87,Предоставление услуг от органов социальной защиты (на дому и в учреждениях дневного пребывания),The provision of services by the social security authorities (at home and in day care facilities)
+1104,2011,FL,R1GV88,"Предоставление натуральной помощи в виде продуктовых наборов, одежды и др. предметов первой необходимости ","Provision of in-kind assistance in the form of food packages, clothing and other. Essentials"
+1105,2011,FL,R1GV89,Никакие из перечисленных льгот не предоставлялись,None of these benefits were not provided
+1106,2011,FL,R1DV1,Приобретались ли в течение последних трех месяцев лекарства или медикаменты,Whether purchased within the last three months of medication or drugs
+1107,2011,FL,R1DV2,За чей счет приобретались лекарства или медикаменты,At whose expense to purchase drugs or medications
+1108,2011,FL,R1DV3,Ваши расходы на приобретение лекарств или медикаментов в среднем за месяц,Your costs for the purchase of drugs or medicines on average per month
+1109,2011,FL,R1DV4,Примерная экономия в среднем за один месяц от приобретения бесплатных лекарств или приобретенных по льготной цене,Approximate savings of an average of one month from the acquisition of free medicines or purchased at a reduced price
+1110,2011,FL,R1DV51,Обращения в медицинское учреждение по причине: заболевание,Treatment in a medical institution for a reason: disease
+1111,2011,FL,R1DV52,"Обращения в медицинское учреждение по причине: реабилитация перенесенного заболевания, последствия травм, ранений","Treatment in a medical institution for a reason: the rehabilitation of this illness, the effects of trauma, injury"
+1112,2011,FL,R1DV53,Обращения в медицинское учреждение по причине: получение рецепта,Treatment in a medical institution for a reason: to obtain a prescription
+1113,2011,FL,R1DV54,"Обращения в медицинское учреждение по причине: получение медицинских справок, выписок и т.п.","Treatment in a medical institution for a reason: to obtain medical certificates, statements, etc."
+1114,2011,FL,R1DV55,Обращения в медицинское учреждение по причине: педиатрическое наблюдение за детьми раннего возраста,Treatment in a medical facility due to: pediatric observation of young children
+1115,2011,FL,R1DV56,Обращения в медицинское учреждение по причине: профилактический осмотр,Treatment in a medical institution for a reason: routine inspection
+1116,2011,FL,R1DV57,Обращения в медицинское учреждение по причине: другое,Treatment in a medical institution for a reason: Other
+1117,2011,FL,R1DV58,Обращения в медицинское учреждение по причине: не было необходимости,Treatment in a medical institution for a reason: it was not necessary
+1118,2011,FL,R1DV6,Факт обращения за медицинской помощью,The fact that access to medical care
+1119,2011,FL,R1DV71,Обращение за амбулаторно-поликлинической или диспансерной помощью,Applying for outpatient dispensary or via
+1120,2011,FL,R1DV72,Обращение за стоматологической помощью,Applying for dental care
+1121,2011,FL,R1DV73,Обращение за скорой помощью,Applying for ambulance
+1122,2011,FL,R1DV74,Обращение за стационарной помощью,Applying for hospital care
+1123,2011,FL,R1DV8,Наличие оплаты (официальной или неофициальной) медицинской помощи или других медицинских услуг,"Availability Payment (formal or informal) care, or other health care provider"
+1124,2011,FL,R1DV91,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прием и консультации у врачей общего профиля",The amount spent on health care or payment for health care services: for the reception and consultations with general practitioners
+1125,2011,FL,R1DV92,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прием и консультации у врачей специалистов",The amount spent on health care or payment for health care services: for receiving and advice from medical specialists
+1126,2011,FL,R1DV93,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за хирургические операции",The amount spent on health care or payment for health care services: for surgery
+1127,2011,FL,R1DV94,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за пребывание в родильном доме, родовспоможение","The amount spent on health care or payment for health care services: for staying in the nursing home, assisted delivery"
+1128,2011,FL,R1DV95,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за медицинские процедуры (инъекции, капельницы и т.п.), уход за больными","The amount spent on health care or payment for health care services: for medical procedures (injections, IVs, etc.), nursing"
+1129,2011,FL,R1DV96,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лабораторные анализы и медицинское исследование (УЗИ, рентген, анализы и т.п.)","The amount spent on health care or payment for health care services: for laboratory tests and medical research (ultrasound, x-rays, tests, etc.)"
+1130,2011,FL,R1DV97,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за массаж, мануальную терапию, лечебную гимнастику и т.п.","The amount spent on health care or payment for health care services: for massage, manual therapy, physiotherapy, etc."
+1131,2011,FL,R1DV98,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лекарства и медицинские материалы при госпитализации",The amount spent on health care or payment for health care: for medicines and medical supplies at admission
+1132,2011,FL,R1DV99,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прочие медицинские услуги(выдача мед-ских справок, перевоз к месту лечения и т.п.)","The amount spent on health care or payment for health care services: for other medical services (issuing medical certificates-ing, transportation to the place of treatment, etc.)"
+1133,2011,FL,R1DV910,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лечение зубов",The amount spent on health care or payment for health care services: for dental treatment
+1134,2011,FL,R1DV911,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за зубное протезирование",The amount spent on health care or payment for health care services: for dentures
+1135,2011,FL,R1DV912,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за профилактические осмотры и консультации специалистов(ортодонтов, парадонтологов и т.п.)","The amount spent on health care or payment for health care services: for preventive examinations and consultations with specialists (orthodontists, paradontologa etc.)"
+1136,2011,FL,R1DV913,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за стоматологические хирургические операции",The amount spent on health care or payment for health care services: for dental surgery
+1137,2011,FL,R1DV914,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за вывоз и оказание скорой помощи",The amount spent on health care or payment for health care services: for export and render first aid
+1138,2011,FL,R1DV915,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за направление на госпитализацию",The amount spent on health care or payment for health care services: in the direction of hospitalization
+1139,2011,FL,R1DV916,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лекарства и медикаменты",The amount spent on health care or payment for health care services: for drugs
+1140,2011,FL,R1DV917,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за перевозку к месту лечения и обратно",The amount spent on health care or payment for health care services: for transportation to the place of treatment
+1141,2011,FL,R1DV10,Причина необращения за медицинской помощью,The reason for not seeking medical care
+1142,2011,FL,R1DV111,Год последнего посещения терапевтов,Year last visit therapists
+1143,2011,FL,R1DV112,Год последнего посещения врачей-специалистов,Year last visit medical specialists
+1144,2011,FL,R1DV113,Год последнего посещения врачей-стоматологов,Year last visit dentists
+1145,2011,FL,R1ЕV1,Место учебы,place of study
+1146,2011,FL,R1ЕV2,Расположение места учебы,Location of placement
+1147,2011,FL,R1ЕV3,Код региона места учебы,The region code of placement
+1148,2011,FL,R1ЕV4,Форма собственности учебного заведения,Ownership of the institution
+1149,2011,FL,R1ЕV5,Платное или бесплатное обучение,Paid or free training
+1150,2011,FL,R1ЕV61,Плата за учебу: сам или Ваше домохозяйство,Tuition fee: self or your household
+1151,2011,FL,R1ЕV62,"Плата за учебу: предприятие, организация по месту работы",Tuition fee: enterprise organization in the workplace
+1152,2011,FL,R1ЕV63,"Плата за учебу: спонсоры, родственники","Tuition fee: sponsors, relatives"
+1153,2011,FL,R1ЕV7,Сколько Ваше домохозяйство заплатило за учебу,How much your household paid for the study
+1154,2011,FL,R1ЕV81,"Покупка учебников, обучающих программ, канцелярских товаров и т.п.","Purchase of textbooks, training programs, office supplies, etc."
+1155,2011,FL,R1ЕV82,Плата за группу продленного дня,The fee for day care
+1156,2011,FL,R1ЕV83,"Покупка школьной формы, форменной или рабочей одежды","Buying school uniforms, uniforms or work clothes"
+1157,2011,FL,R1ЕV84,"Оплата за пересдачу зачетов, экзаменов и т.п..","Fee to re-tests, exams etc .."
+1158,2011,FL,R1ЕV85,Плата за покупку материалов или оборудования для учебного заведения,Payment for the purchase of materials or equipment for educational institutions
+1159,2011,FL,R1ЕV86,Транспортные расходы,transportation costs
+1160,2011,FL,R1ЕV87,Питание (организованное),Power (organized)
+1161,2011,FL,R1ЕV88,"Плата за уборку, ремонт и охрану учебного заведения","Fee for cleaning, repair and protection of the institution"
+1162,2011,FL,R1ЕV89,"Оплата общежития, наем жилья","Payment hostels, tenancy"
+1163,2011,FL,R1ЕV810,"Спонсорские взносы, подарки преподавателям и т.п.","Sponsorship contributions, gifts for teachers, etc."
+1164,2011,FL,R1ЕV9,Посещение дополнительных занятий,Visiting extra classes
+1165,2011,FL,R1ЕV10,Оплата этих занятий  домохозяйством,Payment for these classes household
+1166,2011,FL,R1ЕV111,"Расходы, связанные с дополнительным обучением: оплата занятий по договору с образовательным учреждением",Costs associated with the additional training: payment of employment on contract with an educational institution
+1167,2011,FL,R1ЕV112,"Расходы, связанные с дополнительным обучением: оплата занятий по договору с частным лицом",Costs associated with the additional training: lessons payment under a contract with a private person
+1168,2011,FL,R1ЕV113,"Расходы, связанные с дополнительным обучением: покупка учебников, методических материалов","Costs associated with the additional training: purchase of textbooks, teaching materials"
+1169,2011,FL,R1ЕV114,"Расходы, связанные с дополнительным обучением: покупка материалов или оборудования для занятий",Costs associated with the additional training: the purchase of materials or equipment for training
+1170,2011,FL,R1ЕV115,"Расходы, связанные с дополнительным обучением: покупка предметов, одежды и обуви для занятий спортом",Costs associated with the additional training: purchase items of clothing and footwear for sports
+1171,2011,FL,R1ЕV116,"Расходы, связанные с дополнительным обучением: спонсорские взносы, подарки преподавателям","Costs associated with the additional training: sponsorship contributions, gifts for teachers"
+1172,2011,FL,R1ЕV117,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: плата за подготовительные курсы и занятия",Costs associated with the preparation of learning in an educational institution: fees for training courses and classes
+1173,2011,FL,R1ЕV118,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: оплата репетиторов",Costs associated with the preparation of learning in an educational institution: payment tutors
+1174,2011,FL,R1ЕV119,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: покупка учебников, методических материалов","Costs associated with the preparation for training in educational institution: the purchase of textbooks, teaching materials"
+1175,2011,FL,R1ЕV1110,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: вступительные (спонсорские) взносы, затраты на оформление, подарки преподавателям","Costs associated with the preparation for training in educational institution: the entrance (sponsored) contributions, the cost of design, gifts for teachers"
+1176,2011,FL,R1ЕV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+1177,2011,FL,R1ЕV13,Статус  посещаемого дошкольного учреждения,Status attend preschool
+1178,2011,FL,R1ЕV14,Платное или бесплатное посещение дошкольного учреждения,Paid or free access to preschool
+1179,2011,FL,R1ЕV151,Оплата посещения  дошкольного учреждения: домохозяйством,Payment visiting preschool: household
+1180,2011,FL,R1ЕV152,"Оплата посещения  дошкольного учреждения: предприятием, организацией по месту работы",Payment visiting preschool: enterprise organization in the workplace
+1181,2011,FL,R1ЕV153,"Оплата посещения  дошкольного учреждения: спонсорами, родственниками- не членами д/х","Payment visiting preschool: sponsors, rodstvennikami- not members of the H / H"
+1182,2011,FL,R1ЕV16,"Сумма, заплаченная домохозяйством за посещение ребенком дошкольного учреждения",The amount paid by the household for visiting preschool child
+1183,2011,FL,R1ЕV171,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: покупка обучающих программ, плата за материалы или оборудование занятий","Other costs associated with the presence of a child in preschool: the purchase of training programs, payment for materials or equipment classes"
+1184,2011,FL,R1ЕV172,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: питание (организованное)",Other costs associated with the presence of a child in preschool: food (organized)
+1185,2011,FL,R1ЕV173,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: плата за уборку, ремонт и охрану дошкольного заведения","Other costs associated with the presence of a child in preschool: cleaning fee, repair and protection of pre-school establishments"
+1186,2011,FL,R1ЕV174,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: спонсорские взносы, подарки воспитателям и т.п.","Other costs associated with the presence of a child in preschool: sponsorship contributions, gifts to teachers, etc."
+1187,2011,FL,R1ЕV18,"Кто присматривает за ребенком, не посещающим дошкольное учреждение",Who looks after the child does not attend preschool
+1188,2011,FL,R1ЕV191,Плата за присмотр за ребенком: домохозяйством,Payment for child care: the household
+1189,2011,FL,R1ЕV192,"Плата за присмотр за ребенком: спонсорами, родственниками - не членами д/х","Payment for child care: sponsors, relatives - not members of H / H"
+1190,2011,FL,R1ЕV20,Сколько платит Ваша семья за присмотр ребенка,How much to pay for your family child care
+1191,2011,FL,R1ЕV21,Посещение ребенком дополнительных занятий,Seen child extra classes
+1192,2011,FL,R1ЕV22,Оплачивались ли дополнительные занятия из средств домохозяйства,Paid for any additional classes from the household
+1193,2011,FL,R1ЕV231,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: оплата занятий по организованной коллективной форме или по индивидуальной программе",Costs associated with the presence of a child in preschool additional: payment of employment on an organized form of collective or individual program
+1194,2011,FL,R1ЕV232,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: покупка учебников, методических материалов, книг, канцтоваров, игр и игрушек","Costs associated with the presence of a child in preschool additional: buy textbooks, teaching materials, books, stationery, toys and games"
+1195,2011,FL,R1ЕV233,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: покупка материалов или оборудования для занятий",Costs associated with the presence of a child in preschool additional: purchase of materials or equipment for training
+1196,2011,FL,R1ЕV234,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: спонсорские взносы, подарки воспитателям и т.п.","Costs associated with the presence of a child in preschool additional: sponsorship contributions, gifts to teachers, etc."
+1197,2011,FL,R1ЕV24,Необходимость индивидуальной медицинской или психолого-педагогической поддержке,The need for individual medical or psychological-pedagogical support
+1198,2011,FL,R1ЕV251,Посещение специального (коррекционного) учреждения на постоянной основе,A visit to a special (correctional) institutions on a regular basis
+1199,2011,FL,R1ЕV252,Посещение врачей и специалистов-педагогов,Visiting physicians and specialists and educators
+1200,2011,FL,R1ЕV26,Сколько платит Ваша семья за индивидуальную медицинскую или психолого-педагогическую поддержку,How much to pay your family for an individual medical or psychological-pedagogical support
+1201,2011,FN,PER,Период разработки,development period
+1202,2011,FN,TER,Шифр территории,cipher territory
+1203,2011,FN,MEST,Тип населенного пункта,Type of settlement
+1204,2011,FN,BUD,Номер бюджета,number budget
+1205,2011,FN,R1VV11,Код главы домохозяйства,Code of head of household
+1206,2011,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+1207,2011,FN,R1VV21,График работы главы домохозяйства,Schedule of household head
+1208,2011,FN,R1VV22,График работы супруга(и)  главы домохозяйства,Schedule of spouse (s) of the household head
+1209,2011,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+1210,2011,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+1211,2011,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+1212,2011,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+1213,2011,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+1214,2011,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+1215,2011,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+1216,2011,FN,R2V2,Примерный денежный доход домохозяйства (код интервала),The approximate cash income households (code interval)
+1217,2011,FN,R2V31,Выплаты по страхованию жизни,Payment of life insurance
+1218,2011,FN,R2V32,"Выплаты по другим видам страхования (здоровье, имущество, жилье)","Payments for other types of insurance (health, property, housing)"
+1219,2011,FN,R2V33,"Помощь или подарки от детей, родственникам и других лиц","Help or gifts from children, relatives and other persons"
+1220,2011,FN,R2V34,Получение наследства,inheritance
+1221,2011,FN,R2V35,Получение выигрышей от участия в лотереях и играх,Gains from participation in lotteries and games
+1222,2011,FN,R2V36,Помощь в связи с особыми обстоятельствами и др. поступления,Assistance in connection with the special circumstances and others. Income
+1223,2011,FN,R2V41,Суммы полученных денег: от выплат по страхованию жизни,The sum of money received from payments for life insurance
+1224,2011,FN,R2V42,"Суммы полученных денег: от выплат по другим видам страхования (здоровье, имущество, жилье)","The sum of money received from payments for other types of insurance (health, property, housing)"
+1225,2011,FN,R2V43,"Суммы полученных денег: от помощи или подарки от детей, родственникам и других лиц","Amounts received money from aid or gifts from children, relatives and other persons"
+1226,2011,FN,R2V44,Суммы полученных денег: от полученного наследства,The sum of money received from the resulting inheritance
+1227,2011,FN,R2V45,Суммы полученных денег: от полученных выигрышей от участия в лотереях и играх,The sum of money received from gains from participation in lotteries and games
+1228,2011,FN,R2V46,Суммы полученных денег: от помощи в связи с особыми обстоятельствами и др. поступления,"The sum of money received from assistance due to special circumstances, and others. Income"
+1229,2011,FN,R2V51,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: зерно,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: grain"
+1230,2011,FN,R2V52,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: продовольственные товары,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: food products"
+1231,2011,FN,R2V53,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: непродовольственные товары,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: non-food products"
+1232,2011,FN,R2V54,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: бесплатное питание,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: a free meal"
+1233,2011,FN,R2V55,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата  транспортных расходов,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of transportation costs"
+1234,2011,FN,R2V56,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата жилья и коммунальных услуг,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of housing and communal services"
+1235,2011,FN,R2V57,"Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата ремонта, стр-ва и приобретения жилья","Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of repair, pp Islands and home"
+1236,2011,FN,R2V58,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата медицинского обслуживания и отдыха,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of health care and recreation"
+1237,2011,FN,R2V59,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата содержания детей в детучреждениях,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of children in detuchrezhdeniyah"
+1238,2011,FN,R2V510,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата обучения,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: tuition"
+1239,2011,FN,R2V61,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: зерно,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: grain"
+1240,2011,FN,R2V62,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: продовольственные товары,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: food products"
+1241,2011,FN,R2V63,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: непродовольственные товары,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: non-food products"
+1242,2011,FN,R2V64,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: бесплатное питание,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: a free meal"
+1243,2011,FN,R2V65,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата  транспортных расходов,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of transportation costs"
+1244,2011,FN,R2V66,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата жилья и коммунальных услуг,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of housing and communal services"
+1245,2011,FN,R2V67,"Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата ремонта, стр-ва и приобретения жилья","Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of repair, pp Islands and home"
+1246,2011,FN,R2V68,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата медицинского обслуживания и отдыха,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of health care and recreation"
+1247,2011,FN,R2V69,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата содержания детей в детучреждениях,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of children in detuchrezhdeniyah"
+1248,2011,FN,R2V610,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата обучения,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: tuition"
+1249,2011,FN,R2V7,Расходование сбережений или взятых в долг денег,Expenditure savings or borrowed money
+1250,2011,FN,R2V81,Снятие денег с банковского счета,Withdrawing money from your bank account
+1251,2011,FN,R2V82,Расходование денежного сбережения или остатка дохода предыдущего периода,Debit balance of savings or income of the previous period
+1252,2011,FN,R2V83,Продажа ценных бумаг,Sales of securities
+1253,2011,FN,R2V84,Продажа имущества или вещей,Sale of property or things
+1254,2011,FN,R2V85,Выручка от продажи имущества или вещей,Proceeds from the sale of property or things
+1255,2011,FN,R2V86,Продажа недвижимости,property For Sale
+1256,2011,FN,R2V87,"Взяли ссуду, кредит","Have taken a loan, credit"
+1257,2011,FN,R2V88,"Получение денег, взятых в долг",Getting the money borrowed
+1258,2011,FN,R2V89,Взяли деньги в долг,Took the money in the debt
+1259,2011,FN,R2V810,другое,other
+1260,2011,FN,R2V9,Общая сумма дополнительных денежных средств,The total amount of additional funds
+1261,2011,FN,R2V10,"Сумма израсходованная на покупку валюты, пополнение банковского счета, дача в долг","The sum spent for the purchase of foreign currency, the completion of the bank account, giving a loan"
+1262,2011,FN,R2V11,Остатки денежных средств за текущий период,Cash balances for the current period
+1263,2011,FH,PER,Период разработки,development period
+1264,2011,FH,TER,Шифр территории,cipher territory
+1265,2011,FH,MEST,Тип населенного пункта,Type of settlement
+1266,2011,FH,BUD,Номер бюджета,number budget
+1267,2011,FH,R3GV1,Форма собственности основного жилья,Ownership of the main housing
+1268,2011,FH,R3GV2,Доля средств домохозяйства в оплате жилья,The share of households in housing costs
+1269,2011,FH,R3GV31,"Государства, муниципалитета","State, municipality"
+1270,2011,FH,R3GV32,Предприятия по месту работы,Companies in the workplace
+1271,2011,FH,R3GV33,Другого домохозяйства,other households
+1272,2011,FH,R3GV34,Благотворительной или иной организация,Charity or other organization
+1273,2011,FH,R3GV4,Наличие оплаты основного жилья за последние 3 месяца,Availability Payment of housing over the past 3 months
+1274,2011,FH,R3GV5,Причина неоплаты жилья,The reason for non-payment of housing
+1275,2011,FH,R3GV6,Плата за аренду жилье у частных лиц,Fee for rent housing from private individuals
+1276,2011,FH,R3GV91,Другого жилья помимо основного,Another addition to the main housing
+1277,2011,FH,R3GV92,Индивидуального дома или части дома,Individual house or the house
+1278,2011,FH,R3GV93,Дачи или дома для сезонного проживания,Cottages or houses for seasonal residence
+1279,2011,FH,R3GV94,Гаража стационарного,garage stationary
+1280,2011,FH,R3GV95,Другого строения,other buildings
+1281,2011,FH,R3GV15,Наличие  строительства или ремонта недвижимости,The presence of the construction or repair of real estate
+1282,2011,FH,R3GV16,"Тип постройки, где проводились основные работы","Type of construction, where major works were carried out"
+1283,2011,FH,R3GV17,Вид проводимых работ,Type of work done
+1284,2011,FH,R3GV18,Исполнитель основных работ,Artist major works
+1285,2012,FC,PER,Период разработки,development period
+1286,2012,FC,TER,Шифр территории,cipher territory
+1287,2012,FC,MEST,Тип населенного пункта,Type of settlement
+1288,2012,FC,BUD,Номер бюджета,number budget
+1289,2012,FC,CHLICO,Число лиц в домохозяйстве,Number of persons in the household
+1290,2012,FC,CHLICN,Число наличных лиц в домохозяйстве,The number of persons in the household cash
+1291,2012,FC,CHISL,Группировка по числу наличных лиц в домохозяйстве  (5 групп),Grouped according to the number of persons per household cash (5 groups)
+1292,2012,FC,CHDET,Фактическое число детей до 16 лет,The actual number of children under 16 years
+1293,2012,FC,CHISD,Группировка по числу детей до 16 лет в домохозяйстве  (5 групп),Grouping by the number of children under 16 in the household (5 groups)
+1294,2012,FC,CLDP,Число человеко-дней питания,The number of man-days supply
+1295,2012,FC,DOXODSN,Денежный доход ,cash income
+1296,2012,FC,DOXODN,Среднедушевой денежный доход,Per capita income
+1297,2012,FC,RASRESS,Располагаемые ресурсы ,disposable resources
+1298,2012,FC,RASRES,Среднедушевые располагаемые ресурсы,Per capita disposable resources
+1299,2012,FC,DECILR,Дециль по среднедушевым располагаемым ресурсам,Deciles of per capita disposable resources
+1300,2012,FC,RASSQ,Расход на конечное потребление ,Final consumption expenditure
+1301,2012,FC,RASQ,Среднедушевой расход на конечное потребление,Per capita expenditures on final consumption
+1302,2012,FC,POTRAS,Потребительские расходы,consumer spending
+1303,2012,FC,PROD,Расходы на покупку продуктов питания,Expenditure on food
+1304,2012,FC,PITRES,Расходы на питание вне дома,Spending on food away from home
+1305,2012,FC,ALK,Расходы на покупку алкогольных напитков,Expenditures for the purchase of alcoholic beverages
+1306,2012,FC,NEPROD,Расходы на покупку непродовольственных товаров,Expenditures for the purchase of non-food goods
+1307,2012,FC,USLUG,Расходы на оплату услуг,'Fees
+1308,2012,FC,PROMPOT,Расходы на промежуточное потребление и валовое накопление,Expenditure on intermediate consumption and gross capital formation
+1309,2012,FC,NALOG,"Налоги, сборы, платежи","Taxes, fees, charges"
+1310,2012,FC,DRRAS,Другие расходы,other costs
+1311,2012,FC,DENRAS,Денежные расходы,cash expenditures
+1312,2012,FC,FAKT,Прирост финансовых активов,Increase in financial assets
+1313,2012,FC,NATDOX,Натуральные поступления,receipts in kind
+1314,2012,FC,R1GV91,"Субсидии на оплату жилья и коммунальных услуг, получаемые перечислением на банковские счета",Subsidies for housing and communal services received by transfer to bank accounts
+1315,2012,FC,R1GV92,"Субсидии на оплату жилья и коммунальных услуг, включенные в счета на оплату",Subsidies for housing and utilities included in the invoice
+1316,2012,FC,R1GV93,Иные денежные компенсации на оплату жилья и коммунальных услуг,Other monetary compensation for housing and communal services
+1317,2012,FC,R1GV94,Льготы (скидки) при оплате счетов за электричество,Benefits (discounts) for electricity bills
+1318,2012,FC,R1GV95,Льготы (скидки) при оплате счетов за услуги телефонной сети,Benefits (discounts) when paying bills for telephone services
+1319,2012,FC,R1GV96,Льготы (скидки) на покупку топлива,Benefits (discounts) for the purchase of fuel
+1320,2012,FC,R1GV97,Льготы по оплате за вывоз мусора и обеззараживание твердых бытовых отходов,Benefits to pay for garbage removal and disinfection of municipal solid waste
+1321,2012,FC,R1GV98,Единовременная помощь на ремонт жилья и др.,One-time assistance for housing repairs and other.
+1322,2012,FC,R1GV99,Ничего из перечисленного,None of the above
+1323,2012,FC,R1GV10,Обращение кого-либо из членов домохозяйства в органы социальной  защиты с заявлением об оказании материальной помощи в связи с недостаточностью дохода,Handling any of the household members in the social security authorities with a statement on the provision of financial assistance due to insufficient income
+1324,2012,FC,R1GV111,Получение домохозяйством социального пособия малоимущим (семьям или одиноко проживающим гражданам) в течение последних трех месяцев,Getting the household Social Security Income (families or living alone citizens) within the last three months
+1325,2012,FC,R1GV112,Получение домохозяйством помощи по чрезвычайным обстоятельствам в течение последних трех месяцев,Getting household assistance Emergency in the last three months
+1326,2012,FC,R1GV113,Отсутствие у домохозяйства перечисленных видов материальной помощи от органов социальной защиты в течение последних трех месяцев,Lack of households enumerated types of material assistance from the social security authorities during the last three months
+1327,2012,FC,R1GV121,Единовременная денежная выплата за счет средств материнского капитала,Lump-sum payments at the expense of the parent capital
+1328,2012,FC,R1GV122,Ежемесячное пособие на ребенка,Monthly child allowance
+1329,2012,FC,R1GV123,"Ежемесячное пособие на ребенка военнослужащего, проходящего военную службу по призыву","Monthly child soldier, military service"
+1330,2012,FC,R1GV124,"Пособия и выплаты на содержание детей, оставшихся без одного или двоих родителей (за исключением пенсий по случаю потери кормильца)",Benefits and payments for the maintenance of children without one or two parents (excluding pensions survivor)
+1331,2012,FC,R1GV125,Ежемесячной компенсации платы за посещение детских дошкольных учреждений или других учреждений основного и дополнительного образования,Monthly compensation fee for attending kindergartens or other institutions of primary and secondary education
+1332,2012,FC,R1GV126,Бесплатный отпуск  молочного питания,Free vacation milk supply
+1333,2012,FC,R1GV127,Бесплатное питание в образовательном учреждении,Free meals in an educational institution
+1334,2012,FC,R1GV128,"Другие пособия или субсидии отдельным категориям семей (многодетные, неполные семьи и др.)","Other benefits or subsidies to certain categories of families (large, single-parent families, etc.)."
+1335,2012,FC,R1GV129,Ничего из перечисленного,None of the above
+1336,2012,FC,KVZV,Коэффициент взвешивания,weighting factor
+1337,2012,FL,PER,Период разработки,development period
+1338,2012,FL,TER,Шифр территории,cipher territory
+1339,2012,FL,MEST,Тип населенного пункта,Type of settlement
+1340,2012,FL,BUD,Номер бюджета,number budget
+1341,2012,FL,LICO,Код члена домохозяйства (лица),Code household member (s)
+1342,2012,FL,POL,Пол,Paul
+1343,2012,FL,R1АV2,Число исполнившихся лет,The number of complete years
+1344,2012,FL,R1АV3,"Отношение к члену д/х, записанному первым","Towards members of d / s, write the first"
+1345,2012,FL,R1АV4,Индивидуальный код матери (отца),Individual code of the mother (father)
+1346,2012,FL,R1АV5,Число дней отсутствия за последние 3 месяца,The number of days of absence for the last 3 months
+1347,2012,FL,R1АV6,Причина  отсутствия за последние 3 месяца,The reason for the absence of the last 3 months
+1348,2012,FL,R1АV7,Семейное положение,marital status
+1349,2012,FL,R1АV10,Уровень образования,education Level
+1350,2012,FL,R1ВV1,Наличие работы за последние 3 месяца,Having a job in the last 3 months
+1351,2012,FL,R1ВV2,Причина отсутствия на работе,The reason for absence from work
+1352,2012,FL,R1BV3,Причина отсутствия работы,The reason for lack of work
+1353,2012,FL,RABN,Число отработанных недель,Number of working weeks
+1354,2012,FL,ISKN,Число недель не работал и искал работу,The number of weeks worked and was looking for work
+1355,2012,FL,OTDN,Число недель не работал и не искал работу,The number of weeks worked and not looking for work
+1356,2012,FL,R1ВV7,Статус по основному месту работы,Status on the main job
+1357,2012,FL,R1BV8,Наличие дополнительного доходного занятия,An additional gainful employment
+1358,2012,FL,R1BV9,Статус по дополнительному месту работы,Status under the additional workplace
+1359,2012,FL,R1BV10,Число недель занятости на дополнительной работе за последние 3 месяца,The number of weeks of employment for the extra work over the last 3 months
+1360,2012,FL,R1BV111,"Признак нахождения основной работы там, где проживает данное лицо","Symptom main finding work there, where the person"
+1361,2012,FL,R1BV112,Признак нахождения основной работы в другом регионе,Sign of finding employment in another region
+1362,2012,FL,R1BV12,Код региона нахождения основной работы ,Region code finding basic work
+1363,2012,FL,R1BV15,Наличие регистрации в Службе занятости как безработный ,Availability of registration with the Employment Service as unemployed
+1364,2012,FL,R1BV16,Наличие пособия по  безработице,The presence of unemployment benefits
+1365,2012,FL,R1V17,"Категория, характеризующая положение за последние 3 месяца  ",Category characterizing the position of the last 3 months
+1366,2012,FL,R1BV18,Наличие свидетельства пенсионного страхования ,Evidence of pension insurance
+1367,2012,FL,R1BV19,Наличие информации о перечисленных суммах в Пенсионный фонд ,Availability of information on the amounts listed in the Pension Fund
+1368,2012,FL,R1GV1,Наличие права на получении пенсии,Entitlement to a pension
+1369,2012,FL,R1GV21,1-ый вид пенсии,The first type of pension
+1370,2012,FL,R1GV22,2-ой вид  пенсии,The second type of pension
+1371,2012,FL,R1GV3,"Сумма пенсии, выплаченная за последние 3 месяца",The amount of pensions paid in the last 3 months
+1372,2012,FL,R1GV41,1-ый код льготной категории на право  получения государственной социальной поддержки,First code to discounts on the right to receive state social support
+1373,2012,FL,R1GV42,2-ой код льготной категории на право  получения государственной социальной поддержки,Second code to discounts on the right to receive state social support
+1374,2012,FL,R1GV43,Не относится ни к одной из льготных категорий  на право  получения государственной социальной поддержки,Does not apply to any of the privileged categories of eligibility for state social support
+1375,2012,FL,R1GV5,Факт пользования льготами в течение последних трех месяцев,The fact of using privileges during the last three months
+1376,2012,FL,R1GV61,Пользовались бесплатным лекарственным обеспечением,Enjoy free drug supply
+1377,2012,FL,R1GV62,Получали бесплатное санаторно-курортное лечение,Receive free spa treatment
+1378,2012,FL,R1GV63,Пользовались бесплатным или льготным проездом на междугородном транспорте к месту лечения и обратно,Enjoy free or discounted travel on intercity transport to the place of treatment
+1379,2012,FL,R1GV64,Пользовались бесплатным проездом пригородным железнодорожным транспортом,Enjoy free travel commuter rail
+1380,2012,FL,R1GV71,1-ый код льготной категории,First code privileged category
+1381,2012,FL,R1GV72,2-ой код льготной категории,2nd code privileged category
+1382,2012,FL,R1GV73,3-ий код льготной категории ,Third code privileged category
+1383,2012,FL,R1GV74,Не относится ни к одной из категории в.9,Does not apply to any of the categories B.9
+1384,2012,FL,R1GV81,Социальная поддержка за последние три месяца по оплате проезда в городском транспорте,Social support in the last three months to pay for travel in public transport
+1385,2012,FL,R1GV82,Социальная поддержка за последние три месяца по оплате проезда в пригородном транспорте,Social support in the last three months to pay for travel in suburban transport
+1386,2012,FL,R1GV83,Социальная поддержка за последние три месяца по оплате проезда в междугородном транспорте,Social support in the last three months to pay for travel in long-distance transport
+1387,2012,FL,R1GV84,Социальная поддержка за последние три месяца по оплате лекарств,Social support in the last three months on payment of medicines
+1388,2012,FL,R1GV85,Социальная поддержка за последние три месяца по оплате за протезирование,Social support in the last three months to pay for prosthetics
+1389,2012,FL,R1GV86,Социальная поддержка за последние три месяца по оплате путевок для санаторно-курортного лечения,Social support in the last three months of payment vouchers for spa treatment
+1390,2012,FL,R1GV87,Предоставление услуг от органов социальной защиты (на дому и в учреждениях дневного пребывания),The provision of services by the social security authorities (at home and in day care facilities)
+1391,2012,FL,R1GV88,"Предоставление натуральной помощи в виде продуктовых наборов, одежды и др. предметов первой необходимости ","Provision of in-kind assistance in the form of food packages, clothing and other. Essentials"
+1392,2012,FL,R1GV89,Никакие из перечисленных льгот не предоставлялись,None of these benefits were not provided
+1393,2012,FL,R1DV1,Приобретались ли в течение последних трех месяцев лекарства или медикаменты,Whether purchased within the last three months of medication or drugs
+1394,2012,FL,R1DV2,За чей счет приобретались лекарства или медикаменты,At whose expense to purchase drugs or medications
+1395,2012,FL,R1DV3,Ваши расходы на приобретение лекарств или медикаментов в среднем за месяц,Your costs for the purchase of drugs or medicines on average per month
+1396,2012,FL,R1DV4,Примерная экономия в среднем за один месяц от приобретения бесплатных лекарств или приобретенных по льготной цене,Approximate savings of an average of one month from the acquisition of free medicines or purchased at a reduced price
+1397,2012,FL,R1DV51,Обращения в медицинское учреждение по причине: заболевание,Treatment in a medical institution for a reason: disease
+1398,2012,FL,R1DV52,"Обращения в медицинское учреждение по причине: реабилитация перенесенного заболевания, последствия травм, ранений","Treatment in a medical institution for a reason: the rehabilitation of this illness, the effects of trauma, injury"
+1399,2012,FL,R1DV53,Обращения в медицинское учреждение по причине: получение рецепта,Treatment in a medical institution for a reason: to obtain a prescription
+1400,2012,FL,R1DV54,"Обращения в медицинское учреждение по причине: получение медицинских справок, выписок и т.п.","Treatment in a medical institution for a reason: to obtain medical certificates, statements, etc."
+1401,2012,FL,R1DV55,Обращения в медицинское учреждение по причине: педиатрическое наблюдение за детьми раннего возраста,Treatment in a medical facility due to: pediatric observation of young children
+1402,2012,FL,R1DV56,Обращения в медицинское учреждение по причине: профилактический осмотр,Treatment in a medical institution for a reason: routine inspection
+1403,2012,FL,R1DV57,Обращения в медицинское учреждение по причине: другое,Treatment in a medical institution for a reason: Other
+1404,2012,FL,R1DV58,Обращения в медицинское учреждение по причине: не было необходимости,Treatment in a medical institution for a reason: it was not necessary
+1405,2012,FL,R1DV6,Факт обращения за медицинской помощью,The fact that access to medical care
+1406,2012,FL,R1DV71,Обращение за амбулаторно-поликлинической или диспансерной помощью,Applying for outpatient dispensary or via
+1407,2012,FL,R1DV72,Обращение за стоматологической помощью,Applying for dental care
+1408,2012,FL,R1DV73,Обращение за скорой помощью,Applying for ambulance
+1409,2012,FL,R1DV74,Обращение за стационарной помощью,Applying for hospital care
+1410,2012,FL,R1DV8,Наличие оплаты (официальной или неофициальной) медицинской помощи или других медицинских услуг,"Availability Payment (formal or informal) care, or other health care provider"
+1411,2012,FL,R1DV91,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прием и консультации у врачей общего профиля",The amount spent on health care or payment for health care services: for the reception and consultations with general practitioners
+1412,2012,FL,R1DV92,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прием и консультации у врачей специалистов",The amount spent on health care or payment for health care services: for receiving and advice from medical specialists
+1413,2012,FL,R1DV93,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за хирургические операции",The amount spent on health care or payment for health care services: for surgery
+1414,2012,FL,R1DV94,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за пребывание в родильном доме, родовспоможение","The amount spent on health care or payment for health care services: for staying in the nursing home, assisted delivery"
+1415,2012,FL,R1DV95,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за медицинские процедуры (инъекции, капельницы и т.п.), уход за больными","The amount spent on health care or payment for health care services: for medical procedures (injections, IVs, etc.), nursing"
+1416,2012,FL,R1DV96,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лабораторные анализы и медицинское исследование (УЗИ, рентген, анализы и т.п.)","The amount spent on health care or payment for health care services: for laboratory tests and medical research (ultrasound, x-rays, tests, etc.)"
+1417,2012,FL,R1DV97,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за массаж, мануальную терапию, лечебную гимнастику и т.п.","The amount spent on health care or payment for health care services: for massage, manual therapy, physiotherapy, etc."
+1418,2012,FL,R1DV98,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лекарства и медицинские материалы при госпитализации",The amount spent on health care or payment for health care: for medicines and medical supplies at admission
+1419,2012,FL,R1DV99,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за прочие медицинские услуги(выдача мед-ских справок, перевоз к месту лечения и т.п.)","The amount spent on health care or payment for health care services: for other medical services (issuing medical certificates-ing, transportation to the place of treatment, etc.)"
+1420,2012,FL,R1DV910,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лечение зубов",The amount spent on health care or payment for health care services: for dental treatment
+1421,2012,FL,R1DV911,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за зубное протезирование",The amount spent on health care or payment for health care services: for dentures
+1422,2012,FL,R1DV912,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за профилактические осмотры и консультации специалистов(ортодонтов, парадонтологов и т.п.)","The amount spent on health care or payment for health care services: for preventive examinations and consultations with specialists (orthodontists, paradontologa etc.)"
+1423,2012,FL,R1DV913,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за стоматологические хирургические операции",The amount spent on health care or payment for health care services: for dental surgery
+1424,2012,FL,R1DV914,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за вывоз и оказание скорой помощи",The amount spent on health care or payment for health care services: for export and render first aid
+1425,2012,FL,R1DV915,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за направление на госпитализацию",The amount spent on health care or payment for health care services: in the direction of hospitalization
+1426,2012,FL,R1DV916,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за лекарства и медикаменты",The amount spent on health care or payment for health care services: for drugs
+1427,2012,FL,R1DV917,"Суммы, затраченные на оплату медицинской помощи или медицинских услуг: за перевозку к месту лечения и обратно",The amount spent on health care or payment for health care services: for transportation to the place of treatment
+1428,2012,FL,R1DV10,Причина необращения за медицинской помощью,The reason for not seeking medical care
+1429,2012,FL,R1DV111,Год последнего посещения терапевтов,Year last visit therapists
+1430,2012,FL,R1DV112,Год последнего посещения врачей-специалистов,Year last visit medical specialists
+1431,2012,FL,R1DV113,Год последнего посещения врачей-стоматологов,Year last visit dentists
+1432,2012,FL,R1ЕV1,Место учебы,place of study
+1433,2012,FL,R1ЕV2,Расположение места учебы,Location of placement
+1434,2012,FL,R1ЕV3,Код региона места учебы,The region code of placement
+1435,2012,FL,R1ЕV4,Форма собственности учебного заведения,Ownership of the institution
+1436,2012,FL,R1ЕV5,Платное или бесплатное обучение,Paid or free training
+1437,2012,FL,R1ЕV61,Плата за учебу: сам или Ваше домохозяйство,Tuition fee: self or your household
+1438,2012,FL,R1ЕV62,"Плата за учебу: предприятие, организация по месту работы",Tuition fee: enterprise organization in the workplace
+1439,2012,FL,R1ЕV63,"Плата за учебу: спонсоры, родственники","Tuition fee: sponsors, relatives"
+1440,2012,FL,R1ЕV7,Сколько Ваше домохозяйство заплатило за учебу,How much your household paid for the study
+1441,2012,FL,R1ЕV81,"Покупка учебников, обучающих программ, канцелярских товаров и т.п.","Purchase of textbooks, training programs, office supplies, etc."
+1442,2012,FL,R1ЕV82,Плата за группу продленного дня,The fee for day care
+1443,2012,FL,R1ЕV83,"Покупка школьной формы, форменной или рабочей одежды","Buying school uniforms, uniforms or work clothes"
+1444,2012,FL,R1ЕV84,"Оплата за пересдачу зачетов, экзаменов и т.п..","Fee to re-tests, exams etc .."
+1445,2012,FL,R1ЕV85,Плата за покупку материалов или оборудования для учебного заведения,Payment for the purchase of materials or equipment for educational institutions
+1446,2012,FL,R1ЕV86,Транспортные расходы,transportation costs
+1447,2012,FL,R1ЕV87,Питание (организованное),Power (organized)
+1448,2012,FL,R1ЕV88,"Плата за уборку, ремонт и охрану учебного заведения","Fee for cleaning, repair and protection of the institution"
+1449,2012,FL,R1ЕV89,"Оплата общежития, наем жилья","Payment hostels, tenancy"
+1450,2012,FL,R1ЕV810,"Спонсорские взносы, подарки преподавателям и т.п.","Sponsorship contributions, gifts for teachers, etc."
+1451,2012,FL,R1ЕV9,Посещение дополнительных занятий,Visiting extra classes
+1452,2012,FL,R1ЕV10,Оплата этих занятий  домохозяйством,Payment for these classes household
+1453,2012,FL,R1ЕV111,"Расходы, связанные с дополнительным обучением: оплата занятий по договору с образовательным учреждением",Costs associated with the additional training: payment of employment on contract with an educational institution
+1454,2012,FL,R1ЕV112,"Расходы, связанные с дополнительным обучением: оплата занятий по договору с частным лицом",Costs associated with the additional training: lessons payment under a contract with a private person
+1455,2012,FL,R1ЕV113,"Расходы, связанные с дополнительным обучением: покупка учебников, методических материалов","Costs associated with the additional training: purchase of textbooks, teaching materials"
+1456,2012,FL,R1ЕV114,"Расходы, связанные с дополнительным обучением: покупка материалов или оборудования для занятий",Costs associated with the additional training: the purchase of materials or equipment for training
+1457,2012,FL,R1ЕV115,"Расходы, связанные с дополнительным обучением: покупка предметов, одежды и обуви для занятий спортом",Costs associated with the additional training: purchase items of clothing and footwear for sports
+1458,2012,FL,R1ЕV116,"Расходы, связанные с дополнительным обучением: спонсорские взносы, подарки преподавателям","Costs associated with the additional training: sponsorship contributions, gifts for teachers"
+1459,2012,FL,R1ЕV117,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: плата за подготовительные курсы и занятия",Costs associated with the preparation of learning in an educational institution: fees for training courses and classes
+1460,2012,FL,R1ЕV118,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: оплата репетиторов",Costs associated with the preparation of learning in an educational institution: payment tutors
+1461,2012,FL,R1ЕV119,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: покупка учебников, методических материалов","Costs associated with the preparation for training in educational institution: the purchase of textbooks, teaching materials"
+1462,2012,FL,R1ЕV1110,"Расходы, связанные с подготовкой к обучению в образовательном учреждении: вступительные (спонсорские) взносы, затраты на оформление, подарки преподавателям","Costs associated with the preparation for training in educational institution: the entrance (sponsored) contributions, the cost of design, gifts for teachers"
+1463,2012,FL,R1ЕV12,Посещает ли ребенок дошкольное образовательное учреждение,Does the child attend preschool educational institution
+1464,2012,FL,R1ЕV13,Статус  посещаемого дошкольного учреждения,Status attend preschool
+1465,2012,FL,R1ЕV14,Платное или бесплатное посещение дошкольного учреждения,Paid or free access to preschool
+1466,2012,FL,R1ЕV151,Оплата посещения  дошкольного учреждения: домохозяйством,Payment visiting preschool: household
+1467,2012,FL,R1ЕV152,"Оплата посещения  дошкольного учреждения: предприятием, организацией по месту работы",Payment visiting preschool: enterprise organization in the workplace
+1468,2012,FL,R1ЕV153,"Оплата посещения  дошкольного учреждения: спонсорами, родственниками- не членами д/х","Payment visiting preschool: sponsors, rodstvennikami- not members of the H / H"
+1469,2012,FL,R1ЕV16,"Сумма, заплаченная домохозяйством за посещение ребенком дошкольного учреждения",The amount paid by the household for visiting preschool child
+1470,2012,FL,R1ЕV171,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: покупка обучающих программ, плата за материалы или оборудование занятий","Other costs associated with the presence of a child in preschool: the purchase of training programs, payment for materials or equipment classes"
+1471,2012,FL,R1ЕV172,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: питание (организованное)",Other costs associated with the presence of a child in preschool: food (organized)
+1472,2012,FL,R1ЕV173,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: плата за уборку, ремонт и охрану дошкольного заведения","Other costs associated with the presence of a child in preschool: cleaning fee, repair and protection of pre-school establishments"
+1473,2012,FL,R1ЕV174,"Другие расходы, связанные с пребыванием ребенка в дошкольном учреждении: спонсорские взносы, подарки воспитателям и т.п.","Other costs associated with the presence of a child in preschool: sponsorship contributions, gifts to teachers, etc."
+1474,2012,FL,R1ЕV18,"Кто присматривает за ребенком, не посещающим дошкольное учреждение",Who looks after the child does not attend preschool
+1475,2012,FL,R1ЕV191,Плата за присмотр за ребенком: домохозяйством,Payment for child care: the household
+1476,2012,FL,R1ЕV192,"Плата за присмотр за ребенком: спонсорами, родственниками - не членами д/х","Payment for child care: sponsors, relatives - not members of H / H"
+1477,2012,FL,R1ЕV20,Сколько платит Ваша семья за присмотр ребенка,How much to pay for your family child care
+1478,2012,FL,R1ЕV21,Посещение ребенком дополнительных занятий,Seen child extra classes
+1479,2012,FL,R1ЕV22,Оплачивались ли дополнительные занятия из средств домохозяйства,Paid for any additional classes from the household
+1480,2012,FL,R1ЕV231,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: оплата занятий по организованной коллективной форме или по индивидуальной программе",Costs associated with the presence of a child in preschool additional: payment of employment on an organized form of collective or individual program
+1481,2012,FL,R1ЕV232,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: покупка учебников, методических материалов, книг, канцтоваров, игр и игрушек","Costs associated with the presence of a child in preschool additional: buy textbooks, teaching materials, books, stationery, toys and games"
+1482,2012,FL,R1ЕV233,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: покупка материалов или оборудования для занятий",Costs associated with the presence of a child in preschool additional: purchase of materials or equipment for training
+1483,2012,FL,R1ЕV234,"Расходы, связанные с пребыванием ребенка в дополнительных дошкольных учреждениях: спонсорские взносы, подарки воспитателям и т.п.","Costs associated with the presence of a child in preschool additional: sponsorship contributions, gifts to teachers, etc."
+1484,2012,FL,R1ЕV24,Необходимость индивидуальной медицинской или психолого-педагогической поддержке,The need for individual medical or psychological-pedagogical support
+1485,2012,FL,R1ЕV251,Посещение специального (коррекционного) учреждения на постоянной основе,A visit to a special (correctional) institutions on a regular basis
+1486,2012,FL,R1ЕV252,Посещение врачей и специалистов-педагогов,Visiting physicians and specialists and educators
+1487,2012,FL,R1ЕV26,Сколько платит Ваша семья за индивидуальную медицинскую или психолого-педагогическую поддержку,How much to pay your family for an individual medical or psychological-pedagogical support
+1488,2012,FN,PER,Период разработки,development period
+1489,2012,FN,TER,Шифр территории,cipher territory
+1490,2012,FN,MEST,Тип населенного пункта,Type of settlement
+1491,2012,FN,BUD,Номер бюджета,number budget
+1492,2012,FN,R1VV11,Код главы домохозяйства,Code of head of household
+1493,2012,FN,R1VV12,Код супруга (и) главы домохозяйства,Code spouse (s) of the household head
+1494,2012,FN,R1VV21,График работы главы домохозяйства,Schedule of household head
+1495,2012,FN,R1VV22,График работы супруга(и)  главы домохозяйства,Schedule of spouse (s) of the household head
+1496,2012,FN,R1VV31,"Форма собственности предприятия, на котором работает глава домохозяйства",Ownership of the enterprise that is running the household head
+1497,2012,FN,R1VV32,"Форма собственности предприятия, на котором работает супруг(а) главы домохозяйства",Ownership of the enterprise that is running the spouse (s) of the household head
+1498,2012,FN,R1VV41,Основной вид деятельности предприятия по основному месту работы главы домохозяйства,The main activity of the company in the main job of head of household
+1499,2012,FN,R1VV42,Основной вид деятельности предприятия по основному месту работы супруга(и) главы домохозяйства,The main activity of the company at the principal place of spouse (s) of the household head
+1500,2012,FN,R1VV51,Профессия  главы домохозяйства по основному месту работы,Occupation of head of household on the main job
+1501,2012,FN,R1VV52,Профессия супруга(и) главы домохозяйства по основному месту работы,Occupation of spouse (s) of the household head in the main job
+1502,2012,FN,R2V1,Основной источник средств к существованию домохозяйства,The main source of livelihood of the household
+1503,2012,FN,R2V2,Примерный денежный доход домохозяйства (код интервала),The approximate cash income households (code interval)
+1504,2012,FN,R2V31,Выплаты по страхованию жизни,Payment of life insurance
+1505,2012,FN,R2V32,"Выплаты по другим видам страхования (здоровье, имущество, жилье)","Payments for other types of insurance (health, property, housing)"
+1506,2012,FN,R2V33,"Помощь или подарки от детей, родственникам и других лиц","Help or gifts from children, relatives and other persons"
+1507,2012,FN,R2V34,Получение наследства,inheritance
+1508,2012,FN,R2V35,Получение выигрышей от участия в лотереях и играх,Gains from participation in lotteries and games
+1509,2012,FN,R2V36,Помощь в связи с особыми обстоятельствами и др. поступления,Assistance in connection with the special circumstances and others. Income
+1510,2012,FN,R2V41,Суммы полученных денег: от выплат по страхованию жизни,The sum of money received from payments for life insurance
+1511,2012,FN,R2V42,"Суммы полученных денег: от выплат по другим видам страхования (здоровье, имущество, жилье)","The sum of money received from payments for other types of insurance (health, property, housing)"
+1512,2012,FN,R2V43,"Суммы полученных денег: от помощи или подарки от детей, родственникам и других лиц","Amounts received money from aid or gifts from children, relatives and other persons"
+1513,2012,FN,R2V44,Суммы полученных денег: от полученного наследства,The sum of money received from the resulting inheritance
+1514,2012,FN,R2V45,Суммы полученных денег: от полученных выигрышей от участия в лотереях и играх,The sum of money received from gains from participation in lotteries and games
+1515,2012,FN,R2V46,Суммы полученных денег: от помощи в связи с особыми обстоятельствами и др. поступления,"The sum of money received from assistance due to special circumstances, and others. Income"
+1516,2012,FN,R2V51,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: зерно,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: grain"
+1517,2012,FN,R2V52,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: продовольственные товары,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: food products"
+1518,2012,FN,R2V53,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: непродовольственные товары,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: non-food products"
+1519,2012,FN,R2V54,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: бесплатное питание,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: a free meal"
+1520,2012,FN,R2V55,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата  транспортных расходов,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of transportation costs"
+1521,2012,FN,R2V56,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата жилья и коммунальных услуг,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of housing and communal services"
+1522,2012,FN,R2V57,"Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата ремонта, стр-ва и приобретения жилья","Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of repair, pp Islands and home"
+1523,2012,FN,R2V58,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата медицинского обслуживания и отдыха,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of health care and recreation"
+1524,2012,FN,R2V59,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата содержания детей в детучреждениях,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of children in detuchrezhdeniyah"
+1525,2012,FN,R2V510,Получали ли члены домохозяйства товары или помощь в счет оплаты труда или в виде соц. пакета по месту работы: оплата обучения,"Have members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: tuition"
+1526,2012,FN,R2V61,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: зерно,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: grain"
+1527,2012,FN,R2V62,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: продовольственные товары,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: food products"
+1528,2012,FN,R2V63,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: непродовольственные товары,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: non-food products"
+1529,2012,FN,R2V64,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: бесплатное питание,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: a free meal"
+1530,2012,FN,R2V65,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата  транспортных расходов,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of transportation costs"
+1531,2012,FN,R2V66,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата жилья и коммунальных услуг,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of housing and communal services"
+1532,2012,FN,R2V67,"Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата ремонта, стр-ва и приобретения жилья","Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of repair, pp Islands and home"
+1533,2012,FN,R2V68,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата медицинского обслуживания и отдыха,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of health care and recreation"
+1534,2012,FN,R2V69,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата содержания детей в детучреждениях,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: the payment of children in detuchrezhdeniyah"
+1535,2012,FN,R2V610,Оценка полученных членами домохозяйства товаров или помощи в счет оплаты труда или в виде соц. пакета по месту работы: оплата обучения,"Evaluation of the members of the household goods or assistance in respect of wages, or in the form of social services. package in the workplace: tuition"
+1536,2012,FN,R2V7,Расходование сбережений или взятых в долг денег,Expenditure savings or borrowed money
+1537,2012,FN,R2V81,Снятие денег с банковского счета,Withdrawing money from your bank account
+1538,2012,FN,R2V82,Расходование денежного сбережения или остатка дохода предыдущего периода,Debit balance of savings or income of the previous period
+1539,2012,FN,R2V83,Продажа ценных бумаг,Sales of securities
+1540,2012,FN,R2V84,Продажа имущества или вещей,Sale of property or things
+1541,2012,FN,R2V85,Выручка от продажи имущества или вещей,Proceeds from the sale of property or things
+1542,2012,FN,R2V86,Продажа недвижимости,property For Sale
+1543,2012,FN,R2V87,"Взяли ссуду, кредит","Have taken a loan, credit"
+1544,2012,FN,R2V88,"Получение денег, взятых в долг",Getting the money borrowed
+1545,2012,FN,R2V89,Взяли деньги в долг,Took the money in the debt
+1546,2012,FN,R2V810,другое,other
+1547,2012,FN,R2V9,Общая сумма дополнительных денежных средств,The total amount of additional funds
+1548,2012,FN,R2V10,"Сумма израсходованная на покупку валюты, пополнение банковского счета, дача в долг","The sum spent for the purchase of foreign currency, the completion of the bank account, giving a loan"
+1549,2012,FN,R2V11,Остатки денежных средств за текущий период,Cash balances for the current period
+1550,2012,FH,PER,Период разработки,development period
+1551,2012,FH,TER,Шифр территории,cipher territory
+1552,2012,FH,MEST,Тип населенного пункта,Type of settlement
+1553,2012,FH,BUD,Номер бюджета,number budget
+1554,2012,FH,R3GV1,Форма собственности основного жилья,Ownership of the main housing
+1555,2012,FH,R3GV2,Доля средств домохозяйства в оплате жилья,The share of households in housing costs
+1556,2012,FH,R3GV31,"Государства, муниципалитета","State, municipality"
+1557,2012,FH,R3GV32,Предприятия по месту работы,Companies in the workplace
+1558,2012,FH,R3GV33,Другого домохозяйства,other households
+1559,2012,FH,R3GV34,Благотворительной или иной организация,Charity or other organization
+1560,2012,FH,R3GV4,Наличие оплаты основного жилья за последние 3 месяца,Availability Payment of housing over the past 3 months
+1561,2012,FH,R3GV5,Причина неоплаты жилья,The reason for non-payment of housing
+1562,2012,FH,R3GV6,Плата за аренду жилье у частных лиц,Fee for rent housing from private individuals
+1563,2012,FH,R3GV91,Другого жилья помимо основного,Another addition to the main housing
+1564,2012,FH,R3GV92,Индивидуального дома или части дома,Individual house or the house
+1565,2012,FH,R3GV93,Дачи или дома для сезонного проживания,Cottages or houses for seasonal residence
+1566,2012,FH,R3GV94,Гаража стационарного,garage stationary
+1567,2012,FH,R3GV95,Другого строения,other buildings
+1568,2012,FH,R3GV15,Наличие  строительства или ремонта недвижимости,The presence of the construction or repair of real estate
+1569,2012,FH,R3GV16,"Тип постройки, где проводились основные работы","Type of construction, where major works were carried out"
+1570,2012,FH,R3GV17,Вид проводимых работ,Type of work done
+1571,2012,FH,R3GV18,Исполнитель основных работ,Artist major works
