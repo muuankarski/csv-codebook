@@ -327,3 +327,659 @@ year,file,var,russian,english
 2012,FZ,DOLGO,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: другими организациями за услуги или товары (без участия банка)","The presence of the household balance of the loan, a loan or other debt obligations to: other organizations for services or goods (without bank)"
 2012,FZ,DOLGL,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: частными лицами","The presence of the household balance of the loan, a loan or other debt obligations to: individuals"
 2012,FZ,DOLGDR,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: иной вид задолженности","The presence of the household balance of the loan, a loan or other debt obligations to: a different kind of debt"
+2011,FG,PER,Период разработки,development period
+2011,FG,TER,Шифр территории,cipher territory
+2011,FG,MEST,Тип населенного пункта,Type of settlement
+2011,FG,BUD,Номер бюджета,number budget
+2011,FG,GIL,Условия проживания,living conditions
+2011,FG,KSEM,Число семей в квартире,The number of families in the apartment
+2011,FG,SOBGIL,Собственник жилья,homeowners
+2011,FG,GODSTR,Год постройки жилья,Year built housing
+2011,FG,MATER,Материал стен жилья,Wall material housing
+2011,FG,ETAG,Число этажей,number of floors
+2011,FG,LIFT,Наличие лифта,elevator
+2011,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2011,FG,OTPL,Отапливаемая площадь жилища,Heated area home
+2011,FG,GILPL,Жилая площадь жилища,Living area home
+2011,FG,CHISKOM,Число комнат,number of rooms
+2011,FG,IZOLKOM,Число изолированных комнат,The number of separate rooms
+2011,FG,RAZMGIL,Мнение о размере жилья,Opinion on the amount of property
+2011,FG,KUHNY,Наличие благоустройства в жилище: кухня,The presence in the home improvement kitchen
+2011,FG,VANNA,Наличие благоустройства в жилище: ванна,The presence in the home improvement bathtub
+2011,FG,TUALET,Наличие благоустройства в жилище: туалет,The presence of improvement in housing: toilet
+2011,FG,KANALO,Наличие благоустройства в жилище: Тип канализации,The presence of improvement in housing: Sewage
+2011,FG,ELEKT,Наличие благоустройства в жилище: электричество,The presence of improvement in housing: electricity
+2011,FG,ELEKTPL,Наличие благоустройства в жилище: электроплита напольная,The presence of improvement in housing: electric floor
+2011,FG,GAZM,Наличие благоустройства в жилище: газ сетевой,The presence of improvement in housing: gas network
+2011,FG,GAZS,Наличие благоустройства в жилище: газ сжиженный,The presence of improvement in housing: liquefied gas
+2011,FG,MUSOR,Наличие благоустройства в жилище: мусоропровод,The presence of improvement in housing: a garbage disposal
+2011,FG,TELEF,Наличие благоустройства в жилище: телефон квартирный,The presence of improvement in housing: apartment phone
+2011,FG,VODOPR,Наличие благоустройства в жилище: Тип водопровода,The presence of improvement in housing: Type of water supply
+2011,FG,VODA,Наличие благоустройства в жилище: Источник питьевой воды,The presence of improvement in housing: Source of drinking water
+2011,FG,GORVODO,Наличие благоустройства в жилище: Тип горячего водоснабжения,The presence of improvement in housing: Hot water type
+2011,FG,OTOPL,Наличие благоустройства в жилище: Тип отопления,The presence of improvement in housing: Type of heating
+2011,FG,TOPLIVO,Наличие благоустройства в жилище: Основной вид топлива для отопления,The presence of improvement in housing: The main type of heating fuel
+2011,FG,OBESTOP,Наличие благоустройства в жилище: Обеспеченность топливом,The presence of improvement in housing: providing fuel
+2011,FG,DOPKONV,Использование дополнительного источника отопления: конвектора,The use of an additional source of heating: convector
+2011,FG,DOPTEPP,Использование дополнительного источника отопления: системы «теплый пол»,"The use of an additional source of heating: the system ""warm floor"""
+2011,FG,DOPOBOR,Использование дополнительного источника отопления: другого оборудования,The use of an additional source of heating: other equipment
+2011,FG,DOPNET,Использование дополнительного источника отопления: не используют,The use of an additional source of heating: do not use
+2011,FG,CHETELO,Оборудование приборами учета: электричества - однотарифным,Equipment metering devices: electricity - one tariff
+2011,FG,CHETELM,Оборудование приборами учета: электричества - многотарифным,Equipment metering devices: electricity - multirate
+2011,FG,CHETGAZ,Оборудование приборами учета: сетевого газа,Equipment metering devices: gas network
+2011,FG,CHETHOLV,Оборудование приборами учета: холодной воды,Equipment metering devices: cold water
+2011,FG,CHETGORV,Оборудование приборами учета: горячей воды,Equipment metering devices: hot water
+2011,FG,CHETTEP,Оборудование приборами учета: тепла,Equipment metering devices: heat
+2011,FG,NZELM,Причины отказа от установки прибора учета: не знаю о существовании: электричества - многотарифного,Reasons for non-installation of meters: I do not know about the existence of: Electricity - multitariff
+2011,FG,NZVOD,Причины отказа от установки прибора учета: не знаю о существовании: воды,Reasons for non-installation of meters: I do not know about the existence of: water
+2011,FG,NZTEP,Причины отказа от установки прибора учета: не знаю о существовании: тепла,Reasons for non-installation of meters: I do not know about the existence of: Heat
+2011,FG,PRELM,Причины отказа от установки прибора учета: установка не предлагалась: электричества - многотарифного,Reasons for non-installation of meters: installation was not offered: electricity - multitariff
+2011,FG,PRVOD,Причины отказа от установки прибора учета: установка не предлагалась: воды,Reasons for non-installation of meters: installation was not offered: water
+2011,FG,PRTEP,Причины отказа от установки прибора учета: установка не предлагалась: тепла,Reasons for non-installation of meters: installation was not offered: heat
+2011,FG,DORELM,Причины отказа от установки прибора учета: дорого: электричества - многотарифного,Reasons for non-installation of meters: expensive: electricity - multitariff
+2011,FG,DORVOD,Причины отказа от установки прибора учета: дорого: воды,Reasons for non-installation of meters: expensive: water
+2011,FG,DORTEP,Причины отказа от установки прибора учета: дорого: тепла,Reasons for non-installation of meters: expensive: heat
+2011,FG,TTELM,Причины отказа от установки прибора учета: технические трудности: электричества - многотарифного,Reasons for non-Installation of technical challenges: electricity - multitariff
+2011,FG,TTVOD,Причины отказа от установки прибора учета: технические трудности: воды,Reasons for non-Installation of technical challenges: water
+2011,FG,TTTEP,Причины отказа от установки прибора учета: технические трудности: тепла,Reasons for non-installation of meters: technical difficulties: heat
+2011,FG,NETELM,Причины отказа от установки прибора учета: нет необходимости: электричества - многотарифного,Reasons for non-installation of metering devices: there is no need: electricity - multitariff
+2011,FG,NETVOD,Причины отказа от установки прибора учета: нет необходимости: воды,Reasons for non-installation of metering devices: there is no need: water
+2011,FG,NETTEP,Причины отказа от установки прибора учета: нет необходимости: тепла,Reasons for non-installation of metering devices: there is no need: heat
+2011,FG,DRELM,Причины отказа от установки прибора учета: другое: электричества - многотарифного,Reasons for non-installation of meters: Other: Electricity - multitariff
+2011,FG,DRVOD,Причины отказа от установки прибора учета: другое: воды,Reasons for non-installation of meters: Other: water
+2011,FG,DRTEP,Причины отказа от установки прибора учета: другое: тепла,Reasons for non-installation of meters: Other: Heat
+2011,FG,KOLAM,Количество осветительных ламп,Number of lamps
+2011,FG,KOLAMN,Количество ламп накаливания,Number of bulbs
+2011,FG,NZLAM,Причины отказа от использования энергосберегающих ламп: не знаю об их существовании ,The reasons for non-use of energy-saving lamps: I do not know about their existence
+2011,FG,NPLAM,Причины отказа от использования энергосберегающих ламп: нет в продаже,The reasons for non-use of energy-saving lamps: Not available
+2011,FG,DORLAM,Причины отказа от использования энергосберегающих ламп: дорого,The reasons for non-use of energy-saving lamps: expensive
+2011,FG,NOLAM,Причины отказа от использования энергосберегающих ламп: не приспособлено осветительное оборудование,The reasons for non-use of energy-saving lamps not fitted lighting equipment
+2011,FG,NSVLAM,Причины отказа от использования энергосберегающих ламп: плохое освещение ,The reasons for non-use of energy-saving lamps: poor lighting
+2011,FG,ZRLAM,Причины отказа от использования энергосберегающих ламп: вредно для зрения,The reasons for non-use of energy-saving lamps: harmful to view
+2011,FG,NETLAM,Причины отказа от использования энергосберегающих ламп: нет необходимости ,The reasons for non-use of energy-saving lamps: no need
+2011,FG,DRLAM,Причины отказа от использования энергосберегающих ламп: другое,The reasons for non-use of energy-saving lamps: Other
+2011,FG,PHOLVOD,Наличие перебоев с: холодной водой,The presence of disruptions: cold water
+2011,FG,PGORVOD,Наличие перебоев с: горячей водой,The presence of disruptions: hot water
+2011,FG,PELEKTR,Наличие перебоев с: электроэнергией,The presence of disruptions: electricity
+2011,FG,PTEPL,Наличие перебоев с: теплом,The presence of disruptions: warm
+2011,FG,PPROGR,Наличие перебоев с: приемом программ телевидения,The presence of disruptions: the reception of television programs
+2011,FG,PLIFT,Наличие перебоев с: лифтовым обслуживанием,The presence of faults with: elevator service
+2011,FG,RHOLVOD,Регулярность перебоев с: холодной водой,Regularity of interruptions: cold water
+2011,FG,RGORVOD,Регулярность перебоев с: горячей водой,Regularity of interruptions: hot water
+2011,FG,RELEKTR,Регулярность перебоев с: электроэнергией,Regularity of interruptions: electricity
+2011,FG,RTEPL,Регулярность перебоев с: теплом,Regularity of interruptions: warm
+2011,FG,RPROGR,Регулярность перебоев с: приемом программ телевидения,Regularity of disruptions: the reception of television programs
+2011,FG,RLIFT,Регулярность перебоев с: лифтовым обслуживанием,Regularity of interruptions: elevator service
+2011,FG,NTEKREM,Неудобства в проживании: необходимость текущего ремонта,"Inconvenience to stay, need for maintenance"
+2011,FG,NKAPREM,Неудобства в проживании: необходимость капитального ремонта,"Inconvenience to stay, the need for major repairs"
+2011,FG,XOLOD,Неудобства в проживании: недостаток тепла,"Inconvenience to stay, lack of heat"
+2011,FG,VLAG,Неудобства в проживании: избыток влажности,"Inconvenience to stay, excess humidity"
+2011,FG,TEMN,Неудобства в проживании: недостаток света,"Inconvenience to stay, the lack of light"
+2011,FG,NSANTEH,Неудобства в проживании: неполадки с сантехническим оборудованием,"Inconvenience to stay, problems with sanitary equipment"
+2011,FG,NELEKTR,Неудобства в проживании: неисправность электропроводки,Inconvenience to stay wiring
+2011,FG,SHUMIZO,Неудобства в проживании: плохая шумоизоляция,Inconvenience to stay poor noise insulation
+2011,FG,GRYZ,Неудобства в проживании: загрязнение воздуха,"Inconvenience to stay, air pollution"
+2011,FG,PLVODA,Неудобства в проживании: плохое качество воды,Inconvenience to stay poor water quality
+2011,FG,PLOBTR,Неудобства в проживании: плохая работа общественного транспорта,Inconvenience to stay poor performance of public transport
+2011,FG,PLSVET,Неудобства в проживании: плохая освещенность улиц,"Inconvenience to stay, poorly lit streets"
+2011,FG,SHUMS,Неудобства в проживании: беспокойные соседи,Inconvenience to stay restless neighbors
+2011,FG,PLDR,Неудобства в проживании: другое,Inconvenience to stay another
+2011,FG,OSNPY,Осуществление мероприятий по энергоэффективности: централизованное оснащение квартир приборами учета,Implementation of energy efficiency measures: centralized equipment of the apartment metering devices
+2011,FG,YTEP,Осуществление мероприятий по энергоэффективности: утепление здания ,Implementation of energy efficiency measures: insulation of buildings
+2011,FG,ZAMEL,Осуществление мероприятий по энергоэффективности: замена электрооборудования,Implementation of energy efficiency measures: replacement of electrical equipment
+2011,FG,ZAMKOM,Осуществление мероприятий по энергоэффективности: замена инженерных коммуникаций и сооружений,Implementation of energy efficiency measures: replacement of utilities and facilities
+2011,FG,DRMER,Осуществление мероприятий по энергоэффективности: другое,Implementation of energy efficiency measures: Other
+2011,FG,OCENGIL,Оценка жилищных условий,Assessment of living conditions
+2011,FG,ULUCHG,Намерение улучшить жилье,Intention to improve housing
+2011,FG,UCHET,Способы улучшения жилищных условий: стояние на учете как нуждающиеся ,Ways to improve their housing conditions: state registered as needing
+2011,FG,KUPGIL,Способы улучшения жилищных условий: покупка нового жилья,Ways to improve the living conditions: the purchase of new housing
+2011,FG,KUPGILD,Способы улучшения жилищных условий: покупка дополнительного жилья,Ways to improve the living conditions: the purchase of additional housing
+2011,FG,NASLED,Способы улучшения жилищных условий: получение наследства,Ways to improve their housing conditions: inheritance
+2011,FG,STRGIL,Способы улучшения жилищных условий: строительство нового дома,Ways to improve the living conditions: the construction of a new home
+2011,FG,DRPRICH,Способы улучшения жилищных условий: другой способ улучшения жилья,Ways to improve their housing conditions: another way to improve housing
+2011,FG,NULUCHG,Причина отказа от улучшения жилищных условий,The reason for not improving living conditions
+2011,FG,PRODMAG,Шаговая доступность объектов социальной инфраструктуры: продовольственный магазин,Stepping accessibility of social infrastructure: grocery store
+2011,FG,PROMMAG,Шаговая доступность объектов социальной инфраструктуры: магазин непродовольственных товаров,Stepping accessibility of social infrastructure: store non-food items
+2011,FG,POCHTA,Шаговая доступность объектов социальной инфраструктуры: почта,Stepping accessibility of social infrastructure: e-mail
+2011,FG,SBERB,Шаговая доступность объектов социальной инфраструктуры: Сбербанк,Stepping accessibility of social infrastructure: Sberbank
+2011,FG,APTEKA,Шаговая доступность объектов социальной инфраструктуры: аптека,Stepping accessibility of social infrastructure: pharmacy
+2011,FG,POLIKV,Шаговая доступность объектов социальной инфраструктуры: поликлиника для взрослых,Stepping accessibility of social infrastructure: clinic for adults
+2011,FG,POLIKD,Шаговая доступность объектов социальной инфраструктуры: детская поликлиника,Stepping accessibility of social infrastructure: Children's Clinic
+2011,FG,SHKOLA,Шаговая доступность объектов социальной инфраструктуры: общеобразовательное учреждение,Stepping accessibility of social infrastructure: educational institution
+2011,FG,DETSAD,Шаговая доступность объектов социальной инфраструктуры: детский сад,Stepping accessibility of social infrastructure: kindergarten
+2011,FG,PENFOND,Шаговая доступность объектов социальной инфраструктуры: отделение Пенсионного фонда,Stepping accessibility of social infrastructure: the Pension Fund office
+2011,FG,SOCZA,Шаговая доступность объектов социальной инфраструктуры: отдел социальной защиты,Stepping accessibility of social infrastructure: Department of Social Protection
+2011,FG,NOTAR,Шаговая доступность объектов социальной инфраструктуры: нотариальная контора,Stepping accessibility of social infrastructure: Notary Office
+2011,FG,URIST,Шаговая доступность объектов социальной инфраструктуры: юридическая консультация,Stepping accessibility of social infrastructure: legal advice
+2011,FG,TPRODMAG,Затраты времени на транспорте до: продовольственный магазин,Time spent on transport to: grocery store
+2011,FG,TPROMMAG,Затраты времени на транспорте до: магазин непродовольственных товаров,Time spent on transport to: store non-food items
+2011,FG,TPOCHTA,Затраты времени на транспорте до: почта,Time spent on transport to: e-mail
+2011,FG,TSBERB,Затраты времени на транспорте до: Сбербанк,Time spent on transport to Sberbank
+2011,FG,TAPTEKA,Затраты времени на транспорте до: аптека,Time spent on transport to: pharmacy
+2011,FG,TPOLIKV,Затраты времени на транспорте до: поликлиника для взрослых,Time spent on transport to: Clinic for Adults
+2011,FG,TPOLIKD,Затраты времени на транспорте до: детская поликлиника,Time spent on transport to: Children's Clinic
+2011,FG,TSHKOLA,Затраты времени на транспорте до: общеобразовательное учреждение,Time spent on transport to: educational institution
+2011,FG,TDETSAD,Затраты времени на транспорте до: детский сад,The time required to transport to a kindergarten
+2011,FG,TPENFOND,Затраты времени на транспорте до: отделение Пенсионного фонда,Time spent on transport to: Department of Pension Fund
+2011,FG,TSOCZA,Затраты времени на транспорте до: отдел социальной защиты,Time spent on transport to: Department of Social Protection
+2011,FG,TNOTAR,Затраты времени на транспорте до: нотариальная контора,Time spent on transport to: Notary Office
+2011,FG,TURIST,Затраты времени на транспорте до: юридическая консультация,Time spent on transport to: legal advice
+2011,FG,REGULTR,Регулярность работы общественного транспорта,The regularity of public transport
+2011,FZ,PER,Период разработки,development period
+2011,FZ,TER,Шифр территории,cipher territory
+2011,FZ,MEST,Тип населенного пункта,Type of settlement
+2011,FZ,BUD,Номер бюджета,number budget
+2011,FZ,NALTELC,Количество цветных телевизоров,Number of color televisions
+2011,FZ,NALTEL,- « - черно-белых телевизоров,"- ""- Black and white TVs"
+2011,FZ,NALVID,- « - видеомагнитофонов,"- ""- VCR"
+2011,FZ,NALDVD,- « - DVD-плеер,- «- DVD-player
+2011,FZ,NALVIDCM,- « - видеокамер,"- ""- Camcorders"
+2011,FZ,NALRADIO,- « - радиоприемников,"- ""- Radio"
+2011,FZ,NALMUZC,- « - музыкальных центров,"- ""- Stereo"
+2011,FZ,NALMAG,- « - магнитофонов,"- ""- Tape"
+2011,FZ,NALHOL,- « - холодильников,"- ""- Refrigerators"
+2011,FZ,NALMOR,- « - морозильников,"- ""- Freezers"
+2011,FZ,NALSTIR,- « - стиральных машин,"- ""- Washing machines"
+2011,FZ,NALMPH,- « - микроволновых печей,"- ""- Microwave ovens"
+2011,FZ,NALPMM,- « - посудомоечных машин,"- ""- Dishwasher"
+2011,FZ,NALPSOS,- « - электропылесосов,"- ""- Vacuum cleaners"
+2011,FZ,NALSHVE,- « - швейных машин,"- ""- Sewing machines"
+2011,FZ,NALVIAZ,- « - вязальных машин,"- ""- Knitting machines"
+2011,FZ,NALCOND,- « - кондиционеров,"- ""- Conditioners"
+2011,FZ,NALPC,- « - персональных компьютеров,"- ""- PC"
+2011,FZ,NALKPC,- « - карманных компьютеров,"- ""- PDAs"
+2011,FZ,NALMTEL,- « - мобильных телефонов,"- ""- Mobile phones"
+2011,FZ,NALVEL,- « - велосипедов,"- ""- Bike"
+2011,FZ,NALMOT,- « - мотоциклов,"- ""- Motorcycles"
+2011,FZ,NALAVT,- « - легковых автомобилей,"- ""- Cars"
+2011,FZ,NALGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2011,FZ,NALLOD,- « - моторных лодок,"- ""- Motorboats"
+2011,FZ,RTELC,Количество в рабочем состоянии цветных телевизоров,Number operable color televisions
+2011,FZ,RTEL,- « - черно-белых телевизоров,"- ""- Black and white TVs"
+2011,FZ,RVID,- « - видеомагнитофонов,"- ""- VCR"
+2011,FZ,RDVD,- « - DVD-плеер,- «- DVD-player
+2011,FZ,RVIDCM,- « - видеокамер,"- ""- Camcorders"
+2011,FZ,RRADIO,- « - радиоприемников,"- ""- Radio"
+2011,FZ,RMUZC,- « - музыкальных центров,"- ""- Stereo"
+2011,FZ,RMAG,- « - магнитофонов,"- ""- Tape"
+2011,FZ,RHOL,- « - холодильников,"- ""- Refrigerators"
+2011,FZ,RMOR,- « - морозильников,"- ""- Freezers"
+2011,FZ,RSTIR,- « - стиральных машин,"- ""- Washing machines"
+2011,FZ,RMPH,- « - микроволновых печей,"- ""- Microwave ovens"
+2011,FZ,RPMM,- « - посудомоечных машин,"- ""- Dishwasher"
+2011,FZ,RPSOS,- « - электропылесосов,"- ""- Vacuum cleaners"
+2011,FZ,RSHVE,- « - швейных машин,"- ""- Sewing machines"
+2011,FZ,RVIAZ,- « - вязальных машин,"- ""- Knitting machines"
+2011,FZ,RCOND,- « - кондиционеров,"- ""- Conditioners"
+2011,FZ,RPC,- « - персональных компьютеров,"- ""- PC"
+2011,FZ,RKPC,- « - карманных компьютеров,"- ""- PDAs"
+2011,FZ,RMTEL,- « - мобильных телефонов,"- ""- Mobile phones"
+2011,FZ,RVEL,- « - велосипедов,"- ""- Bike"
+2011,FZ,RMOT,- « - мотоциклов,"- ""- Motorcycles"
+2011,FZ,RAVT,- « - легковых автомобилей,"- ""- Cars"
+2011,FZ,RGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2011,FZ,RLOD,- « - моторных лодок,"- ""- Motorboats"
+2011,FZ,GODTELC,Год приобретения цветного телевизора,The year of acquisition color TV
+2011,FZ,GODTEL,- « - черно-белого телевизора,"- ""- Black-and-white television"
+2011,FZ,GODVID,- « - видеомагнитофона,"- ""- VCR"
+2011,FZ,GODDVD,- « - DVD-плеер,- «- DVD-player
+2011,FZ,GODVIDCM,- « - видеокамеры,"- ""- Camcorder"
+2011,FZ,GODRADIO,- « - радиоприемника,"- ""- Radio"
+2011,FZ,GODMUZC,- « - музыкального центра,"- ""- The music center"
+2011,FZ,GODMAG,- « - магнитофона,"- ""- Tape"
+2011,FZ,GODHOL,- « - холодильника,"- ""- Refrigerator"
+2011,FZ,GODMOR,- « - морозильника,"- ""- Freezer"
+2011,FZ,GODSTIR,- « - стиральной машины,"- ""- Washing machine"
+2011,FZ,GODMPH,- « - микроволновой печи,"- ""- Microwave"
+2011,FZ,GODPMM,- « - посудомоечной машины,"- ""- Dishwasher"
+2011,FZ,GODPSOS,- « - электропылесоса,"- ""- An electric vacuum"
+2011,FZ,GODSHVE,- « - швейной машины,"- ""- Sewing machine"
+2011,FZ,GODVIAZ,- « - вязальной машины,"- ""- Knitting machine"
+2011,FZ,GODCOND,- « - кондиционера,"- ""- The air conditioner"
+2011,FZ,GODPC,- « - персонального компьютера,"- ""- PC"
+2011,FZ,GODKPC,- « - карманных компьютеров,"- ""- PDAs"
+2011,FZ,GODMTEL,- « - мобильного телефона,"- ""- Mobile phone"
+2011,FZ,GODVEL,- « - велосипеда,"- ""- Bicycle"
+2011,FZ,GODMOT,- « - мотоцикла,"- ""- A motorcycle"
+2011,FZ,GODAVT,- « - легкового автомобиля,"- ""- A car"
+2011,FZ,GODGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2011,FZ,GODLOD,- « - моторной лодки,"- ""- A motor boat"
+2011,FZ,EFHOL,Класс энергоэффективности холодильника,Energy efficiency class refrigerator
+2011,FZ,EFMOR,- « - морозильника,"- ""- Freezer"
+2011,FZ,EFSTIR,- « - стиральной машины,"- ""- Washing machine"
+2011,FZ,EFMPH,- « - микроволновой печи,"- ""- Microwave"
+2011,FZ,EFPMM,- « - посудомоечной машины,"- ""- Dishwasher"
+2011,FZ,EFPSOS,- « - электропылесоса,"- ""- An electric vacuum"
+2011,FZ,EFSHVE,- « - швейной машины,"- ""- Sewing machine"
+2011,FZ,EFVIAZ,- « - вязальной машины,"- ""- Knitting machine"
+2011,FZ,EFCOND,- « - кондиционера,"- ""- The air conditioner"
+2011,FZ,PC16,"Число членов домохозяйства, пользующихся компьютером в возрасте: до 16 лет",Number of household members who use a computer at Age: 16 years
+2011,FZ,PC35,"Число членов домохозяйства, пользующихся компьютером в возрасте: 16 – 35 лет",Number of household members who use a computer at the age of 16 - 35 years
+2011,FZ,PC55,"Число членов домохозяйства, пользующихся компьютером в возрасте: 36 - 55 лет",Number of household members who use a computer at the age of 36 - 55 years
+2011,FZ,PC74,"Число членов домохозяйства, пользующихся компьютером в возрасте: 56 лет и старше",Number of household members who use a computer at the age of 56 years and older
+2011,FZ,DOSINT,Наличие доступа в Интернет,Having access to the Internet
+2011,FZ,PINT16,Число членов домохозяйства пользующихся Интернет постоянно: до 16 лет,Number of household members use the Internet constantly: Up to 16 years
+2011,FZ,PINT35,Число членов домохозяйства пользующихся Интернет постоянно: 16 – 35 лет,Number of household members use the Internet constantly: 16 - 35 years
+2011,FZ,PINT55,Число членов домохозяйства пользующихся Интернет постоянно: 36 - 55 лет,Number of household members use the Internet constantly: 36 - 55 years
+2011,FZ,PINT74,Число членов домохозяйства пользующихся Интернет постоянно: 56 лет и старше,Number of household members use the Internet constantly: 56 years and older
+2011,FZ,SINT16,Число членов домохозяйства пользующихся Интернет от случая к случаю: до 16 лет,Number of household members using the Internet from time to time: up to 16 years
+2011,FZ,SINT35,Число членов домохозяйства пользующихся Интернет от случая к случаю: 16 – 35 лет,Number of household members using the Internet from time to time: 16 - 35 years
+2011,FZ,SINT55,Число членов домохозяйства пользующихся Интернет от случая к случаю: 36 - 55 лет,Number of household members using the Internet from time to time: 36 - 55 years
+2011,FZ,SINT74,Число членов домохозяйства пользующихся Интернет от случая к случаю: 56 лет и старше,Number of household members using the Internet from time to time: 56 years and older
+2011,FZ,NINT16,Число членов домохозяйства пользующихся Интернет не пользуются: до 16 лет,Number of household members using the Internet do not use: up to 16 years
+2011,FZ,NINT35,Число членов домохозяйства пользующихся Интернет не пользуются: 16 – 35 лет,Number of household members using the Internet is not used: 16 - 35 years
+2011,FZ,NINT55,Число членов домохозяйства пользующихся Интернет не пользуются: 36 - 55 лет,Number of household members using the Internet is not used: 36 - 55 years
+2011,FZ,NINT74,Число членов домохозяйства пользующихся Интернет не пользуются: 56 лет и старше,Number of household members using the Internet is not used: 56 years and older
+2011,FZ,INT161,"Цели использования Интернет лицами до 16 лет: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons under 16 years: search or perform paid work, delivery information"
+2011,FZ,INT162,"Цели использования Интернет лицами до 16 лет: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons under 16 years: to obtain information, documents on the websites of public authorities, public institutions and agencies"
+2011,FZ,INT163,"Цели использования Интернет лицами до 16 лет: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons under 16 years: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2011,FZ,INT164,"Цели использования Интернет лицами до 16 лет: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons under 16 years: financial transactions (payment services, money transfers, etc.)."
+2011,FZ,INT165,Цели использования Интернет лицами до 16 лет: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons under 16 years: distance learning for mandatory or optional program
+2011,FZ,INT166,"Цели использования Интернет лицами до 16 лет: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons under 16 years: reading news items, articles, use digital libraries, encyclopedias and others."
+2011,FZ,INT167,"Цели использования Интернет лицами до 16 лет: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons under 16 years: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2011,FZ,INT168,"Цели использования Интернет лицами до 16 лет: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons under 16 years: a discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2011,FZ,INT169,"Цели использования Интернет лицами до 16 лет: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons under 16 years: Spending time for downloading movies, music and games, playing online games, and others."
+2011,FZ,INT1610,Цели использования Интернет лицами до 16 лет: для других целей,Objectives of Internet use by persons under 16 years: for other purposes
+2011,FZ,INT351,"Цели использования Интернет лицами от 16 до 35 лет: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons 16 to 35 years: search or perform paid work, delivery information"
+2011,FZ,INT352,"Цели использования Интернет лицами от 16 до 35 лет: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons 16 to 35 years: to obtain information, documents on the websites of public authorities, public institutions and agencies"
+2011,FZ,INT353,"Цели использования Интернет лицами от 16 до 35 лет: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons 16 to 35 years: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2011,FZ,INT354,"Цели использования Интернет лицами от 16 до 35 лет: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons 16 to 35 years: financial transactions (payment services, money transfers, etc.)."
+2011,FZ,INT355,Цели использования Интернет лицами от 16 до 35 лет: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons 16 to 35 years: distance learning for mandatory or optional program
+2011,FZ,INT356,"Цели использования Интернет лицами от 16 до 35 лет: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons 16 to 35 years: reading news items, articles, use digital libraries, encyclopedias and others."
+2011,FZ,INT357,"Цели использования Интернет лицами от 16 до 35 лет: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons 16 to 35 years: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2011,FZ,INT358,"Цели использования Интернет лицами от 16 до 35 лет: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons 16 to 35 years: a discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2011,FZ,INT359,"Цели использования Интернет лицами от 16 до 35 лет: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons 16 to 35 years: Spending time for downloading movies, music and games, playing online games, and others."
+2011,FZ,INT3510,Цели использования Интернет лицами от 16 до 35 лет: для других целей,Objectives of Internet use by persons 16 to 35 years: for other purposes
+2011,FZ,INT551,"Цели использования Интернет лицами от 36 до 55 лет: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons from 36 to 55 years: search or perform paid work, delivery information"
+2011,FZ,INT552,"Цели использования Интернет лицами от 36 до 55 лет: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons from 36 to 55 years: to obtain information, documents on the websites of public authorities, public institutions and agencies"
+2011,FZ,INT553,"Цели использования Интернет лицами от 36 до 55 лет: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons from 36 to 55 years: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2011,FZ,INT554,"Цели использования Интернет лицами от 36 до 55 лет: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons from 36 to 55 years: financial transactions (payment services, money transfers, etc.)."
+2011,FZ,INT555,Цели использования Интернет лицами от 36 до 55 лет: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons from 36 to 55 years: distance learning for mandatory or optional program
+2011,FZ,INT556,"Цели использования Интернет лицами от 36 до 55 лет: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons from 36 to 55 years: reading news items, articles, use digital libraries, encyclopedias and others."
+2011,FZ,INT557,"Цели использования Интернет лицами от 36 до 55 лет: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons from 36 to 55 years: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2011,FZ,INT558,"Цели использования Интернет лицами от 36 до 55 лет: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons from 36 to 55 years: a discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2011,FZ,INT559,"Цели использования Интернет лицами от 36 до 55 лет: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons from 36 to 55 years: Spending time for downloading movies, music and games, playing online games, and others."
+2011,FZ,INT5510,Цели использования Интернет лицами от 36 до 55 лет: для других целей,Purpose Internet entities from 36 to 55 years: for other purposes
+2011,FZ,INT741,"Цели использования Интернет лицами 56 лет и старше: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons 56 years of age and older: search or perform paid work, delivery information"
+2011,FZ,INT742,"Цели использования Интернет лицами 56 лет и старше: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons 56 years of age and older: obtaining information, documents on the websites of public authorities, public institutions and agencies"
+2011,FZ,INT743,"Цели использования Интернет лицами 56 лет и старше: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons 56 years of age and older: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2011,FZ,INT744,"Цели использования Интернет лицами 56 лет и старше: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons 56 years of age and older: financial transactions (payment services, money transfers, etc.)."
+2011,FZ,INT745,Цели использования Интернет лицами 56 лет и старше: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons 56 years of age and older: distance learning for mandatory or optional program
+2011,FZ,INT746,"Цели использования Интернет лицами 56 лет и старше: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons 56 years of age and older: reading news items, articles, use digital libraries, encyclopedias and others."
+2011,FZ,INT747,"Цели использования Интернет лицами 56 лет и старше: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons 56 years of age and older: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2011,FZ,INT748,"Цели использования Интернет лицами 56 лет и старше: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons 56 years of age and older: discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2011,FZ,INT749,"Цели использования Интернет лицами 56 лет и старше: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons 56 years of age and older: Spending time for downloading movies, music and games, playing online games, and others."
+2011,FZ,INT7410,Цели использования Интернет лицами 56 лет и старше: для других целей,Objectives of Internet use by persons 56 years of age and older: for other purposes
+2011,FZ,KACHY,Оценка полноты и своевременности услуг на сайте,Assessment of the completeness and timeliness of the services on the website
+2011,FZ,ZEM,Наличие земельного участка,Availability of land
+2011,FZ,RZEM,Размер земельного участка,Plot Size
+2011,FZ,SOBZEM,Право собственности на землю,Land ownership
+2011,FZ,RSOBZEM,Размер собственного земельного участка,Size own the land
+2011,FZ,SHVO,Наличие сельскохозяйственной деятельности ,The presence of agricultural activities
+2011,FZ,TRAK,Количество тракторов,Number of tractors
+2011,FZ,KOMB,- « - комбайнов,"- ""- Combines"
+2011,FZ,PLUG,- « - плугов,"- ""- Plows"
+2011,FZ,SEILK,- « - сеялок,"- ""- Drills"
+2011,FZ,SENO,- « - сенокосилок,"- ""- Hay"
+2011,FZ,MBLOK,- « - мотоблоков,"- ""- Tillers"
+2011,FZ,MYDO,- « - машин для внесения удобрений ,"- ""- Fertilizing machines"
+2011,FZ,YDO,- « - установок доильных,"- ""- Milking installations"
+2011,FZ,RASK,- « - раздатчиков кормов,"- ""- Feeder"
+2011,FZ,DROBOR,- « - другого оборудования ,"- ""- Other equipment"
+2011,FZ,ZMUK,Запасы муки,stocks of flour
+2011,FZ,ZKRUP,- « - крупы,"- ""- Cereals"
+2011,FZ,ZMAK,- « - макаронных изделий,"- ""- Pasta"
+2011,FZ,ZGOV,- « - говядины,"- ""- Beef"
+2011,FZ,ZSVIN,- « - свинины,"- ""- Pork"
+2011,FZ,ZPTICH,- « - мяса птицы,"- ""- Poultry"
+2011,FZ,ZMKON,- « - мясных и мясорастительных консервов,"- ""- Meat and vegetable canned food"
+2011,FZ,ZRIBA,"- « - рыбы свежей, соленой, сушеной","- ""- Fresh fish, salted, dried"
+2011,FZ,ZRKON,- « - рыбных консервов,"- ""- Canned fish"
+2011,FZ,ZMOL,- « - молока,"- ""- Milk"
+2011,FZ,ZSLMAS,- « - масла сливочного,"- ""- Butter"
+2011,FZ,ZMOKON,- « - молочных консервов,"- ""- Canned milk"
+2011,FZ,ZSMOL,- « - сухого молока,"- ""- Milk powder"
+2011,FZ,ZSSLIV,- « - сухих сливок,"- ""- Dried cream"
+2011,FZ,ZRMAS,- « - масла растительного,"- ""- Vegetable oil"
+2011,FZ,ZMARG,- « - маргарина и других жиров,"- ""- Margarine and other fats"
+2011,FZ,ZSAHAR,- « - сахара,"- ""- Sugar"
+2011,FZ,ZKON,"- « - конфет, шоколада","- ""- Sweets, chocolate"
+2011,FZ,ZVAR,"- « - варенья, джема","- ""- Jam, jam"
+2011,FZ,ZPECH,"- « - печенья, пряников","- ""- Biscuits, cakes"
+2011,FZ,FINPOL,Определение финансового положения домохозяйства,Determination of the financial situation of the household
+2011,FZ,OCHXOR,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: очень хорошо",The amount of money necessary for your household to live: very good
+2011,FZ,XOROSHO,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: хорошо",The amount of money necessary for your household to live: good
+2011,FZ,UDOVL,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: удовлетворительно",The amount of money necessary for your household to live: Satisfactory
+2011,FZ,DOLGB,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: банками","The presence of the household balance of the loan, a loan or other debt obligations to: banks"
+2011,FZ,DOLGP,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: предприятием, на котором работают","The presence of the household balance of the loan, a loan or other debt obligations before: now that is running"
+2011,FZ,DOLGO,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: другими организациями за услуги или товары (без участия банка)","The presence of the household balance of the loan, a loan or other debt obligations to: other organizations for services or goods (without bank)"
+2011,FZ,DOLGL,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: частными лицами","The presence of the household balance of the loan, a loan or other debt obligations to: individuals"
+2011,FZ,DOLGDR,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: иной вид задолженности","The presence of the household balance of the loan, a loan or other debt obligations to: a different kind of debt"
+2010,FG,PER,Период разработки,development period
+2010,FG,TER,Шифр территории,cipher territory
+2010,FG,MEST,Тип населенного пункта,Type of settlement
+2010,FG,BUD,Номер бюджета,number budget
+2010,FG,GIL,Условия проживания,living conditions
+2010,FG,KSEM,Число семей в квартире,The number of families in the apartment
+2010,FG,SOBGIL,Собственник жилья,homeowners
+2010,FG,GODSTR,Год постройки жилья,Year built housing
+2010,FG,MATER,Материал стен жилья,Wall material housing
+2010,FG,ETAG,Число этажей,number of floors
+2010,FG,LIFT,Наличие лифта,elevator
+2010,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2010,FG,OTPL,Отапливаемая площадь жилища,Heated area home
+2010,FG,GILPL,Жилая площадь жилища,Living area home
+2010,FG,CHISKOM,Число комнат,number of rooms
+2010,FG,IZOLKOM,Число изолированных комнат,The number of separate rooms
+2010,FG,RAZMGIL,Мнение о размере жилья,Opinion on the amount of property
+2010,FG,KUHNY,Наличие благоустройства в жилище: кухня,The presence in the home improvement kitchen
+2010,FG,VANNA,Наличие благоустройства в жилище: ванна,The presence in the home improvement bathtub
+2010,FG,TUALET,Наличие благоустройства в жилище: туалет,The presence of improvement in housing: toilet
+2010,FG,KANALO,Наличие благоустройства в жилище: Тип канализации,The presence of improvement in housing: Sewage
+2010,FG,ELEKT,Наличие благоустройства в жилище: электричество,The presence of improvement in housing: electricity
+2010,FG,ELEKTPL,Наличие благоустройства в жилище: электроплита напольная,The presence of improvement in housing: electric floor
+2010,FG,GAZM,Наличие благоустройства в жилище: газ сетевой,The presence of improvement in housing: gas network
+2010,FG,GAZS,Наличие благоустройства в жилище: газ сжиженный,The presence of improvement in housing: liquefied gas
+2010,FG,MUSOR,Наличие благоустройства в жилище: мусоропровод,The presence of improvement in housing: a garbage disposal
+2010,FG,TELEF,Наличие благоустройства в жилище: телефон квартирный,The presence of improvement in housing: apartment phone
+2010,FG,VODOPR,Наличие благоустройства в жилище: Тип водопровода,The presence of improvement in housing: Type of water supply
+2010,FG,VODA,Наличие благоустройства в жилище: Источник питьевой воды,The presence of improvement in housing: Source of drinking water
+2010,FG,GORVODO,Наличие благоустройства в жилище: Тип горячего водоснабжения,The presence of improvement in housing: Hot water type
+2010,FG,OTOPL,Наличие благоустройства в жилище: Тип отопления,The presence of improvement in housing: Type of heating
+2010,FG,TOPLIVO,Наличие благоустройства в жилище: Основной вид топлива для отопления,The presence of improvement in housing: The main type of heating fuel
+2010,FG,OBESTOP,Наличие благоустройства в жилище: Обеспеченность топливом,The presence of improvement in housing: providing fuel
+2010,FG,DOPKONV,Использование дополнительного источника отопления: конвектора,The use of an additional source of heating: convector
+2010,FG,DOPTEPP,Использование дополнительного источника отопления: системы «теплый пол»,"The use of an additional source of heating: the system ""warm floor"""
+2010,FG,DOPOBOR,Использование дополнительного источника отопления: другого оборудования,The use of an additional source of heating: other equipment
+2010,FG,DOPNET,Использование дополнительного источника отопления: не используют,The use of an additional source of heating: do not use
+2010,FG,CHETELO,Оборудование приборами учета: электричества - однотарифным,Equipment metering devices: electricity - one tariff
+2010,FG,CHETELM,Оборудование приборами учета: электричества - многотарифным,Equipment metering devices: electricity - multirate
+2010,FG,CHETGAZ,Оборудование приборами учета: сетевого газа,Equipment metering devices: gas network
+2010,FG,CHETHOLV,Оборудование приборами учета: холодной воды,Equipment metering devices: cold water
+2010,FG,CHETGORV,Оборудование приборами учета: горячей воды,Equipment metering devices: hot water
+2010,FG,CHETTEP,Оборудование приборами учета: тепла,Equipment metering devices: heat
+2010,FG,NZELM,Причины отказа от установки прибора учета: не знаю о существовании: электричества - многотарифного,Reasons for non-installation of meters: I do not know about the existence of: Electricity - multitariff
+2010,FG,NZVOD,Причины отказа от установки прибора учета: не знаю о существовании: воды,Reasons for non-installation of meters: I do not know about the existence of: water
+2010,FG,NZTEP,Причины отказа от установки прибора учета: не знаю о существовании: тепла,Reasons for non-installation of meters: I do not know about the existence of: Heat
+2010,FG,PRELM,Причины отказа от установки прибора учета: установка не предлагалась: электричества - многотарифного,Reasons for non-installation of meters: installation was not offered: electricity - multitariff
+2010,FG,PRVOD,Причины отказа от установки прибора учета: установка не предлагалась: воды,Reasons for non-installation of meters: installation was not offered: water
+2010,FG,PRTEP,Причины отказа от установки прибора учета: установка не предлагалась: тепла,Reasons for non-installation of meters: installation was not offered: heat
+2010,FG,DORELM,Причины отказа от установки прибора учета: дорого: электричества - многотарифного,Reasons for non-installation of meters: expensive: electricity - multitariff
+2010,FG,DORVOD,Причины отказа от установки прибора учета: дорого: воды,Reasons for non-installation of meters: expensive: water
+2010,FG,DORTEP,Причины отказа от установки прибора учета: дорого: тепла,Reasons for non-installation of meters: expensive: heat
+2010,FG,TTELM,Причины отказа от установки прибора учета: технические трудности: электричества - многотарифного,Reasons for non-Installation of technical challenges: electricity - multitariff
+2010,FG,TTVOD,Причины отказа от установки прибора учета: технические трудности: воды,Reasons for non-Installation of technical challenges: water
+2010,FG,TTTEP,Причины отказа от установки прибора учета: технические трудности: тепла,Reasons for non-installation of meters: technical difficulties: heat
+2010,FG,NETELM,Причины отказа от установки прибора учета: нет необходимости: электричества - многотарифного,Reasons for non-installation of metering devices: there is no need: electricity - multitariff
+2010,FG,NETVOD,Причины отказа от установки прибора учета: нет необходимости: воды,Reasons for non-installation of metering devices: there is no need: water
+2010,FG,NETTEP,Причины отказа от установки прибора учета: нет необходимости: тепла,Reasons for non-installation of metering devices: there is no need: heat
+2010,FG,DRELM,Причины отказа от установки прибора учета: другое: электричества - многотарифного,Reasons for non-installation of meters: Other: Electricity - multitariff
+2010,FG,DRVOD,Причины отказа от установки прибора учета: другое: воды,Reasons for non-installation of meters: Other: water
+2010,FG,DRTEP,Причины отказа от установки прибора учета: другое: тепла,Reasons for non-installation of meters: Other: Heat
+2010,FG,KOLAM,Количество осветительных ламп,Number of lamps
+2010,FG,KOLAMN,Количество ламп накаливания,Number of bulbs
+2010,FG,NZLAM,Причины отказа от использования энергосберегающих ламп: не знаю об их существовании ,The reasons for non-use of energy-saving lamps: I do not know about their existence
+2010,FG,NPLAM,Причины отказа от использования энергосберегающих ламп: нет в продаже,The reasons for non-use of energy-saving lamps: Not available
+2010,FG,DORLAM,Причины отказа от использования энергосберегающих ламп: дорого,The reasons for non-use of energy-saving lamps: expensive
+2010,FG,NOLAM,Причины отказа от использования энергосберегающих ламп: не приспособлено осветительное оборудование,The reasons for non-use of energy-saving lamps not fitted lighting equipment
+2010,FG,NSVLAM,Причины отказа от использования энергосберегающих ламп: плохое освещение ,The reasons for non-use of energy-saving lamps: poor lighting
+2010,FG,ZRLAM,Причины отказа от использования энергосберегающих ламп: вредно для зрения,The reasons for non-use of energy-saving lamps: harmful to view
+2010,FG,NETLAM,Причины отказа от использования энергосберегающих ламп: нет необходимости ,The reasons for non-use of energy-saving lamps: no need
+2010,FG,DRLAM,Причины отказа от использования энергосберегающих ламп: другое,The reasons for non-use of energy-saving lamps: Other
+2010,FG,PHOLVOD,Наличие перебоев с: холодной водой,The presence of disruptions: cold water
+2010,FG,PGORVOD,Наличие перебоев с: горячей водой,The presence of disruptions: hot water
+2010,FG,PELEKTR,Наличие перебоев с: электроэнергией,The presence of disruptions: electricity
+2010,FG,PTEPL,Наличие перебоев с: теплом,The presence of disruptions: warm
+2010,FG,PPROGR,Наличие перебоев с: приемом программ телевидения,The presence of disruptions: the reception of television programs
+2010,FG,PLIFT,Наличие перебоев с: лифтовым обслуживанием,The presence of faults with: elevator service
+2010,FG,RHOLVOD,Регулярность перебоев с: холодной водой,Regularity of interruptions: cold water
+2010,FG,RGORVOD,Регулярность перебоев с: горячей водой,Regularity of interruptions: hot water
+2010,FG,RELEKTR,Регулярность перебоев с: электроэнергией,Regularity of interruptions: electricity
+2010,FG,RTEPL,Регулярность перебоев с: теплом,Regularity of interruptions: warm
+2010,FG,RPROGR,Регулярность перебоев с: приемом программ телевидения,Regularity of disruptions: the reception of television programs
+2010,FG,RLIFT,Регулярность перебоев с: лифтовым обслуживанием,Regularity of interruptions: elevator service
+2010,FG,NTEKREM,Неудобства в проживании: необходимость текущего ремонта,"Inconvenience to stay, need for maintenance"
+2010,FG,NKAPREM,Неудобства в проживании: необходимость капитального ремонта,"Inconvenience to stay, the need for major repairs"
+2010,FG,XOLOD,Неудобства в проживании: недостаток тепла,"Inconvenience to stay, lack of heat"
+2010,FG,VLAG,Неудобства в проживании: избыток влажности,"Inconvenience to stay, excess humidity"
+2010,FG,TEMN,Неудобства в проживании: недостаток света,"Inconvenience to stay, the lack of light"
+2010,FG,NSANTEH,Неудобства в проживании: неполадки с сантехническим оборудованием,"Inconvenience to stay, problems with sanitary equipment"
+2010,FG,NELEKTR,Неудобства в проживании: неисправность электропроводки,Inconvenience to stay wiring
+2010,FG,SHUMIZO,Неудобства в проживании: плохая шумоизоляция,Inconvenience to stay poor noise insulation
+2010,FG,GRYZ,Неудобства в проживании: загрязнение воздуха,"Inconvenience to stay, air pollution"
+2010,FG,PLVODA,Неудобства в проживании: плохое качество воды,Inconvenience to stay poor water quality
+2010,FG,PLOBTR,Неудобства в проживании: плохая работа общественного транспорта,Inconvenience to stay poor performance of public transport
+2010,FG,PLSVET,Неудобства в проживании: плохая освещенность улиц,"Inconvenience to stay, poorly lit streets"
+2010,FG,SHUMS,Неудобства в проживании: беспокойные соседи,Inconvenience to stay restless neighbors
+2010,FG,PLDR,Неудобства в проживании: другое,Inconvenience to stay another
+2010,FG,OSNPY,Осуществление мероприятий по энергоэффективности: централизованное оснащение квартир приборами учета,Implementation of energy efficiency measures: centralized equipment of the apartment metering devices
+2010,FG,YTEP,Осуществление мероприятий по энергоэффективности: утепление здания ,Implementation of energy efficiency measures: insulation of buildings
+2010,FG,ZAMEL,Осуществление мероприятий по энергоэффективности: замена электрооборудования,Implementation of energy efficiency measures: replacement of electrical equipment
+2010,FG,ZAMKOM,Осуществление мероприятий по энергоэффективности: замена инженерных коммуникаций и сооружений,Implementation of energy efficiency measures: replacement of utilities and facilities
+2010,FG,DRMER,Осуществление мероприятий по энергоэффективности: другое,Implementation of energy efficiency measures: Other
+2010,FG,OCENGIL,Оценка жилищных условий,Assessment of living conditions
+2010,FG,ULUCHG,Намерение улучшить жилье,Intention to improve housing
+2010,FG,UCHET,Способы улучшения жилищных условий: стояние на учете как нуждающиеся ,Ways to improve their housing conditions: state registered as needing
+2010,FG,KUPGIL,Способы улучшения жилищных условий: покупка нового жилья,Ways to improve the living conditions: the purchase of new housing
+2010,FG,KUPGILD,Способы улучшения жилищных условий: покупка дополнительного жилья,Ways to improve the living conditions: the purchase of additional housing
+2010,FG,NASLED,Способы улучшения жилищных условий: получение наследства,Ways to improve their housing conditions: inheritance
+2010,FG,STRGIL,Способы улучшения жилищных условий: строительство нового дома,Ways to improve the living conditions: the construction of a new home
+2010,FG,DRPRICH,Способы улучшения жилищных условий: другой способ улучшения жилья,Ways to improve their housing conditions: another way to improve housing
+2010,FG,NULUCHG,Причина отказа от улучшения жилищных условий,The reason for not improving living conditions
+2010,FG,PRODMAG,Шаговая доступность объектов социальной инфраструктуры: продовольственный магазин,Stepping accessibility of social infrastructure: grocery store
+2010,FG,PROMMAG,Шаговая доступность объектов социальной инфраструктуры: магазин непродовольственных товаров,Stepping accessibility of social infrastructure: store non-food items
+2010,FG,POCHTA,Шаговая доступность объектов социальной инфраструктуры: почта,Stepping accessibility of social infrastructure: e-mail
+2010,FG,SBERB,Шаговая доступность объектов социальной инфраструктуры: Сбербанк,Stepping accessibility of social infrastructure: Sberbank
+2010,FG,APTEKA,Шаговая доступность объектов социальной инфраструктуры: аптека,Stepping accessibility of social infrastructure: pharmacy
+2010,FG,POLIKV,Шаговая доступность объектов социальной инфраструктуры: поликлиника для взрослых,Stepping accessibility of social infrastructure: clinic for adults
+2010,FG,POLIKD,Шаговая доступность объектов социальной инфраструктуры: детская поликлиника,Stepping accessibility of social infrastructure: Children's Clinic
+2010,FG,SHKOLA,Шаговая доступность объектов социальной инфраструктуры: общеобразовательное учреждение,Stepping accessibility of social infrastructure: educational institution
+2010,FG,DETSAD,Шаговая доступность объектов социальной инфраструктуры: детский сад,Stepping accessibility of social infrastructure: kindergarten
+2010,FG,PENFOND,Шаговая доступность объектов социальной инфраструктуры: отделение Пенсионного фонда,Stepping accessibility of social infrastructure: the Pension Fund office
+2010,FG,SOCZA,Шаговая доступность объектов социальной инфраструктуры: отдел социальной защиты,Stepping accessibility of social infrastructure: Department of Social Protection
+2010,FG,NOTAR,Шаговая доступность объектов социальной инфраструктуры: нотариальная контора,Stepping accessibility of social infrastructure: Notary Office
+2010,FG,URIST,Шаговая доступность объектов социальной инфраструктуры: юридическая консультация,Stepping accessibility of social infrastructure: legal advice
+2010,FG,TPRODMAG,Затраты времени на транспорте до: продовольственный магазин,Time spent on transport to: grocery store
+2010,FG,TPROMMAG,Затраты времени на транспорте до: магазин непродовольственных товаров,Time spent on transport to: store non-food items
+2010,FG,TPOCHTA,Затраты времени на транспорте до: почта,Time spent on transport to: e-mail
+2010,FG,TSBERB,Затраты времени на транспорте до: Сбербанк,Time spent on transport to Sberbank
+2010,FG,TAPTEKA,Затраты времени на транспорте до: аптека,Time spent on transport to: pharmacy
+2010,FG,TPOLIKV,Затраты времени на транспорте до: поликлиника для взрослых,Time spent on transport to: Clinic for Adults
+2010,FG,TPOLIKD,Затраты времени на транспорте до: детская поликлиника,Time spent on transport to: Children's Clinic
+2010,FG,TSHKOLA,Затраты времени на транспорте до: общеобразовательное учреждение,Time spent on transport to: educational institution
+2010,FG,TDETSAD,Затраты времени на транспорте до: детский сад,The time required to transport to a kindergarten
+2010,FG,TPENFOND,Затраты времени на транспорте до: отделение Пенсионного фонда,Time spent on transport to: Department of Pension Fund
+2010,FG,TSOCZA,Затраты времени на транспорте до: отдел социальной защиты,Time spent on transport to: Department of Social Protection
+2010,FG,TNOTAR,Затраты времени на транспорте до: нотариальная контора,Time spent on transport to: Notary Office
+2010,FG,TURIST,Затраты времени на транспорте до: юридическая консультация,Time spent on transport to: legal advice
+2010,FG,REGULTR,Регулярность работы общественного транспорта,The regularity of public transport
+2010,FZ,PER,Период разработки,development period
+2010,FZ,TER,Шифр территории,cipher territory
+2010,FZ,MEST,Тип населенного пункта,Type of settlement
+2010,FZ,BUD,Номер бюджета,number budget
+2010,FZ,NALTELC,Количество цветных телевизоров,Number of color televisions
+2010,FZ,NALTEL,- « - черно-белых телевизоров,"- ""- Black and white TVs"
+2010,FZ,NALVID,- « - видеомагнитофонов,"- ""- VCR"
+2010,FZ,NALDVD,- « - DVD-плеер,- «- DVD-player
+2010,FZ,NALVIDCM,- « - видеокамер,"- ""- Camcorders"
+2010,FZ,NALRADIO,- « - радиоприемников,"- ""- Radio"
+2010,FZ,NALMUZC,- « - музыкальных центров,"- ""- Stereo"
+2010,FZ,NALMAG,- « - магнитофонов,"- ""- Tape"
+2010,FZ,NALHOL,- « - холодильников,"- ""- Refrigerators"
+2010,FZ,NALMOR,- « - морозильников,"- ""- Freezers"
+2010,FZ,NALSTIR,- « - стиральных машин,"- ""- Washing machines"
+2010,FZ,NALMPH,- « - микроволновых печей,"- ""- Microwave ovens"
+2010,FZ,NALPMM,- « - посудомоечных машин,"- ""- Dishwasher"
+2010,FZ,NALPSOS,- « - электропылесосов,"- ""- Vacuum cleaners"
+2010,FZ,NALSHVE,- « - швейных машин,"- ""- Sewing machines"
+2010,FZ,NALVIAZ,- « - вязальных машин,"- ""- Knitting machines"
+2010,FZ,NALCOND,- « - кондиционеров,"- ""- Conditioners"
+2010,FZ,NALPC,- « - персональных компьютеров,"- ""- PC"
+2010,FZ,NALKPC,- « - карманных компьютеров,"- ""- PDAs"
+2010,FZ,NALMTEL,- « - мобильных телефонов,"- ""- Mobile phones"
+2010,FZ,NALVEL,- « - велосипедов,"- ""- Bike"
+2010,FZ,NALMOT,- « - мотоциклов,"- ""- Motorcycles"
+2010,FZ,NALAVT,- « - легковых автомобилей,"- ""- Cars"
+2010,FZ,NALGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2010,FZ,NALLOD,- « - моторных лодок,"- ""- Motorboats"
+2010,FZ,RTELC,Количество в рабочем состоянии цветных телевизоров,Number operable color televisions
+2010,FZ,RTEL,- « - черно-белых телевизоров,"- ""- Black and white TVs"
+2010,FZ,RVID,- « - видеомагнитофонов,"- ""- VCR"
+2010,FZ,RDVD,- « - DVD-плеер,- «- DVD-player
+2010,FZ,RVIDCM,- « - видеокамер,"- ""- Camcorders"
+2010,FZ,RRADIO,- « - радиоприемников,"- ""- Radio"
+2010,FZ,RMUZC,- « - музыкальных центров,"- ""- Stereo"
+2010,FZ,RMAG,- « - магнитофонов,"- ""- Tape"
+2010,FZ,RHOL,- « - холодильников,"- ""- Refrigerators"
+2010,FZ,RMOR,- « - морозильников,"- ""- Freezers"
+2010,FZ,RSTIR,- « - стиральных машин,"- ""- Washing machines"
+2010,FZ,RMPH,- « - микроволновых печей,"- ""- Microwave ovens"
+2010,FZ,RPMM,- « - посудомоечных машин,"- ""- Dishwasher"
+2010,FZ,RPSOS,- « - электропылесосов,"- ""- Vacuum cleaners"
+2010,FZ,RSHVE,- « - швейных машин,"- ""- Sewing machines"
+2010,FZ,RVIAZ,- « - вязальных машин,"- ""- Knitting machines"
+2010,FZ,RCOND,- « - кондиционеров,"- ""- Conditioners"
+2010,FZ,RPC,- « - персональных компьютеров,"- ""- PC"
+2010,FZ,RKPC,- « - карманных компьютеров,"- ""- PDAs"
+2010,FZ,RMTEL,- « - мобильных телефонов,"- ""- Mobile phones"
+2010,FZ,RVEL,- « - велосипедов,"- ""- Bike"
+2010,FZ,RMOT,- « - мотоциклов,"- ""- Motorcycles"
+2010,FZ,RAVT,- « - легковых автомобилей,"- ""- Cars"
+2010,FZ,RGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2010,FZ,RLOD,- « - моторных лодок,"- ""- Motorboats"
+2010,FZ,GODTELC,Год приобретения цветного телевизора,The year of acquisition color TV
+2010,FZ,GODTEL,- « - черно-белого телевизора,"- ""- Black-and-white television"
+2010,FZ,GODVID,- « - видеомагнитофона,"- ""- VCR"
+2010,FZ,GODDVD,- « - DVD-плеер,- «- DVD-player
+2010,FZ,GODVIDCM,- « - видеокамеры,"- ""- Camcorder"
+2010,FZ,GODRADIO,- « - радиоприемника,"- ""- Radio"
+2010,FZ,GODMUZC,- « - музыкального центра,"- ""- The music center"
+2010,FZ,GODMAG,- « - магнитофона,"- ""- Tape"
+2010,FZ,GODHOL,- « - холодильника,"- ""- Refrigerator"
+2010,FZ,GODMOR,- « - морозильника,"- ""- Freezer"
+2010,FZ,GODSTIR,- « - стиральной машины,"- ""- Washing machine"
+2010,FZ,GODMPH,- « - микроволновой печи,"- ""- Microwave"
+2010,FZ,GODPMM,- « - посудомоечной машины,"- ""- Dishwasher"
+2010,FZ,GODPSOS,- « - электропылесоса,"- ""- An electric vacuum"
+2010,FZ,GODSHVE,- « - швейной машины,"- ""- Sewing machine"
+2010,FZ,GODVIAZ,- « - вязальной машины,"- ""- Knitting machine"
+2010,FZ,GODCOND,- « - кондиционера,"- ""- The air conditioner"
+2010,FZ,GODPC,- « - персонального компьютера,"- ""- PC"
+2010,FZ,GODKPC,- « - карманных компьютеров,"- ""- PDAs"
+2010,FZ,GODMTEL,- « - мобильного телефона,"- ""- Mobile phone"
+2010,FZ,GODVEL,- « - велосипеда,"- ""- Bicycle"
+2010,FZ,GODMOT,- « - мотоцикла,"- ""- A motorcycle"
+2010,FZ,GODAVT,- « - легкового автомобиля,"- ""- A car"
+2010,FZ,GODGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2010,FZ,GODLOD,- « - моторной лодки,"- ""- A motor boat"
+2010,FZ,EFHOL,Класс энергоэффективности холодильника,Energy efficiency class refrigerator
+2010,FZ,EFMOR,- « - морозильника,"- ""- Freezer"
+2010,FZ,EFSTIR,- « - стиральной машины,"- ""- Washing machine"
+2010,FZ,EFMPH,- « - микроволновой печи,"- ""- Microwave"
+2010,FZ,EFPMM,- « - посудомоечной машины,"- ""- Dishwasher"
+2010,FZ,EFPSOS,- « - электропылесоса,"- ""- An electric vacuum"
+2010,FZ,EFSHVE,- « - швейной машины,"- ""- Sewing machine"
+2010,FZ,EFVIAZ,- « - вязальной машины,"- ""- Knitting machine"
+2010,FZ,EFCOND,- « - кондиционера,"- ""- The air conditioner"
+2010,FZ,PC16,"Число членов домохозяйства, пользующихся компьютером в возрасте: до 16 лет",Number of household members who use a computer at Age: 16 years
+2010,FZ,PC35,"Число членов домохозяйства, пользующихся компьютером в возрасте: 16 – 35 лет",Number of household members who use a computer at the age of 16 - 35 years
+2010,FZ,PC55,"Число членов домохозяйства, пользующихся компьютером в возрасте: 36 - 55 лет",Number of household members who use a computer at the age of 36 - 55 years
+2010,FZ,PC74,"Число членов домохозяйства, пользующихся компьютером в возрасте: 56 лет и старше",Number of household members who use a computer at the age of 56 years and older
+2010,FZ,DOSINT,Наличие доступа в Интернет,Having access to the Internet
+2010,FZ,PINT16,Число членов домохозяйства пользующихся Интернет постоянно: до 16 лет,Number of household members use the Internet constantly: Up to 16 years
+2010,FZ,PINT35,Число членов домохозяйства пользующихся Интернет постоянно: 16 – 35 лет,Number of household members use the Internet constantly: 16 - 35 years
+2010,FZ,PINT55,Число членов домохозяйства пользующихся Интернет постоянно: 36 - 55 лет,Number of household members use the Internet constantly: 36 - 55 years
+2010,FZ,PINT74,Число членов домохозяйства пользующихся Интернет постоянно: 56 лет и старше,Number of household members use the Internet constantly: 56 years and older
+2010,FZ,SINT16,Число членов домохозяйства пользующихся Интернет от случая к случаю: до 16 лет,Number of household members using the Internet from time to time: up to 16 years
+2010,FZ,SINT35,Число членов домохозяйства пользующихся Интернет от случая к случаю: 16 – 35 лет,Number of household members using the Internet from time to time: 16 - 35 years
+2010,FZ,SINT55,Число членов домохозяйства пользующихся Интернет от случая к случаю: 36 - 55 лет,Number of household members using the Internet from time to time: 36 - 55 years
+2010,FZ,SINT74,Число членов домохозяйства пользующихся Интернет от случая к случаю: 56 лет и старше,Number of household members using the Internet from time to time: 56 years and older
+2010,FZ,NINT16,Число членов домохозяйства пользующихся Интернет не пользуются: до 16 лет,Number of household members using the Internet do not use: up to 16 years
+2010,FZ,NINT35,Число членов домохозяйства пользующихся Интернет не пользуются: 16 – 35 лет,Number of household members using the Internet is not used: 16 - 35 years
+2010,FZ,NINT55,Число членов домохозяйства пользующихся Интернет не пользуются: 36 - 55 лет,Number of household members using the Internet is not used: 36 - 55 years
+2010,FZ,NINT74,Число членов домохозяйства пользующихся Интернет не пользуются: 56 лет и старше,Number of household members using the Internet is not used: 56 years and older
+2010,FZ,INT161,"Цели использования Интернет лицами до 16 лет: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons under 16 years: search or perform paid work, delivery information"
+2010,FZ,INT162,"Цели использования Интернет лицами до 16 лет: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons under 16 years: to obtain information, documents on the websites of public authorities, public institutions and agencies"
+2010,FZ,INT163,"Цели использования Интернет лицами до 16 лет: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons under 16 years: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2010,FZ,INT164,"Цели использования Интернет лицами до 16 лет: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons under 16 years: financial transactions (payment services, money transfers, etc.)."
+2010,FZ,INT165,Цели использования Интернет лицами до 16 лет: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons under 16 years: distance learning for mandatory or optional program
+2010,FZ,INT166,"Цели использования Интернет лицами до 16 лет: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons under 16 years: reading news items, articles, use digital libraries, encyclopedias and others."
+2010,FZ,INT167,"Цели использования Интернет лицами до 16 лет: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons under 16 years: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2010,FZ,INT168,"Цели использования Интернет лицами до 16 лет: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons under 16 years: a discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2010,FZ,INT169,"Цели использования Интернет лицами до 16 лет: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons under 16 years: Spending time for downloading movies, music and games, playing online games, and others."
+2010,FZ,INT1610,Цели использования Интернет лицами до 16 лет: для других целей,Objectives of Internet use by persons under 16 years: for other purposes
+2010,FZ,INT351,"Цели использования Интернет лицами от 16 до 35 лет: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons 16 to 35 years: search or perform paid work, delivery information"
+2010,FZ,INT352,"Цели использования Интернет лицами от 16 до 35 лет: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons 16 to 35 years: to obtain information, documents on the websites of public authorities, public institutions and agencies"
+2010,FZ,INT353,"Цели использования Интернет лицами от 16 до 35 лет: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons 16 to 35 years: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2010,FZ,INT354,"Цели использования Интернет лицами от 16 до 35 лет: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons 16 to 35 years: financial transactions (payment services, money transfers, etc.)."
+2010,FZ,INT355,Цели использования Интернет лицами от 16 до 35 лет: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons 16 to 35 years: distance learning for mandatory or optional program
+2010,FZ,INT356,"Цели использования Интернет лицами от 16 до 35 лет: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons 16 to 35 years: reading news items, articles, use digital libraries, encyclopedias and others."
+2010,FZ,INT357,"Цели использования Интернет лицами от 16 до 35 лет: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons 16 to 35 years: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2010,FZ,INT358,"Цели использования Интернет лицами от 16 до 35 лет: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons 16 to 35 years: a discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2010,FZ,INT359,"Цели использования Интернет лицами от 16 до 35 лет: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons 16 to 35 years: Spending time for downloading movies, music and games, playing online games, and others."
+2010,FZ,INT3510,Цели использования Интернет лицами от 16 до 35 лет: для других целей,Objectives of Internet use by persons 16 to 35 years: for other purposes
+2010,FZ,INT551,"Цели использования Интернет лицами от 36 до 55 лет: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons from 36 to 55 years: search or perform paid work, delivery information"
+2010,FZ,INT552,"Цели использования Интернет лицами от 36 до 55 лет: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons from 36 to 55 years: to obtain information, documents on the websites of public authorities, public institutions and agencies"
+2010,FZ,INT553,"Цели использования Интернет лицами от 36 до 55 лет: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons from 36 to 55 years: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2010,FZ,INT554,"Цели использования Интернет лицами от 36 до 55 лет: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons from 36 to 55 years: financial transactions (payment services, money transfers, etc.)."
+2010,FZ,INT555,Цели использования Интернет лицами от 36 до 55 лет: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons from 36 to 55 years: distance learning for mandatory or optional program
+2010,FZ,INT556,"Цели использования Интернет лицами от 36 до 55 лет: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons from 36 to 55 years: reading news items, articles, use digital libraries, encyclopedias and others."
+2010,FZ,INT557,"Цели использования Интернет лицами от 36 до 55 лет: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons from 36 to 55 years: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2010,FZ,INT558,"Цели использования Интернет лицами от 36 до 55 лет: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons from 36 to 55 years: a discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2010,FZ,INT559,"Цели использования Интернет лицами от 36 до 55 лет: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons from 36 to 55 years: Spending time for downloading movies, music and games, playing online games, and others."
+2010,FZ,INT5510,Цели использования Интернет лицами от 36 до 55 лет: для других целей,Purpose Internet entities from 36 to 55 years: for other purposes
+2010,FZ,INT741,"Цели использования Интернет лицами 56 лет и старше: поиск или выполнения оплачиваемой работы, рассылка информации","Objectives of Internet use by persons 56 years of age and older: search or perform paid work, delivery information"
+2010,FZ,INT742,"Цели использования Интернет лицами 56 лет и старше: получение информации, оформление документов на сайтах органов государственной власти, госучреждений и ведомств","Objectives of Internet use by persons 56 years of age and older: obtaining information, documents on the websites of public authorities, public institutions and agencies"
+2010,FZ,INT743,"Цели использования Интернет лицами 56 лет и старше: поиск информации о товарах и услугах для повседневной жизни,  заказ товаров (бронирование мест), подача собственных объявлений о продаже личных вещей и имущества","Objectives of Internet use by persons 56 years of age and older: search for information about goods and services for everyday life, ordering goods (seat reservation), supply their own ads personal belongings and property"
+2010,FZ,INT744,"Цели использования Интернет лицами 56 лет и старше: осуществление финансовых операций (оплата услуг, перевод денег и др.)","Objectives of Internet use by persons 56 years of age and older: financial transactions (payment services, money transfers, etc.)."
+2010,FZ,INT745,Цели использования Интернет лицами 56 лет и старше: дистанционное обучение по обязательной или дополнительной программе,Objectives of Internet use by persons 56 years of age and older: distance learning for mandatory or optional program
+2010,FZ,INT746,"Цели использования Интернет лицами 56 лет и старше: прочтение новостной информации, статей, пользование электронными библиотеками, энциклопедиями и др.","Objectives of Internet use by persons 56 years of age and older: reading news items, articles, use digital libraries, encyclopedias and others."
+2010,FZ,INT747,"Цели использования Интернет лицами 56 лет и старше: общение в социальных сетях для поддержания личных контактов и обмена информацией, переписка с родными и близкими","Objectives of Internet use by persons 56 years of age and older: social networking to maintain personal contacts and exchange of information, correspondence with family and friends"
+2010,FZ,INT748,"Цели использования Интернет лицами 56 лет и старше: обсуждение социальных и политических вопросов, участие в Интернет-акциях, опросах общественного мнения и др.","Objectives of Internet use by persons 56 years of age and older: discussion of social and political issues, participate in online promotions, public opinion polls and others."
+2010,FZ,INT749,"Цели использования Интернет лицами 56 лет и старше: провождение времени за скачиванием фильмов, музыки и игр, за игрой в сетевые игры и др.","Objectives of Internet use by persons 56 years of age and older: Spending time for downloading movies, music and games, playing online games, and others."
+2010,FZ,INT7410,Цели использования Интернет лицами 56 лет и старше: для других целей,Objectives of Internet use by persons 56 years of age and older: for other purposes
+2010,FZ,KACHY,Оценка полноты и своевременности услуг на сайте,Assessment of the completeness and timeliness of the services on the website
+2010,FZ,ZEM,Наличие земельного участка,Availability of land
+2010,FZ,RZEM,Размер земельного участка,Plot Size
+2010,FZ,SOBZEM,Право собственности на землю,Land ownership
+2010,FZ,RSOBZEM,Размер собственного земельного участка,Size own the land
+2010,FZ,SHVO,Наличие сельскохозяйственной деятельности ,The presence of agricultural activities
+2010,FZ,TRAK,Количество тракторов,Number of tractors
+2010,FZ,KOMB,- « - комбайнов,"- ""- Combines"
+2010,FZ,PLUG,- « - плугов,"- ""- Plows"
+2010,FZ,SEILK,- « - сеялок,"- ""- Drills"
+2010,FZ,SENO,- « - сенокосилок,"- ""- Hay"
+2010,FZ,MBLOK,- « - мотоблоков,"- ""- Tillers"
+2010,FZ,MYDO,- « - машин для внесения удобрений ,"- ""- Fertilizing machines"
+2010,FZ,YDO,- « - установок доильных,"- ""- Milking installations"
+2010,FZ,RASK,- « - раздатчиков кормов,"- ""- Feeder"
+2010,FZ,DROBOR,- « - другого оборудования ,"- ""- Other equipment"
+2010,FZ,ZMUK,Запасы муки,stocks of flour
+2010,FZ,ZKRUP,- « - крупы,"- ""- Cereals"
+2010,FZ,ZMAK,- « - макаронных изделий,"- ""- Pasta"
+2010,FZ,ZGOV,- « - говядины,"- ""- Beef"
+2010,FZ,ZSVIN,- « - свинины,"- ""- Pork"
+2010,FZ,ZPTICH,- « - мяса птицы,"- ""- Poultry"
+2010,FZ,ZMKON,- « - мясных и мясорастительных консервов,"- ""- Meat and vegetable canned food"
+2010,FZ,ZRIBA,"- « - рыбы свежей, соленой, сушеной","- ""- Fresh fish, salted, dried"
+2010,FZ,ZRKON,- « - рыбных консервов,"- ""- Canned fish"
+2010,FZ,ZMOL,- « - молока,"- ""- Milk"
+2010,FZ,ZSLMAS,- « - масла сливочного,"- ""- Butter"
+2010,FZ,ZMOKON,- « - молочных консервов,"- ""- Canned milk"
+2010,FZ,ZSMOL,- « - сухого молока,"- ""- Milk powder"
+2010,FZ,ZSSLIV,- « - сухих сливок,"- ""- Dried cream"
+2010,FZ,ZRMAS,- « - масла растительного,"- ""- Vegetable oil"
+2010,FZ,ZMARG,- « - маргарина и других жиров,"- ""- Margarine and other fats"
+2010,FZ,ZSAHAR,- « - сахара,"- ""- Sugar"
+2010,FZ,ZKON,"- « - конфет, шоколада","- ""- Sweets, chocolate"
+2010,FZ,ZVAR,"- « - варенья, джема","- ""- Jam, jam"
+2010,FZ,ZPECH,"- « - печенья, пряников","- ""- Biscuits, cakes"
+2010,FZ,FINPOL,Определение финансового положения домохозяйства,Determination of the financial situation of the household
+2010,FZ,OCHXOR,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: очень хорошо",The amount of money necessary for your household to live: very good
+2010,FZ,XOROSHO,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: хорошо",The amount of money necessary for your household to live: good
+2010,FZ,UDOVL,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: удовлетворительно",The amount of money necessary for your household to live: Satisfactory
+2010,FZ,DOLGB,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: банками","The presence of the household balance of the loan, a loan or other debt obligations to: banks"
+2010,FZ,DOLGP,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: предприятием, на котором работают","The presence of the household balance of the loan, a loan or other debt obligations before: now that is running"
+2010,FZ,DOLGO,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: другими организациями за услуги или товары (без участия банка)","The presence of the household balance of the loan, a loan or other debt obligations to: other organizations for services or goods (without bank)"
+2010,FZ,DOLGL,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: частными лицами","The presence of the household balance of the loan, a loan or other debt obligations to: individuals"
+2010,FZ,DOLGDR,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: иной вид задолженности","The presence of the household balance of the loan, a loan or other debt obligations to: a different kind of debt"
