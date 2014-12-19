@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>RLMS codebooks</title>
+        <title>OBDX codebook yearly data</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
@@ -76,10 +76,10 @@
 
 ---
 
+Datat tulee täältä: <http://obdx.gks.ru/>
 
+Markuksen tilapäinen data-arkisto: http://koti.kapsi.fi/~muuankarski/obdx/
 
-- English site: <http://www.cpc.unc.edu/projects/rlms-hse>
-- Russian site: <http://www.hse.ru/en/rlms/>
 
 ```{r, echo=FALSE}
 library(knitr)
@@ -89,8 +89,7 @@ opts_chunk$set(list(echo=FALSE,eval=TRUE,cache=FALSE,warning=FALSE,message=FALSE
 
 ```{r}
 library(DT)
-dat <- read.csv("/home/aurelius/data/csv-codebook/rlms/hALL_variables_translate.csv")
-dat <- dat[-1:-2]
+dat <- read.csv("/home/aurelius/data/csv-codebook/obdx/year_data.csv")
 datatable(dat)
 ```
 

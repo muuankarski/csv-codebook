@@ -1,0 +1,30 @@
+---
+title: "OBDX codebook yearly data"
+output:
+  html_document:
+    self_contained: no
+    theme: flatly
+layout: default
+---
+
+- [Takaisin etusivulle](http://muuankarski.github.io/csv-codebook/)
+
+---
+
+Datat tulee täältä: <http://obdx.gks.ru/>
+
+Markuksen tilapäinen data-arkisto: http://koti.kapsi.fi/~muuankarski/obdx/
+
+
+```{r, echo=FALSE}
+library(knitr)
+opts_chunk$set(list(echo=FALSE,eval=TRUE,cache=FALSE,warning=FALSE,message=FALSE))
+```
+
+
+```{r}
+library(DT)
+dat <- read.csv("/home/aurelius/data/csv-codebook/obdx/year_data.csv")
+datatable(dat)
+```
+
