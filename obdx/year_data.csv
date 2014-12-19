@@ -1472,3 +1472,356 @@ year,file,var,russian,english
 2007,FZ,OCHXOR,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: очень хорошо",The amount of money necessary for your household to live: very good
 2007,FZ,XOROSHO,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: хорошо",The amount of money necessary for your household to live: good
 2007,FZ,UDOVL,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: удовлетворительно",The amount of money necessary for your household to live: Satisfactory
+2006,FO,PER,Период разработки,development period
+2006,FO,TER,Шифр территории,cipher territory
+2006,FO,MEST,Тип населенного пункта,Type of settlement
+2006,FO,BUD,Номер бюджета,number budget
+2006,FO,LICO,Код члена домохозяйства (лица),Code household member (s)
+2006,FO,OBRZ,Уровень образования,education Level
+2006,FO,OBRL,"Число лет, затраченных на образование",The number of years of education
+2006,FO,YCHEB,Учеба в настоящее время,Study now
+2006,FO,YCHZAV,Тип учебного заведения,Type of educational institution
+2006,FO,PLOBR,PLOBR,PLOBR
+2006,FO,DINTER,Наличие доступа к Интернет с домашнего компьютера,Having access to the Internet from your home computer
+2006,FO,RINTER,Наличие доступа к Интернет по месту работы,Having access to the Internet in the workplace
+2006,FO,UINTER,Наличие доступа к Интернет по месту учебы,Having access to the Internet at the place of study
+2006,FO,KINTER,Наличие доступа к Интернет в интернет-кафе,Having access to the Internet at Internet cafes
+2006,FO,DRINTER,Наличие доступа к Интернет в других заведениях,Having access to the Internet in other institutions
+2006,FO,NOINTER,Отсутствие возможности пользования Интернетом,No possibility of using the Internet
+2006,FG,PER,Период разработки,development period
+2006,FG,TER,Шифр территории,cipher territory
+2006,FG,MEST,Тип населенного пункта,Type of settlement
+2006,FG,BUD,Номер бюджета,number budget
+2006,FG,GIL,Условия проживания,living conditions
+2006,FG,SOBGIL,Форма собственности на жилье,Ownership housing
+2006,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2006,FG,CHISKOM,Число комнат,number of rooms
+2006,FG,KUHN,Наличие кухни в жилище домохозяйства,The presence of food in the household dwelling
+2006,FG,VANNA,Наличие ванной в жилище,The presence of the bathroom in the house
+2006,FG,TUALET,Наличие санузла,The presence of bathrooms
+2006,FG,BALKON,Наличие балкона в жилище,The presence of the balcony in the house
+2006,FG,ELEKT,Наличие электричества в жилище,Availability of electricity in the home
+2006,FG,VODOPR,Наличие водопровода в жилище,The presence of running water in the home
+2006,FG,KANALO,Наличие коммунальной канализации в жилище,The presence of municipal sewage in the home
+2006,FG,KANALI,Наличие индивидуальной канализации в жилище,The presence of individual sanitation in housing
+2006,FG,KANALDR,Наличие другой системы удаления сточных вод в жилище,The presence of other sewage system in the home
+2006,FG,GORVODO,Наличие централизованного горячего водоснабжения в жилище,The presence of centralized hot water in the home
+2006,FG,GORVODI,Наличие горячего водоснабжения от индивидуальных котлов в жилище,The presence of hot water from individual boilers in the home
+2006,FG,GAZM,"Наличие газа магистрального, сетевого в жилище","The presence of gas main, in the home network"
+2006,FG,GAZS,Наличие газа сжиженного в жилище,The presence of liquefied gas in the home
+2006,FG,ELEKTPL,Наличие электроплиты напольной в жилище,The presence of outdoor cooking appliance in the home
+2006,FG,TELEF,Наличие телефона квартирного в жилище,The presence of the phone in the apartment house
+2006,FG,VODA,Источник питьевой воды в жилище домохозяйства,Source of drinking water in the dwelling households
+2006,FG,OTOPL,Тип отопления в жилище домохозяйства,Type of heating a home households
+2006,FG,TOPLIVO,Источник энергии для отопления,Energy source for heating
+2006,FG,OCENGIL,Оценка жилищных условий,Assessment of living conditions
+2006,FG,VETX,Причины неудовлетворенности жилищными условиями: ветхое жилье,Reasons for dissatisfaction with living conditions: dilapidated housing
+2006,FG,XOLOD,Причины неудовлетворенности жилищными условиями: холодная квартира,Reasons for dissatisfaction with living conditions: cold apartment
+2006,FG,VLAG,Причины неудовлетворенности жилищными условиями: сырая квартира,Reasons for dissatisfaction with living conditions: Crude apartment
+2006,FG,TEMN,Причины неудовлетворенности жилищными условиями: темная квартира,Reasons for dissatisfaction with living conditions: dark apartment
+2006,FG,TESN,Причины неудовлетворенности жилищными условиями: тесная квартира,Reasons for dissatisfaction with housing: Apartment close
+2006,FG,PVODA,Причины неудовлетворенности жилищными условиями: перебои с подачей воды,Reasons for dissatisfaction with living conditions: water shortages
+2006,FG,PELEKTR,Причины неудовлетворенности жилищными условиями: перебои с подачей электроэнергии,Reasons for dissatisfaction with living conditions: power outages
+2006,FG,NTUAL,Причины неудовлетворенности жилищными условиями: отсутствие туалета в доме,Reasons for dissatisfaction with living conditions: lack of toilets in the house
+2006,FG,NPLAN,Причины неудовлетворенности жилищными условиями: неудобная планировка,Reasons for dissatisfaction with living conditions: awkward layout
+2006,FG,SHUMS,Причины неудовлетворенности жилищными условиями: шум от соседей,Reasons for dissatisfaction with living conditions: the noise from the neighbors
+2006,FG,SHUMU,Причины неудовлетворенности жилищными условиями: шум с улицы,Reasons for dissatisfaction with living conditions: the noise from the street
+2006,FG,GRYZ,Причины неудовлетворенности жилищными условиями: проблемы с окружающей средой,Reasons for dissatisfaction with living conditions: environmental problems
+2006,FG,PREST,Причины неудовлетворенности жилищными условиями: преступность в районе,Reasons for dissatisfaction with living conditions: crime in the area
+2006,FG,DRNE,Причины неудовлетворенности жилищными условиями: другие,Reasons for dissatisfaction with living conditions: other
+2006,FG,ULUCHG,Намерение улучшить жилье,Intention to improve housing
+2006,FG,UCHET,Способы улучшения жилищных условий: стояние на учете как нуждающиеся ,Ways to improve their housing conditions: state registered as needing
+2006,FG,KUPGIL,Способы улучшения жилищных условий: покупка нового жилья,Ways to improve the living conditions: the purchase of new housing
+2006,FG,KUPGILD,Способы улучшения жилищных условий: покупка дополнительного жилья,Ways to improve the living conditions: the purchase of additional housing
+2006,FG,NASLED,Способы улучшения жилищных условий: получение наследства,Ways to improve their housing conditions: inheritance
+2006,FG,STRGIL,Способы улучшения жилищных условий: строительство нового дома,Ways to improve the living conditions: the construction of a new home
+2006,FG,DRPRICH,Способы улучшения жилищных условий: другой,Ways to improve the living conditions: the other
+2006,FG,PRODMAG,"Время необходимое для того, чтобы добраться до ближайшего продовольственного магазина",The time required to get to the nearest grocery store
+2006,FG,PROMMAG,"Время необходимое для того, чтобы добраться до ближайшего магазина непродовольственных товаров",The time needed to get to the nearest store non-food items
+2006,FG,POCHTA,"Время необходимое для того, чтобы добраться до ближайшего почтового отделения",The time needed to get to the nearest post office
+2006,FG,SBERB,"Время необходимое для того, чтобы добраться до ближайшего отделения Сбербанка",The time needed to get to the nearest branch of the Savings Bank
+2006,FG,APTEKA,"Время необходимое для того, чтобы добраться до ближайшей аптеки",The time needed to get to the nearest pharmacy
+2006,FG,POLIKV,"Время необходимое для того, чтобы добраться до ближайшей поликлиники для взрослых",The time needed to get to the nearest clinic for adults
+2006,FG,POLIKD,"Время необходимое для того, чтобы добраться до ближайшей детской поликлиники",The time needed to get to the nearest children's clinic
+2006,FG,SHKOLA,"Время необходимое для того, чтобы добраться до ближайшего общеобразовательного учреждения",The time required to get to the nearest educational institution
+2006,FG,DETSAD,"Время необходимое для того, чтобы добраться до ближайшего детского сада",The time required to get to the nearest kindergarten
+2006,FG,SOCZA,"Время необходимое для того, чтобы добраться до ближайшего отдела социальной защиты",The time required to get to the nearest department of social protection
+2006,FG,NOTAR,"Время необходимое для того, чтобы добраться до ближайшей нотариальная контора",The time needed to get to the nearest notary office
+2006,FG,URIST,"Время необходимое для того, чтобы добраться до ближайшей юридической консультации",The time needed to get to the nearest legal advice
+2006,FG,NALTELC,Количество цветных телевизоров в пользовании домохозяйства,Number of color televisions in use household
+2006,FG,NALTEL,Количество черно-белых телевизоров в пользовании домохозяйства,Number of black-and-white television sets in the household use
+2006,FG,NALVID,Количество видеомагнитофонов в пользовании домохозяйства,The number of households in the use of video recorders
+2006,FG,NALDVD,Количество DVD-плееров в пользовании домохозяйства,Number of DVD-players in the use of the household
+2006,FG,NALVIDCM,Количество видеокамер в пользовании домохозяйства,The number of cameras in the use of household
+2006,FG,NALRADIO,Количество радиоприемников в пользовании домохозяйства,The number of radios in use of household
+2006,FG,NALMUZC,Количество музыкальных центров в пользовании домохозяйства,Number of music centers in the use of the household
+2006,FG,NALMAG,Количество магнитофонов в пользовании домохозяйства,The number of households in the use of tape recorders
+2006,FG,NALHOL,Количество холодильников в пользовании домохозяйства,Number of household refrigerators in use
+2006,FG,NALMOR,Количество морозильников в пользовании домохозяйства,The number of households in the use of freezers
+2006,FG,NALSTIR,Количество стиральных машин в пользовании домохозяйства,Number of washing machines in the use of the household
+2006,FG,NALMPH,Количество микроволновых печей в пользовании домохозяйства,Number of microwave ovens in the use of the household
+2006,FG,NALPMM,Количество посудомоечных машин в пользовании домохозяйства,Number of dishwashers in the use of the household
+2006,FG,NALPSOS,Количество электропылесосов в пользовании домохозяйства,The number of households in the use of vacuum cleaners
+2006,FG,NALSHVE,Количество швейных машин в пользовании домохозяйства,Number of sewing machines in the use of the household
+2006,FG,NALVIAZ,Количество вязальных машин в пользовании домохозяйства,The number of knitting machines in the use of household
+2006,FG,NALCOND,Количество кондиционеров в пользовании домохозяйства,Number of units in the use of the household
+2006,FG,NALPC,Количество персональных компьютеров в пользовании домохозяйства,The number of personal computers in use household
+2006,FG,NALMTEL,Количество мобильных телефонов в пользовании домохозяйства,The number of mobile phones in use households
+2006,FG,NALVEL,Количество велосипедов в пользовании домохозяйства,Number of bikes in the use of the household
+2006,FG,NALMOT,Количество мотоциклов в пользовании домохозяйства,The number of motorcycles in the use of the household
+2006,FG,NALAVT,Количество легковых автомобилей в пользовании домохозяйства,Number of cars in household use
+2006,FG,NALLOD,Количество моторных лодок в пользовании домохозяйства,The number of motor boats in the use of the household
+2006,FG,GODTELC,Год приобретения последнего цветного телевизора,Acquisition last year of a color TV
+2006,FG,GODTEL,Год приобретения  последнего черно-белого телевизора,Acquisition last year of a black and white TV
+2006,FG,GODVID,Год приобретения  последнего видеомагнитофона,Acquisition last year of VCR
+2006,FG,GODDVD,Год приобретения  последнего DVD-плеера,Last year of purchase DVD-player
+2006,FG,GODVIDCM,Год приобретения последней видеокамеры,Acquisition last year camcorder
+2006,FG,GODRADIO,Год приобретения последнего радиоприемника,Acquisition last year of the radio
+2006,FG,GODMUZC,Год приобретения последнего музыкального центра,Acquisition last year of the music center
+2006,FG,GODMAG,Год приобретения последнего магнитофона,Acquisition last year of the tape
+2006,FG,GODHOL,Год приобретения последнего холодильника,Acquisition last year of the refrigerator
+2006,FG,GODMOR,Год приобретения последнего морозильника,Acquisition last year of the freezer
+2006,FG,GODSTIR,Год приобретения последнего стиральной машины,Acquisition last year of the washing machine
+2006,FG,GODMPH,Год приобретения последней микроволновой печи,Acquisition last year of a microwave oven
+2006,FG,GODPMM,Год приобретения  последней посудомоечной машины,Acquisition last year of the dishwasher
+2006,FG,GODPSOS,Год приобретения  последнего электропылесоса,Acquisition last year of the electric vacuum cleaner
+2006,FG,GODSHVE,Год приобретения последней швейной машины,Acquisition last year of the sewing machine
+2006,FG,GODVIAZ,Год приобретения последней вязальной машины,Acquisition last year of knitting machine
+2006,FG,GODCOND,Год приобретения последнего кондиционера,Acquisition last year of conditioner
+2006,FG,GODPC,Год приобретения последнего персонального компьютера,Acquisition last year of a personal computer
+2006,FG,GODMTEL,Год приобретения последнего мобильного телефона,Last year acquisition of mobile phone
+2006,FG,GODVEL,Год приобретения последнего велосипеда,Acquisition last year of the bike
+2006,FG,GODMOT,Год приобретения последнего мотоцикла,Acquisition last year of motorcycle
+2006,FG,GODAVT,Год приобретения последнего легкового автомобиля,Acquisition last year of the car
+2006,FG,GODLOD,Год приобретения последнего моторной лодки,Acquisition last year of a motorboat
+2006,FG,FINPOL,Мнение домохозяйства о своем финансовом положении,Opinion about their household financial situation
+2006,FG,OCHXOR,"Сумма денег необходимых домохозяйству для того, чтобы жить очень хорошо",The amount of money needed for the household in order to live well
+2006,FG,XOROSHO,"Сумма денег необходимых домохозяйству для того, чтобы жить хорошо",The amount of money needed for the household in order to live well
+2006,FG,UDOVL,"Сумма денег необходимых домохозяйству для того, чтобы жить удовлетворительно",The amount of money required for a household to live satisfactorily
+2005,FO,PER,Период разработки,development period
+2005,FO,TER,Шифр территории,cipher territory
+2005,FO,MEST,Тип населенного пункта,Type of settlement
+2005,FO,BUD,Номер бюджета,number budget
+2005,FO,LICO,Код члена домохозяйства (лица),Code household member (s)
+2005,FO,DINTER,Наличие доступа к Интернет с домашнего компьютера,Having access to the Internet from your home computer
+2005,FO,RINTER,Наличие доступа к Интернет по месту работы,Having access to the Internet in the workplace
+2005,FO,UINTER,Наличие доступа к Интернет по месту учебы,Having access to the Internet at the place of study
+2005,FO,KINTER,Наличие доступа к Интернет в интернет-кафе,Having access to the Internet at Internet cafes
+2005,FO,DRINTER,Наличие доступа к Интернет в других заведениях,Having access to the Internet in other institutions
+2005,FO,NOINTER,Отсутствие возможности пользования Интернетом,No possibility of using the Internet
+2005,FG,PER,Период разработки,development period
+2005,FG,TER,Шифр территории,cipher territory
+2005,FG,MEST,Тип населенного пункта,Type of settlement
+2005,FG,BUD,Номер бюджета,number budget
+2005,FG,GIL,Условия проживания,living conditions
+2005,FG,SOBGIL,Форма собственности на жилье,Ownership housing
+2005,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2005,FG,CHISKOM,Число комнат,number of rooms
+2005,FG,KUHN,Наличие кухни в жилище домохозяйства,The presence of food in the household dwelling
+2005,FG,VANNA,Наличие ванной в жилище,The presence of the bathroom in the house
+2005,FG,TUALET,Наличие санузла,The presence of bathrooms
+2005,FG,BALKON,Наличие балкона в жилище,The presence of the balcony in the house
+2005,FG,ELEKT,Наличие электричества в жилище,Availability of electricity in the home
+2005,FG,VODOPR,Наличие водопровода в жилище,The presence of running water in the home
+2005,FG,KANALO,Наличие коммунальной канализации в жилище,The presence of municipal sewage in the home
+2005,FG,KANALI,Наличие индивидуальной канализации в жилище,The presence of individual sanitation in housing
+2005,FG,KANALDR,Наличие другой системы удаления сточных вод в жилище,The presence of other sewage system in the home
+2005,FG,GORVODO,Наличие централизованного горячего водоснабжения в жилище,The presence of centralized hot water in the home
+2005,FG,GORVODI,Наличие горячего водоснабжения от индивидуальных котлов в жилище,The presence of hot water from individual boilers in the home
+2005,FG,GAZM,"Наличие газа магистрального, сетевого в жилище","The presence of gas main, in the home network"
+2005,FG,GAZS,Наличие газа сжиженного в жилище,The presence of liquefied gas in the home
+2005,FG,ELEKTPL,Наличие электроплиты напольной в жилище,The presence of outdoor cooking appliance in the home
+2005,FG,TELEF,Наличие телефона квартирного в жилище,The presence of the phone in the apartment house
+2005,FG,VODA,Источник питьевой воды в жилище домохозяйства,Source of drinking water in the dwelling households
+2005,FG,OTOPL,Тип отопления в жилище домохозяйства,Type of heating a home households
+2005,FG,TOPLIVO,Источник энергии для отопления,Energy source for heating
+2005,FG,OCENGIL,Оценка жилищных условий,Assessment of living conditions
+2005,FG,VETX,Причины неудовлетворенности жилищными условиями: ветхое жилье,Reasons for dissatisfaction with living conditions: dilapidated housing
+2005,FG,XOLOD,Причины неудовлетворенности жилищными условиями: холодная квартира,Reasons for dissatisfaction with living conditions: cold apartment
+2005,FG,VLAG,Причины неудовлетворенности жилищными условиями: сырая квартира,Reasons for dissatisfaction with living conditions: Crude apartment
+2005,FG,TEMN,Причины неудовлетворенности жилищными условиями: темная квартира,Reasons for dissatisfaction with living conditions: dark apartment
+2005,FG,TESN,Причины неудовлетворенности жилищными условиями: тесная квартира,Reasons for dissatisfaction with housing: Apartment close
+2005,FG,PVODA,Причины неудовлетворенности жилищными условиями: перебои с подачей воды,Reasons for dissatisfaction with living conditions: water shortages
+2005,FG,PELEKTR,Причины неудовлетворенности жилищными условиями: перебои с подачей электроэнергии,Reasons for dissatisfaction with living conditions: power outages
+2005,FG,NTUAL,Причины неудовлетворенности жилищными условиями: отсутствие туалета в доме,Reasons for dissatisfaction with living conditions: lack of toilets in the house
+2005,FG,NPLAN,Причины неудовлетворенности жилищными условиями: неудобная планировка,Reasons for dissatisfaction with living conditions: awkward layout
+2005,FG,SHUMS,Причины неудовлетворенности жилищными условиями: шум от соседей,Reasons for dissatisfaction with living conditions: the noise from the neighbors
+2005,FG,SHUMU,Причины неудовлетворенности жилищными условиями: шум с улицы,Reasons for dissatisfaction with living conditions: the noise from the street
+2005,FG,GRYZ,Причины неудовлетворенности жилищными условиями: проблемы с окружающей средой,Reasons for dissatisfaction with living conditions: environmental problems
+2005,FG,PREST,Причины неудовлетворенности жилищными условиями: преступность в районе,Reasons for dissatisfaction with living conditions: crime in the area
+2005,FG,DRNE,Причины неудовлетворенности жилищными условиями: другие,Reasons for dissatisfaction with living conditions: other
+2005,FG,ULUCHG,Намерение улучшить жилье,Intention to improve housing
+2005,FG,UCHET,Способы улучшения жилищных условий: стояние на учете как нуждающиеся ,Ways to improve their housing conditions: state registered as needing
+2005,FG,KUPGIL,Способы улучшения жилищных условий: покупка нового жилья,Ways to improve the living conditions: the purchase of new housing
+2005,FG,KUPGILD,Способы улучшения жилищных условий: покупка дополнительного жилья,Ways to improve the living conditions: the purchase of additional housing
+2005,FG,NASLED,Способы улучшения жилищных условий: получение наследства,Ways to improve their housing conditions: inheritance
+2005,FG,STRGIL,Способы улучшения жилищных условий: строительство нового дома,Ways to improve the living conditions: the construction of a new home
+2005,FG,DRPRICH,Способы улучшения жилищных условий: другой,Ways to improve the living conditions: the other
+2005,FG,PRODMAG,"Время необходимое для того, чтобы добраться до ближайшего продовольственного магазина",The time required to get to the nearest grocery store
+2005,FG,PROMMAG,"Время необходимое для того, чтобы добраться до ближайшего магазина непродовольственных товаров",The time needed to get to the nearest store non-food items
+2005,FG,POCHTA,"Время необходимое для того, чтобы добраться до ближайшего почтового отделения",The time needed to get to the nearest post office
+2005,FG,SBERB,"Время необходимое для того, чтобы добраться до ближайшего отделения Сбербанка",The time needed to get to the nearest branch of the Savings Bank
+2005,FG,APTEKA,"Время необходимое для того, чтобы добраться до ближайшей аптеки",The time needed to get to the nearest pharmacy
+2005,FG,POLIKV,"Время необходимое для того, чтобы добраться до ближайшей поликлиники для взрослых",The time needed to get to the nearest clinic for adults
+2005,FG,POLIKD,"Время необходимое для того, чтобы добраться до ближайшей детской поликлиники",The time needed to get to the nearest children's clinic
+2005,FG,SHKOLA,"Время необходимое для того, чтобы добраться до ближайшего общеобразовательного учреждения",The time required to get to the nearest educational institution
+2005,FG,DETSAD,"Время необходимое для того, чтобы добраться до ближайшего детского сада",The time required to get to the nearest kindergarten
+2005,FG,SOCZA,"Время необходимое для того, чтобы добраться до ближайшего отдела социальной защиты",The time required to get to the nearest department of social protection
+2005,FG,NOTAR,"Время необходимое для того, чтобы добраться до ближайшей нотариальная контора",The time needed to get to the nearest notary office
+2005,FG,URIST,"Время необходимое для того, чтобы добраться до ближайшей юридической консультации",The time needed to get to the nearest legal advice
+2005,FG,NALTELC,Количество цветных телевизоров в пользовании домохозяйства,Number of color televisions in use household
+2005,FG,NALTEL,Количество черно-белых телевизоров в пользовании домохозяйства,Number of black-and-white television sets in the household use
+2005,FG,NALVID,Количество видеомагнитофонов в пользовании домохозяйства,The number of households in the use of video recorders
+2005,FG,NALDVD,Количество DVD-плееров в пользовании домохозяйства,Number of DVD-players in the use of the household
+2005,FG,NALVIDCM,Количество видеокамер в пользовании домохозяйства,The number of cameras in the use of household
+2005,FG,NALRADIO,Количество радиоприемников в пользовании домохозяйства,The number of radios in use of household
+2005,FG,NALMUZC,Количество музыкальных центров в пользовании домохозяйства,Number of music centers in the use of the household
+2005,FG,NALMAG,Количество магнитофонов в пользовании домохозяйства,The number of households in the use of tape recorders
+2005,FG,NALHOL,Количество холодильников в пользовании домохозяйства,Number of household refrigerators in use
+2005,FG,NALMOR,Количество морозильников в пользовании домохозяйства,The number of households in the use of freezers
+2005,FG,NALSTIR,Количество стиральных машин в пользовании домохозяйства,Number of washing machines in the use of the household
+2005,FG,NALMPH,Количество микроволновых печей в пользовании домохозяйства,Number of microwave ovens in the use of the household
+2005,FG,NALPMM,Количество посудомоечных машин в пользовании домохозяйства,Number of dishwashers in the use of the household
+2005,FG,NALPSOS,Количество электропылесосов в пользовании домохозяйства,The number of households in the use of vacuum cleaners
+2005,FG,NALSHVE,Количество швейных машин в пользовании домохозяйства,Number of sewing machines in the use of the household
+2005,FG,NALVIAZ,Количество вязальных машин в пользовании домохозяйства,The number of knitting machines in the use of household
+2005,FG,NALCOND,Количество кондиционеров в пользовании домохозяйства,Number of units in the use of the household
+2005,FG,NALPC,Количество персональных компьютеров в пользовании домохозяйства,The number of personal computers in use household
+2005,FG,NALMTEL,Количество мобильных телефонов в пользовании домохозяйства,The number of mobile phones in use households
+2005,FG,NALVEL,Количество велосипедов в пользовании домохозяйства,Number of bikes in the use of the household
+2005,FG,NALMOT,Количество мотоциклов в пользовании домохозяйства,The number of motorcycles in the use of the household
+2005,FG,NALAVT,Количество легковых автомобилей в пользовании домохозяйства,Number of cars in household use
+2005,FG,NALLOD,Количество моторных лодок в пользовании домохозяйства,The number of motor boats in the use of the household
+2005,FG,GODTELC,Год приобретения последнего цветного телевизора,Acquisition last year of a color TV
+2005,FG,GODTEL,Год приобретения  последнего черно-белого телевизора,Acquisition last year of a black and white TV
+2005,FG,GODVID,Год приобретения  последнего видеомагнитофона,Acquisition last year of VCR
+2005,FG,GODDVD,Год приобретения  последнего DVD-плеера,Last year of purchase DVD-player
+2005,FG,GODVIDCM,Год приобретения последней видеокамеры,Acquisition last year camcorder
+2005,FG,GODRADIO,Год приобретения последнего радиоприемника,Acquisition last year of the radio
+2005,FG,GODMUZC,Год приобретения последнего музыкального центра,Acquisition last year of the music center
+2005,FG,GODMAG,Год приобретения последнего магнитофона,Acquisition last year of the tape
+2005,FG,GODHOL,Год приобретения последнего холодильника,Acquisition last year of the refrigerator
+2005,FG,GODMOR,Год приобретения последнего морозильника,Acquisition last year of the freezer
+2005,FG,GODSTIR,Год приобретения последнего стиральной машины,Acquisition last year of the washing machine
+2005,FG,GODMPH,Год приобретения последней микроволновой печи,Acquisition last year of a microwave oven
+2005,FG,GODPMM,Год приобретения  последней посудомоечной машины,Acquisition last year of the dishwasher
+2005,FG,GODPSOS,Год приобретения  последнего электропылесоса,Acquisition last year of the electric vacuum cleaner
+2005,FG,GODSHVE,Год приобретения последней швейной машины,Acquisition last year of the sewing machine
+2005,FG,GODVIAZ,Год приобретения последней вязальной машины,Acquisition last year of knitting machine
+2005,FG,GODCOND,Год приобретения последнего кондиционера,Acquisition last year of conditioner
+2005,FG,GODPC,Год приобретения последнего персонального компьютера,Acquisition last year of a personal computer
+2005,FG,GODMTEL,Год приобретения последнего мобильного телефона,Last year acquisition of mobile phone
+2005,FG,GODVEL,Год приобретения последнего велосипеда,Acquisition last year of the bike
+2005,FG,GODMOT,Год приобретения последнего мотоцикла,Acquisition last year of motorcycle
+2005,FG,GODAVT,Год приобретения последнего легкового автомобиля,Acquisition last year of the car
+2005,FG,GODLOD,Год приобретения последнего моторной лодки,Acquisition last year of a motorboat
+2005,FG,FINPOL,Мнение домохозяйства о своем финансовом положении,Opinion about their household financial situation
+2005,FG,OCHXOR,"Сумма денег необходимых домохозяйству для того, чтобы жить очень хорошо",The amount of money needed for the household in order to live well
+2005,FG,XOROSHO,"Сумма денег необходимых домохозяйству для того, чтобы жить хорошо",The amount of money needed for the household in order to live well
+2005,FG,UDOVL,"Сумма денег необходимых домохозяйству для того, чтобы жить удовлетворительно",The amount of money required for a household to live satisfactorily
+2004,FO,PER,Период разработки,development period
+2004,FO,TER,Шифр территории,cipher territory
+2004,FO,MEST,Тип населенного пункта,Type of settlement
+2004,FO,BUD,Номер бюджета,number budget
+2004,FO,LICO,Код члена домохозяйства (лица),Code household member (s)
+2004,FO,OBRZ,Уровень образования,education Level
+2004,FO,OBRL,"Число лет, затраченных на образование",The number of years of education
+2004,FO,YCHEB,Учеба в настоящее время,Study now
+2004,FO,YCHZAV,Тип учебного заведения,Type of educational institution
+2004,FG,PER,Период разработки,development period
+2004,FG,TER,Шифр территории,cipher territory
+2004,FG,MEST,Тип населенного пункта,Type of settlement
+2004,FG,BUD,Номер бюджета,number budget
+2004,FG,GIL,Условия проживания,living conditions
+2004,FG,SOBGIL,Форма собственности на жилье,Ownership housing
+2004,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2004,FG,CHISKOM,Число комнат,number of rooms
+2004,FG,KUHNY,Наличие кухни в жилище домохозяйства,The presence of food in the household dwelling
+2004,FG,VANNA,Наличие ванной в жилище,The presence of the bathroom in the house
+2004,FG,TUALET,Наличие санузла,The presence of bathrooms
+2004,FG,BALKON,Наличие балкона в жилище,The presence of the balcony in the house
+2004,FG,ELEKT,Наличие электричества в жилище,Availability of electricity in the home
+2004,FG,VODOPR,Наличие водопровода в жилище,The presence of running water in the home
+2004,FG,KANALO,Наличие коммунальной канализации в жилище,The presence of municipal sewage in the home
+2004,FG,KANALI,Наличие индивидуальной канализации в жилище,The presence of individual sanitation in housing
+2004,FG,KANALDR,Наличие другой системы удаления сточных вод в жилище,The presence of other sewage system in the home
+2004,FG,GORVODO,Наличие централизованного горячего водоснабжения в жилище,The presence of centralized hot water in the home
+2004,FG,GORVODI,Наличие горячего водоснабжения от индивидуальных котлов в жилище,The presence of hot water from individual boilers in the home
+2004,FG,GAZM,"Наличие газа магистрального, сетевого в жилище","The presence of gas main, in the home network"
+2004,FG,GAZS,Наличие газа сжиженного в жилище,The presence of liquefied gas in the home
+2004,FG,ELEKTPL,Наличие электроплиты напольной в жилище,The presence of outdoor cooking appliance in the home
+2004,FG,TELEF,Наличие телефона квартирного в жилище,The presence of the phone in the apartment house
+2004,FG,VODA,Источник питьевой воды в жилище домохозяйства,Source of drinking water in the dwelling households
+2004,FG,OTOPL,Тип отопления в жилище домохозяйства,Type of heating a home households
+2004,FG,NALTELC,Количество цветных телевизоров в пользовании домохозяйства,Number of color televisions in use household
+2004,FG,NALTEL,Количество черно-белых телевизоров в пользовании домохозяйства,Number of black-and-white television sets in the household use
+2004,FG,NALVID,Количество видеомагнитофонов в пользовании домохозяйства,The number of households in the use of video recorders
+2004,FG,NALDVD,Количество DVD-плееров пользовании домохозяйства,Number of DVD-players use household
+2004,FG,NALVIDCM,Количество видеокамер в пользовании домохозяйства,The number of cameras in the use of household
+2004,FG,NALRADIO,Количество радиоприемников в пользовании домохозяйства,The number of radios in use of household
+2004,FG,NALMUZC,Количество музыкальных центров в пользовании домохозяйства,Number of music centers in the use of the household
+2004,FG,NALMAG,Количество магнитофонов в пользовании домохозяйства,The number of households in the use of tape recorders
+2004,FG,NALHOL,Количество холодильников в пользовании домохозяйства,Number of household refrigerators in use
+2004,FG,NALMOR,Количество морозильников в пользовании домохозяйства,The number of households in the use of freezers
+2004,FG,NALSTIR,Количество стиральных машин в пользовании домохозяйства,Number of washing machines in the use of the household
+2004,FG,NALMPH,Количество микроволновых печей в пользовании домохозяйства,Number of microwave ovens in the use of the household
+2004,FG,NALPMM,Количество посудомоечных машин в пользовании домохозяйства,Number of dishwashers in the use of the household
+2004,FG,NALPSOS,Количество электропылесосов в пользовании домохозяйства,The number of households in the use of vacuum cleaners
+2004,FG,NALSHVE,Количество швейных машин в пользовании домохозяйства,Number of sewing machines in the use of the household
+2004,FG,NALVIAZ,Количество вязальных машин в пользовании домохозяйства,The number of knitting machines in the use of household
+2004,FG,NALCOND,Количество кондиционеров в пользовании домохозяйства,Number of units in the use of the household
+2004,FG,NALPC,Количество персональных компьютеров в пользовании домохозяйства,The number of personal computers in use household
+2004,FG,NALMTEL,Количество мобильных телефонов в пользовании домохозяйства,The number of mobile phones in use households
+2004,FG,NALVEL,Количество велосипедов в пользовании домохозяйства,Number of bikes in the use of the household
+2004,FG,NALMOT,Количество мотоциклов в пользовании домохозяйства,The number of motorcycles in the use of the household
+2004,FG,NALAVT,Количество легковых автомобилей в пользовании домохозяйства,Number of cars in household use
+2004,FG,NALLOD,Количество моторных лодок в пользовании домохозяйства,The number of motor boats in the use of the household
+2003,FO,PER,Период разработки,development period
+2003,FO,TER,Шифр территории,cipher territory
+2003,FO,MEST,Тип населенного пункта,Type of settlement
+2003,FO,BUD,Номер бюджета,number budget
+2003,FO,LICO,Код члена домохозяйства (лица),Code household member (s)
+2003,FO,OBRZ,Уровень образования,education Level
+2003,FO,OBRL,"Число лет, затраченных на образование",The number of years of education
+2003,FO,YCHEB,Учеба в настоящее время,Study now
+2003,FO,YCHZAV,Тип учебного заведения,Type of educational institution
+2003,FG,PER,Период разработки,development period
+2003,FG,TER,Шифр территории,cipher territory
+2003,FG,MEST,Тип населенного пункта,Type of settlement
+2003,FG,BUD,Номер бюджета,number budget
+2003,FG,GIL,Условия проживания,living conditions
+2003,FG,SOBGIL,Форма собственности на жилье,Ownership housing
+2003,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2003,FG,CHISKOM,Число комнат,number of rooms
+2003,FG,ELEKT,Наличие электричества в жилище,Availability of electricity in the home
+2003,FG,VODOPR,Наличие водопровода в жилище,The presence of running water in the home
+2003,FG,KANAL,Наличие канализации в жилище,The presence of sewage in the home
+2003,FG,GORVOD,Наличие горячего водоснабжения в жилище,The presence of hot water in the home
+2003,FG,VANNA,Наличие ванной в жилище,The presence of the bathroom in the house
+2003,FG,GAZ,"Наличие газа магистрального, сетевого в жилище","The presence of gas main, in the home network"
+2003,FG,ELEKTPL,Наличие электроплиты напольной в жилище,The presence of outdoor cooking appliance in the home
+2003,FG,TELEF,Наличие телефона квартирного в жилище,The presence of the phone in the apartment house
+2003,FG,VODA,Источник питьевой воды в жилище домохозяйства,Source of drinking water in the dwelling households
+2003,FG,OTOPL,Тип отопления в жилище домохозяйства,Type of heating a home households
+2003,FG,NALTELC,Количество цветных телевизоров в пользовании домохозяйства,Number of color televisions in use household
+2003,FG,NALTEL,Количество черно-белых телевизоров в пользовании домохозяйства,Number of black-and-white television sets in the household use
+2003,FG,NALVID,Количество видеомагнитофонов в пользовании домохозяйства,The number of households in the use of video recorders
+2003,FG,NALVIDCM,Количество видеокамер в пользовании домохозяйства,The number of cameras in the use of household
+2003,FG,NALRADIO,Количество радиоприемников в пользовании домохозяйства,The number of radios in use of household
+2003,FG,NALMUZC,Количество музыкальных центров в пользовании домохозяйства,Number of music centers in the use of the household
+2003,FG,NALMAG,Количество магнитофонов в пользовании домохозяйства,The number of households in the use of tape recorders
+2003,FG,NALHOL,Количество холодильников в пользовании домохозяйства,Number of household refrigerators in use
+2003,FG,NALMOR,Количество морозильников в пользовании домохозяйства,The number of households in the use of freezers
+2003,FG,NALSTIR,Количество стиральных машин в пользовании домохозяйства,Number of washing machines in the use of the household
+2003,FG,NALMPH,Количество микроволновых печей в пользовании домохозяйства,Number of microwave ovens in the use of the household
+2003,FG,NALPMM,Количество посудомоечных машин в пользовании домохозяйства,Number of dishwashers in the use of the household
+2003,FG,NALPSOS,Количество электропылесосов в пользовании домохозяйства,The number of households in the use of vacuum cleaners
+2003,FG,NALSHVE,Количество швейных машин в пользовании домохозяйства,Number of sewing machines in the use of the household
+2003,FG,NALVIAZ,Количество вязальных машин в пользовании домохозяйства,The number of knitting machines in the use of household
+2003,FG,NALCOND,Количество кондиционеров в пользовании домохозяйства,Number of units in the use of the household
+2003,FG,NALPC,Количество персональных компьютеров в пользовании домохозяйства,The number of personal computers in use household
+2003,FG,NALMTEL,Количество мобильных телефонов в пользовании домохозяйства,The number of mobile phones in use households
+2003,FG,NALVEL,Количество велосипедов в пользовании домохозяйства,Number of bikes in the use of the household
+2003,FG,NALMOT,Количество мотоциклов в пользовании домохозяйства,The number of motorcycles in the use of the household
+2003,FG,NALAVT,Количество легковых автомобилей в пользовании домохозяйства,Number of cars in household use
+2003,FG,NALLOD,Количество моторных лодок в пользовании домохозяйства,The number of motor boats in the use of the household
