@@ -983,3 +983,492 @@ year,file,var,russian,english
 2010,FZ,DOLGO,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: другими организациями за услуги или товары (без участия банка)","The presence of the household balance of the loan, a loan or other debt obligations to: other organizations for services or goods (without bank)"
 2010,FZ,DOLGL,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: частными лицами","The presence of the household balance of the loan, a loan or other debt obligations to: individuals"
 2010,FZ,DOLGDR,"Наличие у домохозяйства остатка долга по кредиту, ссуде или иным долговым обязательствам перед: иной вид задолженности","The presence of the household balance of the loan, a loan or other debt obligations to: a different kind of debt"
+2009,FG,PER,Период разработки,development period
+2009,FG,TER,Шифр территории,cipher territory
+2009,FG,MEST,Тип населенного пункта,Type of settlement
+2009,FG,BUD,Номер бюджета,number budget
+2009,FG,GIL,Условия проживания,living conditions
+2009,FG,SOBGIL,Собственник жилья,homeowners
+2009,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2009,FG,CHISKOM,Число комнат,number of rooms
+2009,FG,IZOLKOM,Число изолированных комнат,The number of separate rooms
+2009,FG,RAZMGIL,Мнение о размере жилья,Opinion on the amount of property
+2009,FG,KUHNY,Наличие благоустройства в жилище: кухня,The presence in the home improvement kitchen
+2009,FG,VANNA,Наличие благоустройства в жилище: ванна,The presence in the home improvement bathtub
+2009,FG,TUALET,Наличие благоустройства в жилище: туалет,The presence of improvement in housing: toilet
+2009,FG,ELEKT,Наличие благоустройства в жилище: электричество,The presence of improvement in housing: electricity
+2009,FG,ELEKTPL,Наличие благоустройства в жилище: электроплита напольная,The presence of improvement in housing: electric floor
+2009,FG,GAZM,Наличие благоустройства в жилище: газ сетевой,The presence of improvement in housing: gas network
+2009,FG,GAZS,Наличие благоустройства в жилище: газ сжиженный,The presence of improvement in housing: liquefied gas
+2009,FG,MUSOR,Наличие благоустройства в жилище: мусоропровод,The presence of improvement in housing: a garbage disposal
+2009,FG,TELEF,Наличие благоустройства в жилище: телефон квартирный,The presence of improvement in housing: apartment phone
+2009,FG,VODOPR,Наличие благоустройства в жилище: Тип водопровода,The presence of improvement in housing: Type of water supply
+2009,FG,VODA,Наличие благоустройства в жилище: Источник питьевой воды,The presence of improvement in housing: Source of drinking water
+2009,FG,GORVODO,Наличие благоустройства в жилище: Тип горячего водоснабжения,The presence of improvement in housing: Hot water type
+2009,FG,KANALO,Наличие благоустройства в жилище: Тип канализации,The presence of improvement in housing: Sewage
+2009,FG,OTOPL,Наличие благоустройства в жилище: Тип отопления,The presence of improvement in housing: Type of heating
+2009,FG,TOPLIVO,Наличие благоустройства в жилище: Основной вид топлива для отопления,The presence of improvement in housing: The main type of heating fuel
+2009,FG,OBESTOP,Наличие благоустройства в жилище: Обеспеченность топливом,The presence of improvement in housing: providing fuel
+2009,FG,PHOLVOD,Наличие перебоев с холодной водой,The presence of faults with cold water
+2009,FG,PGORVOD,Наличие перебоев горячей водой,The presence of faults with hot water
+2009,FG,PELEKTR,Наличие перебоев электроэнергией,Availability of power outages
+2009,FG,PTEPL,Наличие перебоев с теплом,The presence of faults with heat
+2009,FG,PPROGR,Наличие перебоев с приемом программ телевидения,The presence of faults with the reception of television programs
+2009,FG,PLIFT,Наличие перебоев с лифтовым обслуживанием,The presence of faults with elevator service
+2009,FG,RHOLVOD,Регулярность перебоев с холодной водой,Regularity of interruptions with cold water
+2009,FG,RGORVOD,Регулярность перебоев с горячей водой,Regularity of interruptions with hot water
+2009,FG,RELEKTR,Регулярность перебоев с электроэнергией,Regularity of power cuts
+2009,FG,RTEPL,Регулярность перебоев с теплом,Regularity of interruptions with heat
+2009,FG,RPROGR,Регулярность перебоев с приемом программ телевидения,Regularity of interruptions to the reception of television programs
+2009,FG,RLIFT,Регулярность перебоев с лифтовым обслуживанием,Regularity elevator service disruptions
+2009,FG,NTEKREM,Неудобства в проживании: необходимость текущего ремонта,"Inconvenience to stay, need for maintenance"
+2009,FG,NKAPREM,Неудобства в проживании: необходимость капитального ремонта,"Inconvenience to stay, the need for major repairs"
+2009,FG,XOLOD,Неудобства в проживании: недостаток тепла,"Inconvenience to stay, lack of heat"
+2009,FG,VLAG,Неудобства в проживании: избыток влажности,"Inconvenience to stay, excess humidity"
+2009,FG,TEMN,Неудобства в проживании: недостаток света,"Inconvenience to stay, the lack of light"
+2009,FG,NSANTEH,Неудобства в проживании: неполадки с сантехническим оборудованием,"Inconvenience to stay, problems with sanitary equipment"
+2009,FG,NELEKTR,Неудобства в проживании: неисправность электропроводки,Inconvenience to stay wiring
+2009,FG,SHUMIZO,Неудобства в проживании: плохая шумоизоляция,Inconvenience to stay poor noise insulation
+2009,FG,GRYZ,Неудобства в проживании: загрязнение воздуха,"Inconvenience to stay, air pollution"
+2009,FG,PLVODA,Неудобства в проживании: плохое качество воды,Inconvenience to stay poor water quality
+2009,FG,PLOBTR,Неудобства в проживании: плохая работа общественного транспорта,Inconvenience to stay poor performance of public transport
+2009,FG,PLSVET,Неудобства в проживании: плохая освещенность улиц,"Inconvenience to stay, poorly lit streets"
+2009,FG,SHUMS,Неудобства в проживании: беспокойные соседи,Inconvenience to stay restless neighbors
+2009,FG,PLDR,Неудобства в проживании: другое,Inconvenience to stay another
+2009,FG,OCENGIL,Оценка жилищных условий,Assessment of living conditions
+2009,FG,ULUCHG,Намерение улучшить жилье,Intention to improve housing
+2009,FG,UCHET,Способы улучшения жилищных условий: состояние на учете как нуждающиеся в улучшении жилищных условий,Ways to improve the living conditions: the state registered as needing to improve their living conditions
+2009,FG,KUPGIL,Способы улучшения жилищных условий: покупка нового жилья,Ways to improve the living conditions: the purchase of new housing
+2009,FG,KUPGILD,Способы улучшения жилищных условий: покупка дополнительного жилья,Ways to improve the living conditions: the purchase of additional housing
+2009,FG,NASLED,Способы улучшения жилищных условий: получение наследства,Ways to improve their housing conditions: inheritance
+2009,FG,STRGIL,Способы улучшения жилищных условий: строительство нового дома,Ways to improve the living conditions: the construction of a new home
+2009,FG,DRPRICH,Способы улучшения жилищных условий: другой способ ,Ways to improve the living conditions: the other way
+2009,FG,PRODMAG,Шаговая доступность продовольственного магазина,Walking distance grocery store
+2009,FG,PROMMAG,Шаговая доступность магазина непродовольственных товаров,Walking distance of shops non-food items
+2009,FG,POCHTA,Шаговая доступность почтового отделения,Walking distance of the post office
+2009,FG,SBERB,Шаговая доступность отделения Сбербанка,Walking distance branch of the Savings Bank
+2009,FG,APTEKA,Шаговая доступность аптеки,Stepping accessibility pharmacy
+2009,FG,POLIKV,Шаговая доступность поликлиники для взрослых,Stepping accessibility clinics for adults
+2009,FG,POLIKD,Шаговая доступность детской поликлиники,Stepping accessibility of child health clinics
+2009,FG,SHKOLA,Шаговая доступность общеобразовательного учреждения,Stepping accessibility of educational institution
+2009,FG,DETSAD,Шаговая доступность детского сада,Stepping accessibility kindergarten
+2009,FG,PENFOND,Шаговая доступность отделения Пенсионного фонда,Walking distance separating the Pension Fund
+2009,FG,SOCZA,Шаговая доступность отдела социальной защиты,Stepping accessibility of social protection
+2009,FG,NOTAR,Шаговая доступность нотариальной конторы,Stepping accessibility notary office
+2009,FG,URIST,Шаговая доступность юридической консультации,Stepping accessibility of legal advice
+2009,FG,TPRODMAG,Затраты времени на поездку до продовольственного магазина,Time spent on a trip to the grocery store
+2009,FG,TPROMMAG,Затраты времени на поездку до магазина непродовольственных товаров,Time spent on a trip to the store non-food items
+2009,FG,TPOCHTA,Затраты времени на поездку до почтового отделения,Time spent on a trip to the post office
+2009,FG,TSBERB,Затраты времени на поездку до отделения Сбербанка,Time spent on a trip to the branch of the Savings Bank
+2009,FG,TAPTEKA,Затраты времени на поездку до аптеки,Time spent on a trip to the pharmacy
+2009,FG,TPOLIKV,Затраты времени на поездку до поликлиники для взрослых,Time spent on a trip to the clinic for adults
+2009,FG,TPOLIKD,Затраты времени на поездку до детской поликлиники,Time spent on a trip to the children's clinic
+2009,FG,TSHKOLA,Затраты времени на поездку до общеобразовательного учреждения,Time spent on a trip to the educational institution
+2009,FG,TDETSAD,Затраты времени на поездку до детского сада,The time spent on the trip to kindergarten
+2009,FG,TPENFOND,Затраты времени на поездку до отделения Пенсионного фонда,Time spent on a trip to the branch of the Pension Fund
+2009,FG,TSOCZA,Затраты времени на поездку до отдела социальной защиты,Time spent on a trip to the Department of Social Protection
+2009,FG,TNOTAR,Затраты времени на поездку до нотариальной конторы,Time spent on a trip to the notary office
+2009,FG,TURIST,Затраты времени на поездку до юридической консультации,Time spent on a trip to legal advice
+2009,FZ,PER,Период разработки,development period
+2009,FZ,TER,Шифр территории,cipher territory
+2009,FZ,MEST,Тип населенного пункта,Type of settlement
+2009,FZ,BUD,Номер бюджета,number budget
+2009,FZ,NALTELC,Количество цветных телевизоров,Number of color televisions
+2009,FZ,NALTEL,- « - черно-белых телевизоров,"- ""- Black and white TVs"
+2009,FZ,NALVID,- « - видеомагнитофонов,"- ""- VCR"
+2009,FZ,NALDVD,- « - DVD-плеер,- «- DVD-player
+2009,FZ,NALVIDCM,- « - видеокамер,"- ""- Camcorders"
+2009,FZ,NALRADIO,- « - радиоприемников,"- ""- Radio"
+2009,FZ,NALMUZC,- « - музыкальных центров,"- ""- Stereo"
+2009,FZ,NALMAG,- « - магнитофонов,"- ""- Tape"
+2009,FZ,NALHOL,- « - холодильников,"- ""- Refrigerators"
+2009,FZ,NALMOR,- « - морозильников,"- ""- Freezers"
+2009,FZ,NALSTIR,- « - стиральных машин,"- ""- Washing machines"
+2009,FZ,NALMPH,- « - микроволновых печей,"- ""- Microwave ovens"
+2009,FZ,NALPMM,- « - посудомоечных машин,"- ""- Dishwasher"
+2009,FZ,NALPSOS,- « - электропылесосов,"- ""- Vacuum cleaners"
+2009,FZ,NALSHVE,- « - швейных машин,"- ""- Sewing machines"
+2009,FZ,NALVIAZ,- « - вязальных машин,"- ""- Knitting machines"
+2009,FZ,NALCOND,- « - кондиционеров,"- ""- Conditioners"
+2009,FZ,NALPC,- « - персональных компьютеров,"- ""- PC"
+2009,FZ,NALKPC,- « - карманных компьютеров,"- ""- PDAs"
+2009,FZ,NALMTEL,- « - мобильных телефонов,"- ""- Mobile phones"
+2009,FZ,NALVEL,- « - велосипедов,"- ""- Bike"
+2009,FZ,NALMOT,- « - мотоциклов,"- ""- Motorcycles"
+2009,FZ,NALAVT,- « - легковых автомобилей,"- ""- Cars"
+2009,FZ,NALGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2009,FZ,NALLOD,- « - моторных лодок,"- ""- Motorboats"
+2009,FZ,GODTELC,Год приобретения цветного телевизора,The year of acquisition color TV
+2009,FZ,GODTEL,- « - черно-белого телевизора,"- ""- Black-and-white television"
+2009,FZ,GODVID,- « - видеомагнитофона,"- ""- VCR"
+2009,FZ,GODDVD,- « - DVD-плеер,- «- DVD-player
+2009,FZ,GODVIDCM,- « - видеокамеры,"- ""- Camcorder"
+2009,FZ,GODRADIO,- « - радиоприемника,"- ""- Radio"
+2009,FZ,GODMUZC,- « - музыкального центра,"- ""- The music center"
+2009,FZ,GODMAG,- « - магнитофона,"- ""- Tape"
+2009,FZ,GODHOL,- « - холодильника,"- ""- Refrigerator"
+2009,FZ,GODMOR,- « - морозильника,"- ""- Freezer"
+2009,FZ,GODSTIR,- « - стиральной машины,"- ""- Washing machine"
+2009,FZ,GODMPH,- « - микроволновой печи,"- ""- Microwave"
+2009,FZ,GODPMM,- « - посудомоечной машины,"- ""- Dishwasher"
+2009,FZ,GODPSOS,- « - электропылесоса,"- ""- An electric vacuum"
+2009,FZ,GODSHVE,- « - швейной машины,"- ""- Sewing machine"
+2009,FZ,GODVIAZ,- « - вязальной машины,"- ""- Knitting machine"
+2009,FZ,GODCOND,- « - кондиционера,"- ""- The air conditioner"
+2009,FZ,GODPC,- « - персонального компьютера,"- ""- PC"
+2009,FZ,GODKPC,- « - карманных компьютеров,"- ""- PDAs"
+2009,FZ,GODMTEL,- « - мобильного телефона,"- ""- Mobile phone"
+2009,FZ,GODVEL,- « - велосипеда,"- ""- Bicycle"
+2009,FZ,GODMOT,- « - мотоцикла,"- ""- A motorcycle"
+2009,FZ,GODAVT,- « - легкового автомобиля,"- ""- A car"
+2009,FZ,GODGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2009,FZ,GODLOD,- « - моторной лодки,"- ""- A motor boat"
+2009,FZ,PC16,"Число членов домохозяйства, пользующихся компьютером в возрасте: до 16 лет",Number of household members who use a computer at Age: 16 years
+2009,FZ,PC35,"Число членов домохозяйства, пользующихся компьютером в возрасте: 16 – 35 лет",Number of household members who use a computer at the age of 16 - 35 years
+2009,FZ,PC55,"Число членов домохозяйства, пользующихся компьютером в возрасте: 36 - 55 лет",Number of household members who use a computer at the age of 36 - 55 years
+2009,FZ,PC74,"Число членов домохозяйства, пользующихся компьютером в возрасте: 56 лет и старше",Number of household members who use a computer at the age of 56 years and older
+2009,FZ,DOSINT,Наличие доступа в Интернет,Having access to the Internet
+2009,FZ,INTPS,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: персональный компьютер,View available household devices to access the Internet: PC
+2009,FZ,INTKPS,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: карманный компьютер,View available household devices to access the Internet: handheld computer
+2009,FZ,INTTEL,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: телевизор со специальным устройством,View available household devices to access the Internet: TV with a special device
+2009,FZ,INTMOB,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: мобильный телефон,View available household devices to access the Internet: mobile phone
+2009,FZ,INTIGR,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: игровая приставка,View available household devices to access the Internet: game console
+2009,FZ,INTNET,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: не указан,View available household devices to access the Internet: Unknown
+2009,FZ,PINT16,"Число членов домохозяйства в возрасте до 16 лет, пользующихся Интернет постоянно",Number of household members under the age of 16 years who use the Internet constantly
+2009,FZ,PINT35,"Число членов домохозяйства в возрасте 16 – 35 лет, пользующихся Интернет постоянно",Number of household members aged 16 - 35 years who use the Internet constantly
+2009,FZ,PINT55,"Число членов домохозяйства в возрасте 36 - 55 лет, пользующихся Интернет постоянно",Number of household members aged 36 - 55 years old who use the Internet constantly
+2009,FZ,PINT74,"Число членов домохозяйства в возрасте 56 – 74 лет, пользующихся Интернет постоянно",Number of household members aged 56 - 74 years who use the Internet constantly
+2009,FZ,SINT16,"Число членов домохозяйства в возрасте до 16 лет, пользующихся Интернет от случая к случаю","Number of household members under the age of 16 years, using the Internet from time to time"
+2009,FZ,SINT35,"Число членов домохозяйства в возрасте 16 – 35 лет, пользующихся Интернет от случая к случаю",Number of household members aged 16 - 35 years old who access the Internet from time to time
+2009,FZ,SINT55,"Число членов домохозяйства в возрасте 36 - 55 лет, пользующихся Интернет от случая к случаю",Number of household members aged 36 - 55 years old who access the Internet from time to time
+2009,FZ,SINT74,"Число членов домохозяйства в возрасте 56 – 74 лет, пользующихся Интернет от случая к случаю",Number of household members aged 56 - 74 years old who access the Internet from time to time
+2009,FZ,FINPOL,Определение финансового положения домохозяйства,Determination of the financial situation of the household
+2009,FZ,OCHXOR,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: очень хорошо",The amount of money necessary for your household to live: very good
+2009,FZ,XOROSHO,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: хорошо",The amount of money necessary for your household to live: good
+2009,FZ,UDOVL,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: удовлетворительно",The amount of money necessary for your household to live: Satisfactory
+2008,FG,PER,Период разработки,development period
+2008,FG,TER,Шифр территории,cipher territory
+2008,FG,MEST,Тип населенного пункта,Type of settlement
+2008,FG,BUD,Номер бюджета,number budget
+2008,FG,GIL,Условия проживания,living conditions
+2008,FG,SOBGIL,Собственник жилья,homeowners
+2008,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2008,FG,CHISKOM,Число комнат,number of rooms
+2008,FG,IZOLKOM,Число изолированных комнат,The number of separate rooms
+2008,FG,RAZMGIL,Мнение о размере жилья,Opinion on the amount of property
+2008,FG,KUHNY,Наличие благоустройства в жилище: кухня,The presence in the home improvement kitchen
+2008,FG,VANNA,Наличие благоустройства в жилище: ванна,The presence in the home improvement bathtub
+2008,FG,TUALET,Наличие благоустройства в жилище: туалет,The presence of improvement in housing: toilet
+2008,FG,ELEKT,Наличие благоустройства в жилище: электричество,The presence of improvement in housing: electricity
+2008,FG,ELEKTPL,Наличие благоустройства в жилище: электроплита напольная,The presence of improvement in housing: electric floor
+2008,FG,GAZM,Наличие благоустройства в жилище: газ сетевой,The presence of improvement in housing: gas network
+2008,FG,GAZS,Наличие благоустройства в жилище: газ сжиженный,The presence of improvement in housing: liquefied gas
+2008,FG,MUSOR,Наличие благоустройства в жилище: мусоропровод,The presence of improvement in housing: a garbage disposal
+2008,FG,TELEF,Наличие благоустройства в жилище: телефон квартирный,The presence of improvement in housing: apartment phone
+2008,FG,VODOPR,Наличие благоустройства в жилище: Тип водопровода,The presence of improvement in housing: Type of water supply
+2008,FG,VODA,Наличие благоустройства в жилище: Источник питьевой воды,The presence of improvement in housing: Source of drinking water
+2008,FG,GORVODO,Наличие благоустройства в жилище: Тип горячего водоснабжения,The presence of improvement in housing: Hot water type
+2008,FG,KANALO,Наличие благоустройства в жилище: Тип канализации,The presence of improvement in housing: Sewage
+2008,FG,OTOPL,Наличие благоустройства в жилище: Тип отопления,The presence of improvement in housing: Type of heating
+2008,FG,TOPLIVO,Наличие благоустройства в жилище: Основной вид топлива для отопления,The presence of improvement in housing: The main type of heating fuel
+2008,FG,OBESTOP,Наличие благоустройства в жилище: Обеспеченность топливом,The presence of improvement in housing: providing fuel
+2008,FG,PHOLVOD,Наличие перебоев с холодной водой,The presence of faults with cold water
+2008,FG,PGORVOD,Наличие перебоев горячей водой,The presence of faults with hot water
+2008,FG,PELEKTR,Наличие перебоев электроэнергией,Availability of power outages
+2008,FG,PTEPL,Наличие перебоев с теплом,The presence of faults with heat
+2008,FG,PPROGR,Наличие перебоев с приемом программ телевидения,The presence of faults with the reception of television programs
+2008,FG,PLIFT,Наличие перебоев с лифтовым обслуживанием,The presence of faults with elevator service
+2008,FG,RHOLVOD,Регулярность перебоев с холодной водой,Regularity of interruptions with cold water
+2008,FG,RGORVOD,Регулярность перебоев с горячей водой,Regularity of interruptions with hot water
+2008,FG,RELEKTR,Регулярность перебоев с электроэнергией,Regularity of power cuts
+2008,FG,RTEPL,Регулярность перебоев с теплом,Regularity of interruptions with heat
+2008,FG,RPROGR,Регулярность перебоев с приемом программ телевидения,Regularity of interruptions to the reception of television programs
+2008,FG,RLIFT,Регулярность перебоев с лифтовым обслуживанием,Regularity elevator service disruptions
+2008,FG,NTEKREM,Неудобства в проживании: необходимость текущего ремонта,"Inconvenience to stay, need for maintenance"
+2008,FG,NKAPREM,Неудобства в проживании: необходимость капитального ремонта,"Inconvenience to stay, the need for major repairs"
+2008,FG,XOLOD,Неудобства в проживании: недостаток тепла,"Inconvenience to stay, lack of heat"
+2008,FG,VLAG,Неудобства в проживании: избыток влажности,"Inconvenience to stay, excess humidity"
+2008,FG,TEMN,Неудобства в проживании: недостаток света,"Inconvenience to stay, the lack of light"
+2008,FG,NSANTEH,Неудобства в проживании: неполадки с сантехническим оборудованием,"Inconvenience to stay, problems with sanitary equipment"
+2008,FG,NELEKTR,Неудобства в проживании: неисправность электропроводки,Inconvenience to stay wiring
+2008,FG,SHUMIZO,Неудобства в проживании: плохая шумоизоляция,Inconvenience to stay poor noise insulation
+2008,FG,GRYZ,Неудобства в проживании: загрязнение воздуха,"Inconvenience to stay, air pollution"
+2008,FG,PLVODA,Неудобства в проживании: плохое качество воды,Inconvenience to stay poor water quality
+2008,FG,PLOBTR,Неудобства в проживании: плохая работа общественного транспорта,Inconvenience to stay poor performance of public transport
+2008,FG,PLSVET,Неудобства в проживании: плохая освещенность улиц,"Inconvenience to stay, poorly lit streets"
+2008,FG,SHUMS,Неудобства в проживании: беспокойные соседи,Inconvenience to stay restless neighbors
+2008,FG,PLDR,Неудобства в проживании: другое,Inconvenience to stay another
+2008,FG,OCENGIL,Оценка жилищных условий,Assessment of living conditions
+2008,FG,ULUCHG,Намерение улучшить жилье,Intention to improve housing
+2008,FG,UCHET,Способы улучшения жилищных условий: состояние на учете как нуждающиеся в улучшении жилищных условий,Ways to improve the living conditions: the state registered as needing to improve their living conditions
+2008,FG,KUPGIL,Способы улучшения жилищных условий: покупка нового жилья,Ways to improve the living conditions: the purchase of new housing
+2008,FG,KUPGILD,Способы улучшения жилищных условий: покупка дополнительного жилья,Ways to improve the living conditions: the purchase of additional housing
+2008,FG,NASLED,Способы улучшения жилищных условий: получение наследства,Ways to improve their housing conditions: inheritance
+2008,FG,STRGIL,Способы улучшения жилищных условий: строительство нового дома,Ways to improve the living conditions: the construction of a new home
+2008,FG,DRPRICH,Способы улучшения жилищных условий: другой способ ,Ways to improve the living conditions: the other way
+2008,FG,PRODMAG,Шаговая доступность продовольственного магазина,Walking distance grocery store
+2008,FG,PROMMAG,Шаговая доступность магазина непродовольственных товаров,Walking distance of shops non-food items
+2008,FG,POCHTA,Шаговая доступность почтового отделения,Walking distance of the post office
+2008,FG,SBERB,Шаговая доступность отделения Сбербанка,Walking distance branch of the Savings Bank
+2008,FG,APTEKA,Шаговая доступность аптеки,Stepping accessibility pharmacy
+2008,FG,POLIKV,Шаговая доступность поликлиники для взрослых,Stepping accessibility clinics for adults
+2008,FG,POLIKD,Шаговая доступность детской поликлиники,Stepping accessibility of child health clinics
+2008,FG,SHKOLA,Шаговая доступность общеобразовательного учреждения,Stepping accessibility of educational institution
+2008,FG,DETSAD,Шаговая доступность детского сада,Stepping accessibility kindergarten
+2008,FG,PENFOND,Шаговая доступность отделения Пенсионного фонда,Walking distance separating the Pension Fund
+2008,FG,SOCZA,Шаговая доступность отдела социальной защиты,Stepping accessibility of social protection
+2008,FG,NOTAR,Шаговая доступность нотариальной конторы,Stepping accessibility notary office
+2008,FG,URIST,Шаговая доступность юридической консультации,Stepping accessibility of legal advice
+2008,FG,TPRODMAG,Затраты времени на поездку до продовольственного магазина,Time spent on a trip to the grocery store
+2008,FG,TPROMMAG,Затраты времени на поездку до магазина непродовольственных товаров,Time spent on a trip to the store non-food items
+2008,FG,TPOCHTA,Затраты времени на поездку до почтового отделения,Time spent on a trip to the post office
+2008,FG,TSBERB,Затраты времени на поездку до отделения Сбербанка,Time spent on a trip to the branch of the Savings Bank
+2008,FG,TAPTEKA,Затраты времени на поездку до аптеки,Time spent on a trip to the pharmacy
+2008,FG,TPOLIKV,Затраты времени на поездку до поликлиники для взрослых,Time spent on a trip to the clinic for adults
+2008,FG,TPOLIKD,Затраты времени на поездку до детской поликлиники,Time spent on a trip to the children's clinic
+2008,FG,TSHKOLA,Затраты времени на поездку до общеобразовательного учреждения,Time spent on a trip to the educational institution
+2008,FG,TDETSAD,Затраты времени на поездку до детского сада,The time spent on the trip to kindergarten
+2008,FG,TPENFOND,Затраты времени на поездку до отделения Пенсионного фонда,Time spent on a trip to the branch of the Pension Fund
+2008,FG,TSOCZA,Затраты времени на поездку до отдела социальной защиты,Time spent on a trip to the Department of Social Protection
+2008,FG,TNOTAR,Затраты времени на поездку до нотариальной конторы,Time spent on a trip to the notary office
+2008,FG,TURIST,Затраты времени на поездку до юридической консультации,Time spent on a trip to legal advice
+2008,FZ,PER,Период разработки,development period
+2008,FZ,TER,Шифр территории,cipher territory
+2008,FZ,MEST,Тип населенного пункта,Type of settlement
+2008,FZ,BUD,Номер бюджета,number budget
+2008,FZ,NALTELC,Количество цветных телевизоров,Number of color televisions
+2008,FZ,NALTEL,- « - черно-белых телевизоров,"- ""- Black and white TVs"
+2008,FZ,NALVID,- « - видеомагнитофонов,"- ""- VCR"
+2008,FZ,NALDVD,- « - DVD-плеер,- «- DVD-player
+2008,FZ,NALVIDCM,- « - видеокамер,"- ""- Camcorders"
+2008,FZ,NALRADIO,- « - радиоприемников,"- ""- Radio"
+2008,FZ,NALMUZC,- « - музыкальных центров,"- ""- Stereo"
+2008,FZ,NALMAG,- « - магнитофонов,"- ""- Tape"
+2008,FZ,NALHOL,- « - холодильников,"- ""- Refrigerators"
+2008,FZ,NALMOR,- « - морозильников,"- ""- Freezers"
+2008,FZ,NALSTIR,- « - стиральных машин,"- ""- Washing machines"
+2008,FZ,NALMPH,- « - микроволновых печей,"- ""- Microwave ovens"
+2008,FZ,NALPMM,- « - посудомоечных машин,"- ""- Dishwasher"
+2008,FZ,NALPSOS,- « - электропылесосов,"- ""- Vacuum cleaners"
+2008,FZ,NALSHVE,- « - швейных машин,"- ""- Sewing machines"
+2008,FZ,NALVIAZ,- « - вязальных машин,"- ""- Knitting machines"
+2008,FZ,NALCOND,- « - кондиционеров,"- ""- Conditioners"
+2008,FZ,NALPC,- « - персональных компьютеров,"- ""- PC"
+2008,FZ,NALKPC,- « - карманных компьютеров,"- ""- PDAs"
+2008,FZ,NALMTEL,- « - мобильных телефонов,"- ""- Mobile phones"
+2008,FZ,NALVEL,- « - велосипедов,"- ""- Bike"
+2008,FZ,NALMOT,- « - мотоциклов,"- ""- Motorcycles"
+2008,FZ,NALAVT,- « - легковых автомобилей,"- ""- Cars"
+2008,FZ,NALGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2008,FZ,NALLOD,- « - моторных лодок,"- ""- Motorboats"
+2008,FZ,GODTELC,Год приобретения цветного телевизора,The year of acquisition color TV
+2008,FZ,GODTEL,- « - черно-белого телевизора,"- ""- Black-and-white television"
+2008,FZ,GODVID,- « - видеомагнитофона,"- ""- VCR"
+2008,FZ,GODDVD,- « - DVD-плеер,- «- DVD-player
+2008,FZ,GODVIDCM,- « - видеокамеры,"- ""- Camcorder"
+2008,FZ,GODRADIO,- « - радиоприемника,"- ""- Radio"
+2008,FZ,GODMUZC,- « - музыкального центра,"- ""- The music center"
+2008,FZ,GODMAG,- « - магнитофона,"- ""- Tape"
+2008,FZ,GODHOL,- « - холодильника,"- ""- Refrigerator"
+2008,FZ,GODMOR,- « - морозильника,"- ""- Freezer"
+2008,FZ,GODSTIR,- « - стиральной машины,"- ""- Washing machine"
+2008,FZ,GODMPH,- « - микроволновой печи,"- ""- Microwave"
+2008,FZ,GODPMM,- « - посудомоечной машины,"- ""- Dishwasher"
+2008,FZ,GODPSOS,- « - электропылесоса,"- ""- An electric vacuum"
+2008,FZ,GODSHVE,- « - швейной машины,"- ""- Sewing machine"
+2008,FZ,GODVIAZ,- « - вязальной машины,"- ""- Knitting machine"
+2008,FZ,GODCOND,- « - кондиционера,"- ""- The air conditioner"
+2008,FZ,GODPC,- « - персонального компьютера,"- ""- PC"
+2008,FZ,GODKPC,- « - карманных компьютеров,"- ""- PDAs"
+2008,FZ,GODMTEL,- « - мобильного телефона,"- ""- Mobile phone"
+2008,FZ,GODVEL,- « - велосипеда,"- ""- Bicycle"
+2008,FZ,GODMOT,- « - мотоцикла,"- ""- A motorcycle"
+2008,FZ,GODAVT,- « - легкового автомобиля,"- ""- A car"
+2008,FZ,GODGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2008,FZ,GODLOD,- « - моторной лодки,"- ""- A motor boat"
+2008,FZ,PC16,"Число членов домохозяйства, пользующихся компьютером в возрасте: до 16 лет",Number of household members who use a computer at Age: 16 years
+2008,FZ,PC35,"Число членов домохозяйства, пользующихся компьютером в возрасте: 16 – 35 лет",Number of household members who use a computer at the age of 16 - 35 years
+2008,FZ,PC55,"Число членов домохозяйства, пользующихся компьютером в возрасте: 36 - 55 лет",Number of household members who use a computer at the age of 36 - 55 years
+2008,FZ,PC74,"Число членов домохозяйства, пользующихся компьютером в возрасте: 56 лет и старше",Number of household members who use a computer at the age of 56 years and older
+2008,FZ,DOSINT,Наличие доступа в Интернет,Having access to the Internet
+2008,FZ,INTPS,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: персональный компьютер,View available household devices to access the Internet: PC
+2008,FZ,INTKPS,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: карманный компьютер,View available household devices to access the Internet: handheld computer
+2008,FZ,INTTEL,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: телевизор со специальным устройством,View available household devices to access the Internet: TV with a special device
+2008,FZ,INTMOB,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: мобильный телефон,View available household devices to access the Internet: mobile phone
+2008,FZ,INTIGR,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: игровая приставка,View available household devices to access the Internet: game console
+2008,FZ,INTNET,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: не указан,View available household devices to access the Internet: Unknown
+2008,FZ,PINT16,"Число членов домохозяйства в возрасте до 16 лет, пользующихся Интернет постоянно",Number of household members under the age of 16 years who use the Internet constantly
+2008,FZ,PINT35,"Число членов домохозяйства в возрасте 16 – 35 лет, пользующихся Интернет постоянно",Number of household members aged 16 - 35 years who use the Internet constantly
+2008,FZ,PINT55,"Число членов домохозяйства в возрасте 36 - 55 лет, пользующихся Интернет постоянно",Number of household members aged 36 - 55 years old who use the Internet constantly
+2008,FZ,PINT74,"Число членов домохозяйства в возрасте 56 – 74 лет, пользующихся Интернет постоянно",Number of household members aged 56 - 74 years who use the Internet constantly
+2008,FZ,SINT16,"Число членов домохозяйства в возрасте до 16 лет, пользующихся Интернет от случая к случаю","Number of household members under the age of 16 years, using the Internet from time to time"
+2008,FZ,SINT35,"Число членов домохозяйства в возрасте 16 – 35 лет, пользующихся Интернет от случая к случаю",Number of household members aged 16 - 35 years old who access the Internet from time to time
+2008,FZ,SINT55,"Число членов домохозяйства в возрасте 36 - 55 лет, пользующихся Интернет от случая к случаю",Number of household members aged 36 - 55 years old who access the Internet from time to time
+2008,FZ,SINT74,"Число членов домохозяйства в возрасте 56 – 74 лет, пользующихся Интернет от случая к случаю",Number of household members aged 56 - 74 years old who access the Internet from time to time
+2008,FZ,FINPOL,Определение финансового положения домохозяйства,Determination of the financial situation of the household
+2008,FZ,OCHXOR,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: очень хорошо",The amount of money necessary for your household to live: very good
+2008,FZ,XOROSHO,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: хорошо",The amount of money necessary for your household to live: good
+2008,FZ,UDOVL,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: удовлетворительно",The amount of money necessary for your household to live: Satisfactory
+2007,FG,PER,Период разработки,development period
+2007,FG,TER,Шифр территории,cipher territory
+2007,FG,MEST,Тип населенного пункта,Type of settlement
+2007,FG,BUD,Номер бюджета,number budget
+2007,FG,GIL,Условия проживания,living conditions
+2007,FG,SOBGIL,Собственник жилья,homeowners
+2007,FG,OBPL,Общая площадь жилища,The total area of the dwelling
+2007,FG,CHISKOM,Число комнат,number of rooms
+2007,FG,IZOLKOM,Число изолированных комнат,The number of separate rooms
+2007,FG,RAZMGIL,Мнение о размере жилья,Opinion on the amount of property
+2007,FG,KUHNY,Наличие благоустройства в жилище: кухня,The presence in the home improvement kitchen
+2007,FG,VANNA,Наличие благоустройства в жилище: ванна,The presence in the home improvement bathtub
+2007,FG,TUALET,Наличие благоустройства в жилище: туалет,The presence of improvement in housing: toilet
+2007,FG,ELEKT,Наличие благоустройства в жилище: электричество,The presence of improvement in housing: electricity
+2007,FG,ELEKTPL,Наличие благоустройства в жилище: электроплита напольная,The presence of improvement in housing: electric floor
+2007,FG,GAZM,Наличие благоустройства в жилище: газ сетевой,The presence of improvement in housing: gas network
+2007,FG,GAZS,Наличие благоустройства в жилище: газ сжиженный,The presence of improvement in housing: liquefied gas
+2007,FG,MUSOR,Наличие благоустройства в жилище: мусоропровод,The presence of improvement in housing: a garbage disposal
+2007,FG,TELEF,Наличие благоустройства в жилище: телефон квартирный,The presence of improvement in housing: apartment phone
+2007,FG,VODOPR,Наличие благоустройства в жилище: Тип водопровода,The presence of improvement in housing: Type of water supply
+2007,FG,VODA,Наличие благоустройства в жилище: Источник питьевой воды,The presence of improvement in housing: Source of drinking water
+2007,FG,GORVODO,Наличие благоустройства в жилище: Тип горячего водоснабжения,The presence of improvement in housing: Hot water type
+2007,FG,KANALO,Наличие благоустройства в жилище: Тип канализации,The presence of improvement in housing: Sewage
+2007,FG,OTOPL,Наличие благоустройства в жилище: Тип отопления,The presence of improvement in housing: Type of heating
+2007,FG,TOPLIVO,Наличие благоустройства в жилище: Основной вид топлива для отопления,The presence of improvement in housing: The main type of heating fuel
+2007,FG,OBESTOP,Наличие благоустройства в жилище: Обеспеченность топливом,The presence of improvement in housing: providing fuel
+2007,FG,PHOLVOD,Наличие перебоев с холодной водой,The presence of faults with cold water
+2007,FG,PGORVOD,Наличие перебоев горячей водой,The presence of faults with hot water
+2007,FG,PELEKTR,Наличие перебоев электроэнергией,Availability of power outages
+2007,FG,PTEPL,Наличие перебоев с теплом,The presence of faults with heat
+2007,FG,PPROGR,Наличие перебоев с приемом программ телевидения,The presence of faults with the reception of television programs
+2007,FG,PLIFT,Наличие перебоев с лифтовым обслуживанием,The presence of faults with elevator service
+2007,FG,RHOLVOD,Регулярность перебоев с холодной водой,Regularity of interruptions with cold water
+2007,FG,RGORVOD,Регулярность перебоев с горячей водой,Regularity of interruptions with hot water
+2007,FG,RELEKTR,Регулярность перебоев с электроэнергией,Regularity of power cuts
+2007,FG,RTEPL,Регулярность перебоев с теплом,Regularity of interruptions with heat
+2007,FG,RPROGR,Регулярность перебоев с приемом программ телевидения,Regularity of interruptions to the reception of television programs
+2007,FG,RLIFT,Регулярность перебоев с лифтовым обслуживанием,Regularity elevator service disruptions
+2007,FG,NTEKREM,Неудобства в проживании: необходимость текущего ремонта,"Inconvenience to stay, need for maintenance"
+2007,FG,NKAPREM,Неудобства в проживании: необходимость капитального ремонта,"Inconvenience to stay, the need for major repairs"
+2007,FG,XOLOD,Неудобства в проживании: недостаток тепла,"Inconvenience to stay, lack of heat"
+2007,FG,VLAG,Неудобства в проживании: избыток влажности,"Inconvenience to stay, excess humidity"
+2007,FG,TEMN,Неудобства в проживании: недостаток света,"Inconvenience to stay, the lack of light"
+2007,FG,NSANTEH,Неудобства в проживании: неполадки с сантехническим оборудованием,"Inconvenience to stay, problems with sanitary equipment"
+2007,FG,NELEKTR,Неудобства в проживании: неисправность электропроводки,Inconvenience to stay wiring
+2007,FG,SHUMIZO,Неудобства в проживании: плохая шумоизоляция,Inconvenience to stay poor noise insulation
+2007,FG,GRYZ,Неудобства в проживании: загрязнение воздуха,"Inconvenience to stay, air pollution"
+2007,FG,PLVODA,Неудобства в проживании: плохое качество воды,Inconvenience to stay poor water quality
+2007,FG,PLOBTR,Неудобства в проживании: плохая работа общественного транспорта,Inconvenience to stay poor performance of public transport
+2007,FG,PLSVET,Неудобства в проживании: плохая освещенность улиц,"Inconvenience to stay, poorly lit streets"
+2007,FG,SHUMS,Неудобства в проживании: беспокойные соседи,Inconvenience to stay restless neighbors
+2007,FG,PLDR,Неудобства в проживании: другое,Inconvenience to stay another
+2007,FG,OCENGIL,Оценка жилищных условий,Assessment of living conditions
+2007,FG,ULUCHG,Намерение улучшить жилье,Intention to improve housing
+2007,FG,UCHET,Способы улучшения жилищных условий: состояние на учете как нуждающиеся в улучшении жилищных условий,Ways to improve the living conditions: the state registered as needing to improve their living conditions
+2007,FG,KUPGIL,Способы улучшения жилищных условий: покупка нового жилья,Ways to improve the living conditions: the purchase of new housing
+2007,FG,KUPGILD,Способы улучшения жилищных условий: покупка дополнительного жилья,Ways to improve the living conditions: the purchase of additional housing
+2007,FG,NASLED,Способы улучшения жилищных условий: получение наследства,Ways to improve their housing conditions: inheritance
+2007,FG,STRGIL,Способы улучшения жилищных условий: строительство нового дома,Ways to improve the living conditions: the construction of a new home
+2007,FG,DRPRICH,Способы улучшения жилищных условий: другой способ ,Ways to improve the living conditions: the other way
+2007,FG,PRODMAG,Шаговая доступность продовольственного магазина,Walking distance grocery store
+2007,FG,PROMMAG,Шаговая доступность магазина непродовольственных товаров,Walking distance of shops non-food items
+2007,FG,POCHTA,Шаговая доступность почтового отделения,Walking distance of the post office
+2007,FG,SBERB,Шаговая доступность отделения Сбербанка,Walking distance branch of the Savings Bank
+2007,FG,APTEKA,Шаговая доступность аптеки,Stepping accessibility pharmacy
+2007,FG,POLIKV,Шаговая доступность поликлиники для взрослых,Stepping accessibility clinics for adults
+2007,FG,POLIKD,Шаговая доступность детской поликлиники,Stepping accessibility of child health clinics
+2007,FG,SHKOLA,Шаговая доступность общеобразовательного учреждения,Stepping accessibility of educational institution
+2007,FG,DETSAD,Шаговая доступность детского сада,Stepping accessibility kindergarten
+2007,FG,PENFOND,Шаговая доступность отделения Пенсионного фонда,Walking distance separating the Pension Fund
+2007,FG,SOCZA,Шаговая доступность отдела социальной защиты,Stepping accessibility of social protection
+2007,FG,NOTAR,Шаговая доступность нотариальной конторы,Stepping accessibility notary office
+2007,FG,URIST,Шаговая доступность юридической консультации,Stepping accessibility of legal advice
+2007,FG,TPRODMAG,Затраты времени на поездку до продовольственного магазина,Time spent on a trip to the grocery store
+2007,FG,TPROMMAG,Затраты времени на поездку до магазина непродовольственных товаров,Time spent on a trip to the store non-food items
+2007,FG,TPOCHTA,Затраты времени на поездку до почтового отделения,Time spent on a trip to the post office
+2007,FG,TSBERB,Затраты времени на поездку до отделения Сбербанка,Time spent on a trip to the branch of the Savings Bank
+2007,FG,TAPTEKA,Затраты времени на поездку до аптеки,Time spent on a trip to the pharmacy
+2007,FG,TPOLIKV,Затраты времени на поездку до поликлиники для взрослых,Time spent on a trip to the clinic for adults
+2007,FG,TPOLIKD,Затраты времени на поездку до детской поликлиники,Time spent on a trip to the children's clinic
+2007,FG,TSHKOLA,Затраты времени на поездку до общеобразовательного учреждения,Time spent on a trip to the educational institution
+2007,FG,TDETSAD,Затраты времени на поездку до детского сада,The time spent on the trip to kindergarten
+2007,FG,TPENFOND,Затраты времени на поездку до отделения Пенсионного фонда,Time spent on a trip to the branch of the Pension Fund
+2007,FG,TSOCZA,Затраты времени на поездку до отдела социальной защиты,Time spent on a trip to the Department of Social Protection
+2007,FG,TNOTAR,Затраты времени на поездку до нотариальной конторы,Time spent on a trip to the notary office
+2007,FG,TURIST,Затраты времени на поездку до юридической консультации,Time spent on a trip to legal advice
+2007,FZ,PER,Период разработки,development period
+2007,FZ,TER,Шифр территории,cipher territory
+2007,FZ,MEST,Тип населенного пункта,Type of settlement
+2007,FZ,BUD,Номер бюджета,number budget
+2007,FZ,NALTELC,Количество цветных телевизоров,Number of color televisions
+2007,FZ,NALTEL,- « - черно-белых телевизоров,"- ""- Black and white TVs"
+2007,FZ,NALVID,- « - видеомагнитофонов,"- ""- VCR"
+2007,FZ,NALDVD,- « - DVD-плеер,- «- DVD-player
+2007,FZ,NALVIDCM,- « - видеокамер,"- ""- Camcorders"
+2007,FZ,NALRADIO,- « - радиоприемников,"- ""- Radio"
+2007,FZ,NALMUZC,- « - музыкальных центров,"- ""- Stereo"
+2007,FZ,NALMAG,- « - магнитофонов,"- ""- Tape"
+2007,FZ,NALHOL,- « - холодильников,"- ""- Refrigerators"
+2007,FZ,NALMOR,- « - морозильников,"- ""- Freezers"
+2007,FZ,NALSTIR,- « - стиральных машин,"- ""- Washing machines"
+2007,FZ,NALMPH,- « - микроволновых печей,"- ""- Microwave ovens"
+2007,FZ,NALPMM,- « - посудомоечных машин,"- ""- Dishwasher"
+2007,FZ,NALPSOS,- « - электропылесосов,"- ""- Vacuum cleaners"
+2007,FZ,NALSHVE,- « - швейных машин,"- ""- Sewing machines"
+2007,FZ,NALVIAZ,- « - вязальных машин,"- ""- Knitting machines"
+2007,FZ,NALCOND,- « - кондиционеров,"- ""- Conditioners"
+2007,FZ,NALPC,- « - персональных компьютеров,"- ""- PC"
+2007,FZ,NALKPC,- « - карманных компьютеров,"- ""- PDAs"
+2007,FZ,NALMTEL,- « - мобильных телефонов,"- ""- Mobile phones"
+2007,FZ,NALVEL,- « - велосипедов,"- ""- Bike"
+2007,FZ,NALMOT,- « - мотоциклов,"- ""- Motorcycles"
+2007,FZ,NALAVT,- « - легковых автомобилей,"- ""- Cars"
+2007,FZ,NALGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2007,FZ,NALLOD,- « - моторных лодок,"- ""- Motorboats"
+2007,FZ,GODTELC,Год приобретения цветного телевизора,The year of acquisition color TV
+2007,FZ,GODTEL,- « - черно-белого телевизора,"- ""- Black-and-white television"
+2007,FZ,GODVID,- « - видеомагнитофона,"- ""- VCR"
+2007,FZ,GODDVD,- « - DVD-плеер,- «- DVD-player
+2007,FZ,GODVIDCM,- « - видеокамеры,"- ""- Camcorder"
+2007,FZ,GODRADIO,- « - радиоприемника,"- ""- Radio"
+2007,FZ,GODMUZC,- « - музыкального центра,"- ""- The music center"
+2007,FZ,GODMAG,- « - магнитофона,"- ""- Tape"
+2007,FZ,GODHOL,- « - холодильника,"- ""- Refrigerator"
+2007,FZ,GODMOR,- « - морозильника,"- ""- Freezer"
+2007,FZ,GODSTIR,- « - стиральной машины,"- ""- Washing machine"
+2007,FZ,GODMPH,- « - микроволновой печи,"- ""- Microwave"
+2007,FZ,GODPMM,- « - посудомоечной машины,"- ""- Dishwasher"
+2007,FZ,GODPSOS,- « - электропылесоса,"- ""- An electric vacuum"
+2007,FZ,GODSHVE,- « - швейной машины,"- ""- Sewing machine"
+2007,FZ,GODVIAZ,- « - вязальной машины,"- ""- Knitting machine"
+2007,FZ,GODCOND,- « - кондиционера,"- ""- The air conditioner"
+2007,FZ,GODPC,- « - персонального компьютера,"- ""- PC"
+2007,FZ,GODKPC,- « - карманных компьютеров,"- ""- PDAs"
+2007,FZ,GODMTEL,- « - мобильного телефона,"- ""- Mobile phone"
+2007,FZ,GODVEL,- « - велосипеда,"- ""- Bicycle"
+2007,FZ,GODMOT,- « - мотоцикла,"- ""- A motorcycle"
+2007,FZ,GODAVT,- « - легкового автомобиля,"- ""- A car"
+2007,FZ,GODGAVT,- « - грузовых автомобилей,"- ""- Trucks"
+2007,FZ,GODLOD,- « - моторной лодки,"- ""- A motor boat"
+2007,FZ,PC16,"Число членов домохозяйства, пользующихся компьютером в возрасте: до 16 лет",Number of household members who use a computer at Age: 16 years
+2007,FZ,PC35,"Число членов домохозяйства, пользующихся компьютером в возрасте: 16 – 35 лет",Number of household members who use a computer at the age of 16 - 35 years
+2007,FZ,PC55,"Число членов домохозяйства, пользующихся компьютером в возрасте: 36 - 55 лет",Number of household members who use a computer at the age of 36 - 55 years
+2007,FZ,PC74,"Число членов домохозяйства, пользующихся компьютером в возрасте: 56 лет и старше",Number of household members who use a computer at the age of 56 years and older
+2007,FZ,DOSINT,Наличие доступа в Интернет,Having access to the Internet
+2007,FZ,INTPS,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: персональный компьютер,View available household devices to access the Internet: PC
+2007,FZ,INTKPS,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: карманный компьютер,View available household devices to access the Internet: handheld computer
+2007,FZ,INTTEL,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: телевизор со специальным устройством,View available household devices to access the Internet: TV with a special device
+2007,FZ,INTMOB,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: мобильный телефон,View available household devices to access the Internet: mobile phone
+2007,FZ,INTIGR,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: игровая приставка,View available household devices to access the Internet: game console
+2007,FZ,INTNET,Вид имеющегося в домохозяйстве устройства для доступа в Интернет: не указан,View available household devices to access the Internet: Unknown
+2007,FZ,PINT16,"Число членов домохозяйства в возрасте до 16 лет, пользующихся Интернет постоянно",Number of household members under the age of 16 years who use the Internet constantly
+2007,FZ,PINT35,"Число членов домохозяйства в возрасте 16 – 35 лет, пользующихся Интернет постоянно",Number of household members aged 16 - 35 years who use the Internet constantly
+2007,FZ,PINT55,"Число членов домохозяйства в возрасте 36 - 55 лет, пользующихся Интернет постоянно",Number of household members aged 36 - 55 years old who use the Internet constantly
+2007,FZ,PINT74,"Число членов домохозяйства в возрасте 56 – 74 лет, пользующихся Интернет постоянно",Number of household members aged 56 - 74 years who use the Internet constantly
+2007,FZ,SINT16,"Число членов домохозяйства в возрасте до 16 лет, пользующихся Интернет от случая к случаю","Number of household members under the age of 16 years, using the Internet from time to time"
+2007,FZ,SINT35,"Число членов домохозяйства в возрасте 16 – 35 лет, пользующихся Интернет от случая к случаю",Number of household members aged 16 - 35 years old who access the Internet from time to time
+2007,FZ,SINT55,"Число членов домохозяйства в возрасте 36 - 55 лет, пользующихся Интернет от случая к случаю",Number of household members aged 36 - 55 years old who access the Internet from time to time
+2007,FZ,SINT74,"Число членов домохозяйства в возрасте 56 – 74 лет, пользующихся Интернет от случая к случаю",Number of household members aged 56 - 74 years old who access the Internet from time to time
+2007,FZ,FINPOL,Определение финансового положения домохозяйства,Determination of the financial situation of the household
+2007,FZ,OCHXOR,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: очень хорошо",The amount of money necessary for your household to live: very good
+2007,FZ,XOROSHO,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: хорошо",The amount of money necessary for your household to live: good
+2007,FZ,UDOVL,"Сумма денег необходимых Вашему домохозяйству для того, чтобы жить: удовлетворительно",The amount of money necessary for your household to live: Satisfactory
